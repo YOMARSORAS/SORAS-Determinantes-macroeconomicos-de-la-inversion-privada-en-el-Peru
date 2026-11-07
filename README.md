@@ -13,8 +13,8 @@
 | 2 — Descarga programática | BCRP — Encuesta de Expectativas Macroeconómicas | (por completar) |
 
 ## Parámetros
-- FECHA_INICIO: 2004-01
-- FECHA_CORTE: 2026-06
+- FECHA_INICIO: 2000-01
+- FECHA_CORTE: 2025-12
 
 ## Orden de ejecución
 1. `python codigo/01_extraccion_api.py`

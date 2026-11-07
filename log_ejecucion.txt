@@ -1,0 +1,33 @@
+2026-11-07 05:12:08,947 | INFO | 01_extraccion_api | ======================================================================
+2026-11-07 05:12:08,948 | INFO | 01_extraccion_api | Inicio | Python 3.13.18 | requests 2.32.4 | pandas 2.2.3
+2026-11-07 05:12:08,948 | INFO | 01_extraccion_api | Parámetros: FECHA_INICIO=2000-01 FECHA_CORTE=2025-12 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
+2026-11-07 05:12:09,506 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN02533AQ/json/2000-1/2025-4/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:09,506 | INFO | 01_extraccion_api | Se ignoraron 5378 caracteres añadidos después del JSON
+2026-11-07 05:12:09,526 | INFO | 01_extraccion_api | trimestral PN02533AQ: 104 registros recibidos
+2026-11-07 05:12:10,814 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01770AM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:10,815 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-07 05:12:10,838 | INFO | 01_extraccion_api | mensual PN01770AM: 312 registros recibidos
+2026-11-07 05:12:12,075 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07809NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:12,075 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-07 05:12:12,097 | INFO | 01_extraccion_api | mensual PN07809NM: 185 registros recibidos
+2026-11-07 05:12:13,393 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01206PM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:13,394 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-07 05:12:13,415 | INFO | 01_extraccion_api | mensual PN01206PM: 312 registros recibidos
+2026-11-07 05:12:14,660 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN38923BM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:14,661 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-07 05:12:14,682 | INFO | 01_extraccion_api | mensual PN38923BM: 312 registros recibidos
+2026-11-07 05:12:16,380 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07819NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:16,381 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-07 05:12:16,404 | INFO | 01_extraccion_api | mensual PN07819NM: 312 registros recibidos
+2026-11-07 05:12:17,668 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07807NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-07 05:12:17,668 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-07 05:12:17,691 | INFO | 01_extraccion_api | mensual PN07807NM: 312 registros recibidos
+2026-11-07 05:12:18,719 | INFO | 01_extraccion_api | Guardado datos_crudos_api_2024200530J.csv: 1849 filas x 5 columnas
+2026-11-07 05:12:18,725 | INFO | 01_extraccion_api | Resumen PN02533AQ -> inv_priv_real (trimestral) | BCRP: 'Producto bruto interno por tipo de gasto (millones S/ 2007) - Demanda Interna - Inversión Bruta Interna - Inversión Bruta Fija - Privada' | 104 periodos, 104 con dato, desde T1.00 hasta T4.25
+2026-11-07 05:12:18,726 | INFO | 01_extraccion_api | Resumen PN01770AM -> pbi_idx (mensual) | BCRP: 'Producto bruto interno y demanda interna (índice 2007 = 100) - PBI' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-07 05:12:18,727 | INFO | 01_extraccion_api | Resumen PN07809NM -> tasa_corp (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - Preferencial Corporativa a 90 días' | 185 periodos, 185 con dato, desde Ago.2010 hasta Dic.2025
+2026-11-07 05:12:18,728 | INFO | 01_extraccion_api | Resumen PN01206PM -> tc (mensual) | BCRP: 'Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-07 05:12:18,729 | INFO | 01_extraccion_api | Resumen PN38923BM -> tot (mensual) | BCRP: 'Términos de intercambio de comercio exterior (índice 2007 = 100) - Términos de Intercambio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-07 05:12:18,731 | INFO | 01_extraccion_api | Resumen PN07819NM -> aux_tasa_interb (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Tasa Interbancaria Promedio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-07 05:12:18,732 | INFO | 01_extraccion_api | Resumen PN07807NM -> aux_tamn (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-07 05:12:18,732 | INFO | 01_extraccion_api | Fin de 01_extraccion_api.py: OK
