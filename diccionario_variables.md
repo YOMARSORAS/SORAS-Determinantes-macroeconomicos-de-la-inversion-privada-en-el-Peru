@@ -10,4 +10,8 @@
 | aux_tasa_interb | AUXILIAR: tasa interbancaria promedio en MN (solo para retropolar tasa_corp) | % anual | Mensual | BCRPData (API) | PN07819NM — https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07819NM/json |
 | aux_tamn | AUXILIAR: TAMN, tasa activa promedio en MN (solo para retropolar tasa_corp) | % efectivo anual | Mensual | BCRPData (API), fuente SBS | PN07807NM — https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07807NM/json |
 
-_El índice de expectativas (Vía 2, XLSX de la Encuesta de Expectativas Macroeconómicas) se agrega en la Fase 3._
+| exp_eco_3m | Índice de expectativas de la economía a 3 meses (VARIABLE PRINCIPAL de expectativas; publicado desde abr-2002) | Índice (0–100; >50 = optimista) | Mensual | Encuesta de Expectativas Macroeconómicas, BCRP (scraping HTML) | PD38045AM — https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html |
+| exp_eco_12m | Índice de expectativas de la economía a 12 meses (robustez; desde jun-2008) | Índice (0–100; >50 = optimista) | Mensual | Encuesta de Expectativas Macroeconómicas, BCRP (scraping HTML) | PD37981AM — https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html |
+| exp_sector_3m | Índice de expectativas del sector a 3 meses (robustez; desde jun-2002) | Índice (0–100; >50 = optimista) | Mensual | Encuesta de Expectativas Macroeconómicas, BCRP (scraping HTML) | PD38046AM — https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html |
+
+_Vía 1 (API): series PN*. Vía 2 (scraping HTML): series PD*._

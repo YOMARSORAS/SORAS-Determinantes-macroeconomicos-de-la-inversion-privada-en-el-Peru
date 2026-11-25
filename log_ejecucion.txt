@@ -31,3 +31,171 @@
 2026-11-07 05:12:18,731 | INFO | 01_extraccion_api | Resumen PN07819NM -> aux_tasa_interb (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Tasa Interbancaria Promedio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
 2026-11-07 05:12:18,732 | INFO | 01_extraccion_api | Resumen PN07807NM -> aux_tamn (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
 2026-11-07 05:12:18,732 | INFO | 01_extraccion_api | Fin de 01_extraccion_api.py: OK
+2026-11-08 01:37:10,848 | INFO | 02_scraping_web | ======================================================================
+2026-11-08 01:37:11,267 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
+2026-11-08 01:37:11,519 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 403 | text/html | 940 bytes (intento 1)
+2026-11-08 01:37:13,545 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 403 | text/html | 942 bytes (intento 2)
+2026-11-08 01:37:17,566 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 403 | text/html | 942 bytes (intento 3)
+2026-11-08 01:37:25,567 | WARNING | 02_scraping_web | robots.txt de https://estadisticas.bcrp.gob.pe no disponible como texto; se procede con una sola descarga, pausada e identificada
+2026-11-08 01:37:25,601 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 403 | text/html | 942 bytes (intento 1)
+2026-11-08 01:37:27,624 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 403 | text/html | 941 bytes (intento 2)
+2026-11-08 01:37:31,647 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 403 | text/html | 941 bytes (intento 3)
+2026-11-08 01:37:39,656 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: No se pudo descargar la página de enlaces
+2026-11-08 01:53:30,706 | INFO | 02_scraping_web | ======================================================================
+2026-11-08 01:53:31,104 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
+2026-11-08 01:53:31,886 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
+2026-11-08 01:53:34,386 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 2)
+2026-11-08 01:53:38,843 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 3)
+2026-11-08 01:53:46,844 | WARNING | 02_scraping_web | robots.txt de https://estadisticas.bcrp.gob.pe no disponible como texto; se procede con una sola descarga, pausada e identificada
+2026-11-08 01:53:47,887 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
+2026-11-08 01:53:50,119 | INFO | 02_scraping_web | Enlaces .xlsx encontrados en la página: 4
+2026-11-08 01:53:50,120 | INFO | 02_scraping_web |    - 'Inflación' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx
+2026-11-08 01:53:50,120 | INFO | 02_scraping_web |    - 'Producto Bruto Interno' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx
+2026-11-08 01:53:50,120 | INFO | 02_scraping_web |    - 'Tipo de Cambio' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx
+2026-11-08 01:53:50,121 | INFO | 02_scraping_web |    - 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
+2026-11-08 01:53:50,121 | INFO | 02_scraping_web | Enlace seleccionado: 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
+2026-11-08 01:53:50,855 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
+2026-11-08 01:53:52,856 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
+2026-11-08 01:53:52,881 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html; charset=UTF-8 | 5996 bytes (intento 1)
+2026-11-08 01:53:55,568 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: La respuesta no es un archivo Excel (posible bloqueo anti-bot)
+2026-11-08 02:01:38,399 | INFO | 02_scraping_web | ======================================================================
+2026-11-08 02:01:38,401 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
+2026-11-08 02:01:39,211 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 1)
+2026-11-08 02:01:41,675 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 2)
+2026-11-08 02:01:46,159 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 3)
+2026-11-08 02:01:54,161 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
+2026-11-08 02:01:55,243 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40057 bytes (intento 1)
+2026-11-08 02:01:57,459 | INFO | 02_scraping_web | Enlaces .xlsx encontrados en la página: 4
+2026-11-08 02:01:57,459 | INFO | 02_scraping_web |    - 'Inflación' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx
+2026-11-08 02:01:57,460 | INFO | 02_scraping_web |    - 'Producto Bruto Interno' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx
+2026-11-08 02:01:57,460 | INFO | 02_scraping_web |    - 'Tipo de Cambio' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx
+2026-11-08 02:01:57,460 | INFO | 02_scraping_web |    - 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
+2026-11-08 02:01:57,460 | INFO | 02_scraping_web | Enlace seleccionado: 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
+2026-11-08 02:01:58,253 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
+2026-11-08 02:02:00,254 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
+2026-11-08 02:02:00,281 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html; charset=UTF-8 | 5996 bytes (intento 1)
+2026-11-08 02:02:02,292 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: Con requests la respuesta no es Excel (verificación anti-bot con JavaScript); se intenta con navegador automatizado
+2026-11-08 02:10:16,249 | INFO | 02_scraping_web | ======================================================================
+2026-11-08 02:10:16,252 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
+2026-11-08 02:10:16,887 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
+2026-11-08 02:10:19,367 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 950 bytes (intento 2)
+2026-11-08 02:10:23,822 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 3)
+2026-11-08 02:10:31,823 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
+2026-11-08 02:10:32,844 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
+2026-11-08 02:10:35,066 | INFO | 02_scraping_web | Enlaces .xlsx encontrados en la página: 4
+2026-11-08 02:10:35,067 | INFO | 02_scraping_web |    - 'Inflación' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx
+2026-11-08 02:10:35,067 | INFO | 02_scraping_web |    - 'Producto Bruto Interno' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx
+2026-11-08 02:10:35,067 | INFO | 02_scraping_web |    - 'Tipo de Cambio' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx
+2026-11-08 02:10:35,068 | INFO | 02_scraping_web |    - 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
+2026-11-08 02:10:35,068 | INFO | 02_scraping_web | Enlace seleccionado: 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
+2026-11-08 02:10:35,696 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
+2026-11-08 02:10:37,697 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
+2026-11-08 02:10:37,724 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html; charset=UTF-8 | 5996 bytes (intento 1)
+2026-11-08 02:10:39,738 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: Con requests la respuesta no es Excel (verificación anti-bot con JavaScript); se intenta con navegador automatizado
+2026-11-08 02:10:41,045 | INFO | 02_scraping_web | Navegador: portada https://www.bcrp.gob.pe/ -> HTTP 200
+2026-11-08 02:10:49,164 | INFO | 02_scraping_web | Navegador (petición): HTTP 200 | 1049 bytes | Excel=False
+2026-11-08 02:12:19,242 | WARNING | 02_scraping_web | Navegador (descarga) falló: Timeout 90000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+
+2026-11-08 02:12:21,341 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: El navegador automatizado tampoco obtuvo el Excel
+2026-11-08 02:29:36,859 | INFO | 02_scraping_web | ======================================================================
+2026-11-08 02:29:36,861 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
+2026-11-08 02:29:37,475 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
+2026-11-08 02:29:39,476 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
+2026-11-08 02:29:40,544 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
+2026-11-08 02:29:42,961 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
+2026-11-08 02:29:42,961 | INFO | 02_scraping_web |    serie PD38041AM: Índice de venta respecto al mes anterior
+2026-11-08 02:29:42,961 | INFO | 02_scraping_web |    serie PD38042AM: Índice de inventarios respecto al mes anterior
+2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
+2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38044AM: Índice de la situación actual del negocio
+2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38045AM: Índice de expectativas de la economía a 3 meses
+2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38046AM: Índice de expectativas del sector a 3 meses
+2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38047AM: Índice de expectativas de la demanda a 3 meses
+2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD37981AM: Índice de expectativas de la economía a 12 meses
+2026-11-08 02:29:42,963 | INFO | 02_scraping_web |    serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
+2026-11-08 02:29:42,963 | INFO | 02_scraping_web |    serie PD39752AM: Índice de expectativas del sector a 12 meses
+2026-11-08 02:29:43,354 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1157 bytes (intento 1)
+2026-11-08 02:29:45,368 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa la descarga Excel de BCRPData
+2026-11-08 02:29:46,311 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95240 bytes (intento 1)
+2026-11-08 02:29:48,882 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
+2026-11-08 02:29:49,235 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD38045AM/xls/2000-1/2025-12 -> HTTP 200 | application/vnd.ms-excel | 25794 bytes (intento 1)
+2026-11-08 02:29:51,354 | WARNING | 02_scraping_web | PD38045AM: no se pudo leer el Excel (Workbook corruption: seen[2] == 4)
+2026-11-08 02:29:51,355 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | Excel (xls): 0 periodos
+2026-11-08 02:29:52,124 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81642 bytes (intento 1)
+2026-11-08 02:29:54,748 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
+2026-11-08 02:29:55,099 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD37981AM/xls/2000-1/2025-12 -> HTTP 200 | application/vnd.ms-excel | 22210 bytes (intento 1)
+2026-11-08 02:29:57,111 | WARNING | 02_scraping_web | PD37981AM: no se pudo leer el Excel (Workbook corruption: seen[2] == 4)
+2026-11-08 02:29:57,112 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | Excel (xls): 0 periodos
+2026-11-08 02:29:57,879 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94842 bytes (intento 1)
+2026-11-08 02:30:00,477 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
+2026-11-08 02:30:00,820 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD38046AM/xls/2000-1/2025-12 -> HTTP 200 | application/vnd.ms-excel | 25794 bytes (intento 1)
+2026-11-08 02:30:02,833 | WARNING | 02_scraping_web | PD38046AM: no se pudo leer el Excel (Workbook corruption: seen[2] == 4)
+2026-11-08 02:30:02,833 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | Excel (xls): 0 periodos
+2026-11-08 02:30:02,872 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
+2026-11-08 02:30:02,883 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
+2026-11-08 02:30:02,883 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
+2026-11-08 02:30:02,884 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
+2026-11-08 02:30:02,884 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
+2026-11-08 02:47:38,817 | INFO | 02_scraping_web | ======================================================================
+2026-11-08 02:47:38,819 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
+2026-11-08 02:47:39,616 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 1)
+2026-11-08 02:47:41,617 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
+2026-11-08 02:47:42,681 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
+2026-11-08 02:47:44,905 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
+2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38041AM: Índice de venta respecto al mes anterior
+2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38042AM: Índice de inventarios respecto al mes anterior
+2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
+2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38044AM: Índice de la situación actual del negocio
+2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD38045AM: Índice de expectativas de la economía a 3 meses
+2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD38046AM: Índice de expectativas del sector a 3 meses
+2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD38047AM: Índice de expectativas de la demanda a 3 meses
+2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD37981AM: Índice de expectativas de la economía a 12 meses
+2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
+2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD39752AM: Índice de expectativas del sector a 12 meses
+2026-11-08 02:47:45,527 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
+2026-11-08 02:47:47,529 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
+2026-11-08 02:47:47,559 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1168 bytes (intento 1)
+2026-11-08 02:47:49,573 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa el scraping de las tablas HTML de BCRPData
+2026-11-08 02:47:50,323 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95239 bytes (intento 1)
+2026-11-08 02:47:52,912 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
+2026-11-08 02:47:53,683 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81642 bytes (intento 1)
+2026-11-08 02:47:56,019 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
+2026-11-08 02:47:56,792 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94842 bytes (intento 1)
+2026-11-08 02:47:59,816 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
+2026-11-08 02:47:59,857 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
+2026-11-08 02:47:59,862 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
+2026-11-08 02:47:59,863 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
+2026-11-08 02:47:59,864 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
+2026-11-08 02:47:59,864 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
+2026-11-25 03:30:28,846 | INFO | 02_scraping_web | ======================================================================
+2026-11-25 03:30:29,212 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
+2026-11-25 03:30:29,769 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
+2026-11-25 03:30:31,769 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
+2026-11-25 03:30:32,683 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40057 bytes (intento 1)
+2026-11-25 03:30:34,943 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
+2026-11-25 03:30:34,943 | INFO | 02_scraping_web |     serie PD38041AM: Índice de venta respecto al mes anterior
+2026-11-25 03:30:34,943 | INFO | 02_scraping_web |     serie PD38042AM: Índice de inventarios respecto al mes anterior
+2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
+2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38044AM: Índice de la situación actual del negocio
+2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38045AM: Índice de expectativas de la economía a 3 meses
+2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38046AM: Índice de expectativas del sector a 3 meses
+2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38047AM: Índice de expectativas de la demanda a 3 meses
+2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD37981AM: Índice de expectativas de la economía a 12 meses
+2026-11-25 03:30:34,945 | INFO | 02_scraping_web |     serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
+2026-11-25 03:30:34,945 | INFO | 02_scraping_web |     serie PD39752AM: Índice de expectativas del sector a 12 meses
+2026-11-25 03:30:35,371 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
+2026-11-25 03:30:37,376 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
+2026-11-25 03:30:37,409 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1161 bytes (intento 1)
+2026-11-25 03:30:39,699 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa el scraping de las tablas HTML de BCRPData
+2026-11-25 03:30:40,360 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95238 bytes (intento 1)
+2026-11-25 03:30:43,023 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
+2026-11-25 03:30:43,668 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81641 bytes (intento 1)
+2026-11-25 03:30:46,053 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
+2026-11-25 03:30:46,738 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94842 bytes (intento 1)
+2026-11-25 03:30:49,839 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
+2026-11-25 03:30:49,889 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
+2026-11-25 03:30:49,903 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
+2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
+2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
+2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK

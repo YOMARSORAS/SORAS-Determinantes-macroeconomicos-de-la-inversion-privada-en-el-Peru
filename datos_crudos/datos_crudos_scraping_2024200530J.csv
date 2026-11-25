@@ -1,0 +1,810 @@
+codigo_serie,variable,nombre_serie,periodo,valor,fuente
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr02,60.09,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May02,61.09,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun02,49.39,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul02,56.23,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago02,57.16,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep02,57.62,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct02,60.27,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov02,65.92,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic02,71.19,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene03,70.94,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb03,66.91,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar03,60.03,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr03,65.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May03,52.96,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun03,54.86,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul03,56.06,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago03,57.75,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep03,57.49,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct03,60.21,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov03,58.68,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic03,59.02,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene04,54.52,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb04,57.23,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar04,56.51,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr04,57.86,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May04,56.23,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun04,56.21,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul04,57.35,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago04,62.31,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep04,61.72,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct04,63.13,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov04,63.29,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic04,62.92,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene05,62.99,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb05,62.58,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar05,62.68,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr05,63.75,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May05,64.20,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun05,63.61,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul05,65.07,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago05,63.73,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep05,67.44,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct05,64.47,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov05,63.46,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic05,56.43,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene06,52.03,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb06,57.23,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar06,53.36,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr06,52.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May06,62.24,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun06,65.33,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul06,67.34,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago06,70.06,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep06,68.90,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct06,70.23,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov06,72.67,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic06,72.19,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene07,72.12,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb07,72.51,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar07,72.91,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr07,74.31,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May07,71.54,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun07,71.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul07,70.17,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago07,68.95,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep07,69.97,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct07,71.26,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov07,71.65,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic07,75.34,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene08,70.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb08,71.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar08,67.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr08,69.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May08,74.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun08,71.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul08,67.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago08,61.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep08,56.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct08,44.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov08,47.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic08,32.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene09,35.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb09,38.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar09,33.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr09,39.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May09,53.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun09,51.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul09,53.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago09,63.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep09,61.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct09,66.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov09,67.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic09,69.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene10,71.62,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb10,71.91,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar10,70.85,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr10,73.80,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May10,70.54,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun10,74.64,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul10,71.06,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago10,71.04,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep10,70.49,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct10,70.75,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov10,69.82,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic10,67.71,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene11,66.04,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb11,65.20,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar11,64.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr11,46.07,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May11,49.01,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun11,46.64,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul11,50.88,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago11,50.70,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep11,52.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct11,58.49,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov11,57.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic11,55.79,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene12,57.33,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb12,59.52,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar12,63.54,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr12,64.98,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May12,59.82,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun12,57.22,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul12,56.15,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago12,59.12,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep12,60.81,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct12,63.95,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov12,64.33,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic12,64.13,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene13,66.67,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb13,66.31,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar13,64.56,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr13,59.73,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May13,54.11,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun13,51.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul13,50.32,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago13,47.61,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep13,53.24,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct13,54.50,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov13,54.08,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic13,58.70,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene14,59.28,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb14,60.20,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar14,53.85,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr14,54.21,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May14,52.86,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun14,49.72,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul14,50.59,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago14,48.46,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep14,53.99,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct14,52.99,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov14,55.25,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic14,53.10,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene15,54.23,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb15,50.16,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar15,49.39,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr15,46.74,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May15,45.07,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun15,50.63,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul15,46.72,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago15,42.22,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep15,43.22,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct15,44.97,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov15,44.81,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic15,44.60,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene16,42.51,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb16,46.68,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar16,46.40,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr16,54.17,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May16,53.44,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun16,54.35,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul16,60.98,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago16,61.98,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep16,62.35,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct16,60.82,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov16,58.36,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic16,57.26,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene17,56.68,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb17,54.62,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar17,43.81,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr17,53.57,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May17,54.15,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun17,53.05,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul17,54.80,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago17,56.27,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep17,60.14,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct17,64.14,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov17,62.61,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic17,53.65,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene18,58.54,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb18,54.94,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar18,53.54,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr18,58.56,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May18,59.73,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun18,57.80,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul18,58.97,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago18,58.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep18,55.13,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct18,52.38,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov18,55.45,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic18,58.30,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene19,58.12,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb19,58.49,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar19,59.60,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr19,55.86,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May19,52.91,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun19,49.85,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul19,49.11,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago19,45.24,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep19,46.80,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct19,47.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov19,49.70,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic19,50.77,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene20,52.92,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb20,48.19,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar20,21.81,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr20,9.14,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May20,14.34,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun20,28.78,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul20,34.79,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago20,38.12,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep20,46.57,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct20,50.16,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov20,52.81,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic20,49.50,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene21,41.18,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb21,44.22,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar21,51.18,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr21,39.72,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May21,44.84,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun21,39.47,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul21,42.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago21,33.56,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep21,35.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct21,42.52,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov21,40.11,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic21,41.22,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene22,44.48,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb22,44.52,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar22,38.99,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr22,34.91,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May22,36.06,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun22,34.12,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul22,34.29,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago22,35.56,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep22,36.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct22,35.74,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov22,37.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic22,42.36,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene23,31.88,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb23,41.49,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar23,42.91,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr23,43.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May23,44.51,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun23,42.78,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul23,44.49,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago23,44.06,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep23,40.41,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct23,38.70,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov23,37.59,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic23,41.18,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene24,43.84,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb24,47.18,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar24,50.80,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr24,50.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May24,47.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun24,50.37,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul24,51.14,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago24,51.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep24,51.77,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct24,51.74,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov24,50.58,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic24,50.00,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene25,52.59,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb25,54.55,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar25,53.93,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr25,52.13,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May25,53.97,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun25,52.90,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul25,54.55,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago25,54.43,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep25,55.63,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct25,55.89,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Nov25,58.18,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Dic25,55.31,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ene26,56.53,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Feb26,50.19,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Mar26,52.02,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Abr26,44.59,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,May26,46.21,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jun26,55.50,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Jul26,62.27,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Ago26,57.31,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Sep26,56.83,html_bcrpdata
+PD38045AM,exp_eco_3m,Índice de expectativas de la economía a 3 meses,Oct26,49.52,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun08,81.29,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul08,74.92,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago08,70.69,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep08,63.60,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct08,48.95,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov08,50.15,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic08,35.40,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene09,41.64,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb09,42.42,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar09,41.52,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr09,50.52,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May09,66.45,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun09,67.94,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul09,71.18,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago09,75.47,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep09,77.72,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct09,79.80,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov09,81.17,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic09,84.59,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene10,86.63,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb10,85.16,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar10,83.85,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr10,83.97,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May10,79.36,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun10,81.87,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul10,80.73,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago10,77.72,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep10,77.70,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct10,78.84,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov10,77.68,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic10,74.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene11,75.09,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb11,75.18,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar11,73.22,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr11,51.15,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May11,56.73,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun11,52.66,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul11,57.02,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago11,54.30,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep11,55.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct11,60.94,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov11,60.50,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic11,59.43,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene12,62.17,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb12,66.77,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar12,70.79,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr12,73.48,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May12,67.40,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun12,64.53,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul12,62.47,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago12,63.41,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep12,66.24,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct12,67.19,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov12,68.38,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic12,72.60,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene13,74.61,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb13,74.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar13,71.92,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr13,64.46,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May13,57.41,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun13,55.41,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul13,53.66,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago13,52.22,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep13,60.66,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct13,61.59,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov13,64.13,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic13,65.76,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene14,67.00,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb14,66.14,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar14,58.65,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr14,60.91,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May14,58.94,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun14,57.81,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul14,60.81,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago14,60.31,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep14,64.11,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct14,63.86,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov14,62.93,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic14,63.13,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene15,65.19,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb15,60.53,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar15,56.06,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr15,55.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May15,53.84,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun15,55.41,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul15,54.06,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago15,49.26,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep15,50.64,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct15,53.14,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov15,55.13,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic15,56.01,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene16,56.09,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb16,59.08,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar16,59.59,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr16,67.56,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May16,66.53,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun16,67.96,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul16,74.59,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago16,74.78,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep16,75.08,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct16,74.30,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov16,73.20,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic16,70.14,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene17,67.95,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb17,65.98,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar17,58.08,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr17,66.36,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May17,65.27,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun17,64.60,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul17,68.65,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago17,71.04,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep17,75.57,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct17,77.45,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov17,76.10,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic17,68.98,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene18,70.73,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb18,63.55,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar18,66.08,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr18,69.22,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May18,70.33,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun18,68.67,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul18,68.60,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago18,69.93,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep18,68.59,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct18,64.61,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov18,67.75,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic18,70.28,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene19,69.42,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb19,69.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar19,69.96,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr19,66.91,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May19,62.79,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun19,59.35,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul19,57.91,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago19,53.39,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep19,57.40,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct19,57.40,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov19,60.47,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic19,61.47,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene20,61.33,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb20,56.78,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar20,41.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr20,30.45,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May20,38.08,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun20,53.13,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul20,53.52,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago20,57.99,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep20,66.21,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct20,68.49,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov20,69.31,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic20,65.43,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene21,61.11,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb21,60.73,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar21,65.64,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr21,51.55,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May21,55.00,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun21,47.05,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul21,47.96,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago21,43.48,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep21,44.53,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct21,50.97,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov21,47.32,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic21,48.62,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene22,55.11,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb22,52.73,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar22,46.69,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr22,40.26,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May22,42.28,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun22,40.46,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul22,42.99,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago22,42.64,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep22,42.86,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct22,43.49,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov22,43.32,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic22,53.98,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene23,46.63,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb23,51.89,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar23,51.89,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr23,53.68,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May23,56.30,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun23,51.18,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul23,53.94,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago23,55.70,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep23,51.96,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct23,49.80,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov23,50.00,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic23,55.36,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene24,53.50,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb24,61.65,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar24,59.00,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr24,60.04,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May24,55.33,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun24,59.30,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul24,58.63,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago24,58.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep24,56.91,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct24,60.32,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov24,59.11,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic24,56.52,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene25,58.21,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb25,60.66,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar25,58.08,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr25,57.90,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May25,56.89,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun25,56.64,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul25,58.31,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago25,60.15,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep25,61.09,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct25,60.95,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Nov25,63.90,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Dic25,64.54,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ene26,64.81,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Feb26,59.73,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Mar26,59.96,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Abr26,51.16,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,May26,55.86,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jun26,68.55,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Jul26,72.07,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Ago26,68.11,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Sep26,67.56,html_bcrpdata
+PD37981AM,exp_eco_12m,Índice de expectativas de la economía a 12 meses,Oct26,63.09,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun02,56.15,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul02,58.43,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago02,62.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep02,63.27,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct02,62.05,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov02,65.67,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic02,68.84,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene03,71.01,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb03,66.62,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar03,66.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr03,64.96,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May03,59.50,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun03,56.25,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul03,59.82,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago03,60.90,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep03,64.97,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct03,61.39,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov03,59.58,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic03,61.32,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene04,62.31,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb04,61.04,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar04,63.19,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr04,61.83,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May04,60.60,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun04,59.90,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul04,59.96,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago04,62.42,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep04,65.14,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct04,64.20,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov04,66.35,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic04,65.30,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene05,64.39,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb05,64.50,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar05,64.60,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr05,65.54,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May05,63.28,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun05,63.28,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul05,64.56,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago05,65.52,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep05,69.23,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct05,65.16,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov05,62.95,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic05,63.30,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene06,62.61,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb06,65.04,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar06,58.04,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr06,59.06,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May06,65.04,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun06,66.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul06,68.03,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago06,70.20,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep06,68.06,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct06,67.94,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov06,70.00,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic06,70.36,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene07,71.45,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb07,73.18,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar07,72.21,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr07,73.89,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May07,72.74,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun07,70.53,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul07,73.21,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago07,71.93,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep07,71.99,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct07,68.62,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov07,72.19,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic07,73.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene08,73.49,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb08,73.49,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar08,68.81,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr08,69.44,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May08,70.64,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun08,70.68,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul08,65.25,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago08,62.99,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep08,60.06,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct08,47.30,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov08,46.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic08,36.24,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene09,39.18,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb09,43.06,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar09,39.79,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr09,41.87,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May09,52.97,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun09,52.10,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul09,51.72,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago09,60.66,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep09,59.89,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct09,62.60,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov09,64.29,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic09,65.07,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene10,66.50,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb10,68.58,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar10,67.29,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr10,67.63,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May10,66.78,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun10,68.80,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul10,67.01,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago10,67.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep10,67.71,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct10,67.18,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov10,64.11,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic10,64.47,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene11,64.77,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb11,64.65,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar11,64.26,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr11,51.64,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May11,52.14,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun11,48.94,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul11,53.52,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago11,52.82,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep11,55.38,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct11,58.11,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov11,57.21,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic11,56.64,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene12,58.03,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb12,61.49,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar12,62.54,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr12,61.82,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May12,57.79,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun12,56.96,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul12,56.04,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago12,58.39,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep12,60.48,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct12,62.42,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov12,61.71,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic12,62.22,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene13,63.21,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb13,63.26,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar13,61.97,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr13,57.91,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May13,55.65,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun13,51.83,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul13,51.27,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago13,50.95,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep13,54.91,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct13,57.25,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov13,57.75,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic13,58.86,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene14,60.95,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb14,59.51,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar14,55.70,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr14,56.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May14,53.95,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun14,53.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul14,51.63,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago14,52.53,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep14,56.33,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct14,54.65,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov14,54.75,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic14,54.76,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene15,55.80,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb15,54.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar15,54.10,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr15,52.14,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May15,50.57,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun15,53.27,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul15,50.78,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago15,48.04,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep15,48.09,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct15,49.31,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov15,49.14,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic15,47.66,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene16,47.89,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb16,50.42,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar16,50.83,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr16,55.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May16,53.26,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun16,56.02,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul16,58.20,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago16,59.14,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep16,59.34,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct16,59.16,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov16,57.88,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic16,57.10,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene17,56.93,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb17,56.68,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar17,52.16,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr17,59.41,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May17,57.76,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun17,56.87,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul17,55.85,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago17,57.85,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep17,60.73,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct17,61.68,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov17,60.61,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic17,55.87,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene18,58.31,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb18,56.65,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar18,55.67,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr18,58.94,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May18,59.86,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun18,57.29,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul18,59.70,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago18,58.90,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep18,57.14,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct18,55.97,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov18,55.59,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic18,58.54,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene19,56.62,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb19,59.55,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar19,58.82,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr19,54.85,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May19,56.25,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun19,54.42,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul19,52.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago19,49.85,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep19,50.15,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct19,50.47,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov19,51.95,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic19,51.52,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene20,55.80,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb20,50.76,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar20,28.48,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr20,15.74,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May20,19.46,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun20,34.63,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul20,38.72,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago20,43.19,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep20,49.67,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct20,50.97,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov20,55.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic20,49.67,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene21,44.83,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb21,46.96,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar21,53.54,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr21,46.69,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May21,48.87,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun21,43.05,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul21,45.41,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago21,42.44,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep21,44.80,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct21,48.72,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov21,46.77,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic21,46.20,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene22,48.83,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb22,49.49,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar22,48.95,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr22,43.53,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May22,46.15,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun22,43.19,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul22,43.19,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago22,44.39,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep22,44.84,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct22,43.90,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov22,42.78,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic22,47.10,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene23,39.75,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb23,44.00,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar23,46.55,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr23,46.15,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May23,47.45,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun23,44.67,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul23,45.42,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago23,46.77,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep23,42.83,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct23,41.44,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov23,41.61,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic23,44.16,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene24,45.76,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb24,49.20,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar24,51.19,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr24,49.81,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May24,51.51,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun24,50.55,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul24,51.50,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago24,52.49,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep24,55.34,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct24,53.47,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov24,53.05,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic24,51.41,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene25,54.36,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb25,54.55,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar25,56.33,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr25,55.08,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May25,55.86,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun25,55.16,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul25,57.21,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago25,55.79,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep25,57.94,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct25,57.05,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Nov25,58.33,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Dic25,56.66,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ene26,58.55,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Feb26,54.01,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Mar26,55.00,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Abr26,51.11,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,May26,50.00,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jun26,56.01,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Jul26,58.64,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Ago26,56.53,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Sep26,56.11,html_bcrpdata
+PD38046AM,exp_sector_3m,Índice de expectativas del sector a 3 meses,Oct26,51.91,html_bcrpdata

@@ -10,7 +10,7 @@
 | Vía | Fuente | Endpoint / URL |
 |---|---|---|
 | 1 — API | BCRPData | https://estadisticas.bcrp.gob.pe/estadisticas/series/api/... |
-| 2 — Descarga programática | BCRP — Encuesta de Expectativas Macroeconómicas | (por completar) |
+| 2 — Web scraping | BCRP — Encuesta de Expectativas Macroeconómicas (tablas HTML de BCRPData) | https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m |
 
 ## Parámetros
 - FECHA_INICIO: 2000-01
@@ -29,3 +29,12 @@
 
 ## Integridad
 - SHA-256 de `datos_procesados/datos_procesados_2024200530J.csv`: (por completar)
+
+## Vía 2 — Web scraping (numeral 2.4.3: rastreo de HTML con selectores y pausas)
+- **Fuente:** Encuesta de Expectativas Macroeconómicas del BCRP, publicada en BCRPData.
+- **Página índice:** https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m
+- **Selectores (BeautifulSoup):** `a[href*="/resultados/"]` (series), `a[href$=".xlsx"]` (enlaces Excel), `tr`/`td`/`th` (filas de cada tabla).
+- **Navegación:** página índice -> página de resultados de cada serie (`/resultados/{código}/html`); cada tabla se publica completa en una sola página (sin paginación numerada).
+- **Pausas:** 2 s entre solicitudes; reintentos con espera creciente. **User-Agent:** `Proyecto-academico-UNCP-Finanzas-I`.
+- **Crudo guardado intacto:** `datos_crudos/encuesta_expectativas/` (HTML) y `datos_crudos/datos_crudos_scraping_<código>.csv`.
+- **Incidencia:** el XLSX «Índices de confianza empresarial» se intenta descargar, pero www.bcrp.gob.pe responde con verificación anti-bot (JavaScript); ver `incidencias_fuente.md`.
