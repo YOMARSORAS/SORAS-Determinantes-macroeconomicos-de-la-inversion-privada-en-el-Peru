@@ -199,3 +199,61 @@ waiting for event "download"
 2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
 2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
 2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
+2026-11-25 04:00:17,429 | INFO | 03_limpieza_datos | ======================================================================
+2026-11-25 04:00:17,430 | INFO | 03_limpieza_datos | Inicio limpieza | pandas 2.2.3 | numpy 2.4.6 | muestra 2000-01 a 2025-12
+2026-11-25 04:00:17,565 | INFO | 03_limpieza_datos | Vía 1 leída: 7 series | Vía 2 leída: 3 series
+2026-11-25 04:00:17,601 | INFO | 03_limpieza_datos | Denton inversión: 104 trimestres -> 312 meses | error máximo al reagregar = 1.46e-11 | mínimo mensual = 2,203.3
+2026-11-25 04:00:17,610 | INFO | 03_limpieza_datos | Faltantes antes de imputar | inv_priv_real: 0 de 312
+2026-11-25 04:00:17,611 | INFO | 03_limpieza_datos | Faltantes antes de imputar | pbi_idx: 0 de 312
+2026-11-25 04:00:17,611 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tasa_corp: 127 de 312
+2026-11-25 04:00:17,613 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tc: 0 de 312
+2026-11-25 04:00:17,613 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tot: 0 de 312
+2026-11-25 04:00:17,614 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tasa_interb: 0 de 312
+2026-11-25 04:00:17,614 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tamn: 0 de 312
+2026-11-25 04:00:17,615 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_3m: 27 de 312
+2026-11-25 04:00:17,615 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_12m: 101 de 312
+2026-11-25 04:00:17,615 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_sector_3m: 29 de 312
+2026-11-25 04:00:17,641 | INFO | 03_limpieza_datos | Retropolación tasa_corp = 0.838 + -0.014*TAMN + 1.051*interbancaria | R2 = 0.962 | n = 185 | meses imputados = 127 | rango imputado = [1.62, 17.32]
+2026-11-25 04:00:17,651 | INFO | 03_limpieza_datos | exp_eco_3m: primer dato publicado 2002-04; 27 meses previos completados con ese valor
+2026-11-25 04:00:17,669 | INFO | 03_limpieza_datos | Atípicos marcados en inv_priv_real: 9
+2026-11-25 04:00:17,673 | INFO | 03_limpieza_datos | Atípicos marcados en pbi_idx: 15
+2026-11-25 04:00:17,675 | INFO | 03_limpieza_datos | Atípicos marcados en tasa_corp: 21
+2026-11-25 04:00:17,677 | INFO | 03_limpieza_datos | Atípicos marcados en tc: 2
+2026-11-25 04:00:17,680 | INFO | 03_limpieza_datos | Atípicos marcados en tot: 1
+2026-11-25 04:00:17,682 | INFO | 03_limpieza_datos | Atípicos marcados en exp_eco_3m: 7
+2026-11-25 04:00:17,717 | INFO | 03_limpieza_datos | Guardado datos_procesados_2024200530J.csv: 312 filas x 23 columnas (incluye fecha)
+2026-11-25 04:00:17,736 | INFO | 03_limpieza_datos | Guardado datos_trimestrales_2024200530J.csv: 104 trimestres x 10 columnas
+2026-11-25 04:00:17,758 | INFO | 03_limpieza_datos | Guardado datos_largos_2024200530J.csv: 2366 filas
+2026-11-25 04:00:17,758 | INFO | 03_limpieza_datos | Tamaño: 312 periodos mensuales >= 60 y 2366 observaciones en formato largo >= 1000: CUMPLE
+2026-11-25 04:00:17,761 | INFO | 03_limpieza_datos | SHA-256 de datos_procesados_2024200530J.csv: e515cc6bcbd96da2ec2b79bcaabc740341c5293cba61de003446fce350d002fd
+2026-11-25 04:00:17,768 | INFO | 03_limpieza_datos | SHA-256 copiado en README.md
+2026-11-25 04:00:17,768 | INFO | 03_limpieza_datos | Fin de 03_limpieza_datos.py: OK
+2026-11-25 04:10:34,857 | INFO | 03_limpieza_datos | ======================================================================
+2026-11-25 04:10:34,858 | INFO | 03_limpieza_datos | Inicio limpieza | pandas 2.2.3 | numpy 2.4.6 | muestra 2000-01 a 2025-12
+2026-11-25 04:10:35,017 | INFO | 03_limpieza_datos | Vía 1 leída: 7 series | Vía 2 leída: 3 series
+2026-11-25 04:10:35,071 | INFO | 03_limpieza_datos | Denton inversión: 104 trimestres -> 312 meses | error máximo al reagregar = 1.46e-11 | mínimo mensual = 2,203.3
+2026-11-25 04:10:35,078 | INFO | 03_limpieza_datos | Faltantes antes de imputar | inv_priv_real: 0 de 312
+2026-11-25 04:10:35,079 | INFO | 03_limpieza_datos | Faltantes antes de imputar | pbi_idx: 0 de 312
+2026-11-25 04:10:35,079 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tasa_corp: 127 de 312
+2026-11-25 04:10:35,079 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tc: 0 de 312
+2026-11-25 04:10:35,080 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tot: 0 de 312
+2026-11-25 04:10:35,080 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tasa_interb: 0 de 312
+2026-11-25 04:10:35,080 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tamn: 0 de 312
+2026-11-25 04:10:35,081 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_3m: 27 de 312
+2026-11-25 04:10:35,081 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_12m: 101 de 312
+2026-11-25 04:10:35,081 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_sector_3m: 29 de 312
+2026-11-25 04:10:35,088 | INFO | 03_limpieza_datos | Retropolación tasa_corp = 0.838 + -0.014*TAMN + 1.051*interbancaria | R2 = 0.962 | n = 185 | meses imputados = 127 | rango imputado = [1.62, 17.32]
+2026-11-25 04:10:35,090 | INFO | 03_limpieza_datos | exp_eco_3m: primer dato publicado 2002-04; 27 meses previos completados con ese valor
+2026-11-25 04:10:35,102 | INFO | 03_limpieza_datos | Atípicos marcados en inv_priv_real: 9
+2026-11-25 04:10:35,102 | INFO | 03_limpieza_datos | Atípicos marcados en pbi_idx: 15
+2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en tasa_corp: 21
+2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en tc: 2
+2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en tot: 1
+2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en exp_eco_3m: 7
+2026-11-25 04:10:35,125 | INFO | 03_limpieza_datos | Guardado datos_procesados_2024200530J.csv: 312 filas x 13 columnas (incluye fecha)
+2026-11-25 04:10:35,140 | INFO | 03_limpieza_datos | Guardado datos_trimestrales_2024200530J.csv: 104 trimestres x 10 columnas
+2026-11-25 04:10:35,180 | INFO | 03_limpieza_datos | Guardado datos_largos_2024200530J.csv: 2366 filas
+2026-11-25 04:10:35,181 | INFO | 03_limpieza_datos | Tamaño: 312 periodos mensuales >= 60 y 2366 observaciones en formato largo >= 1000: CUMPLE
+2026-11-25 04:10:35,182 | INFO | 03_limpieza_datos | SHA-256 de datos_procesados_2024200530J.csv: c7b3ed47ff8b60eba43bd3355cbbba3abe626dc50d500ea3f47ca0a174bd470d
+2026-11-25 04:10:35,188 | INFO | 03_limpieza_datos | SHA-256 copiado en README.md
+2026-11-25 04:10:35,189 | INFO | 03_limpieza_datos | Fin de 03_limpieza_datos.py: OK

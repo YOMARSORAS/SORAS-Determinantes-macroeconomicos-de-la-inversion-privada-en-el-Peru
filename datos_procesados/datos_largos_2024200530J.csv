@@ -1,0 +1,2367 @@
+fecha,variable,valor,fuente
+2000-01,inversion_privada,2626.7939,API BCRPData
+2000-02,inversion_privada,2573.4402,API BCRPData
+2000-03,inversion_privada,2466.7327,API BCRPData
+2000-04,inversion_privada,2306.6715,API BCRPData
+2000-05,inversion_privada,2236.8317,API BCRPData
+2000-06,inversion_privada,2257.2131,API BCRPData
+2000-07,inversion_privada,2367.8158,API BCRPData
+2000-08,inversion_privada,2458.2478,API BCRPData
+2000-09,inversion_privada,2528.5091,API BCRPData
+2000-10,inversion_privada,2578.5998,API BCRPData
+2000-11,inversion_privada,2566.8587,API BCRPData
+2000-12,inversion_privada,2493.2858,API BCRPData
+2001-01,inversion_privada,2357.8812,API BCRPData
+2001-02,inversion_privada,2264.4209,API BCRPData
+2001-03,inversion_privada,2212.9049,API BCRPData
+2001-04,inversion_privada,2203.3331,API BCRPData
+2001-05,inversion_privada,2241.4108,API BCRPData
+2001-06,inversion_privada,2327.1381,API BCRPData
+2001-07,inversion_privada,2460.5149,API BCRPData
+2001-08,inversion_privada,2517.5835,API BCRPData
+2001-09,inversion_privada,2498.344,API BCRPData
+2001-10,inversion_privada,2402.7964,API BCRPData
+2001-11,inversion_privada,2328.1793,API BCRPData
+2001-12,inversion_privada,2274.4929,API BCRPData
+2002-01,inversion_privada,2241.737,API BCRPData
+2002-02,inversion_privada,2219.5769,API BCRPData
+2002-03,inversion_privada,2208.0125,API BCRPData
+2002-04,inversion_privada,2207.044,API BCRPData
+2002-05,inversion_privada,2233.9714,API BCRPData
+2002-06,inversion_privada,2288.795,API BCRPData
+2002-07,inversion_privada,2371.5146,API BCRPData
+2002-08,inversion_privada,2432.8123,API BCRPData
+2002-09,inversion_privada,2472.6882,API BCRPData
+2002-10,inversion_privada,2491.1422,API BCRPData
+2002-11,inversion_privada,2494.6111,API BCRPData
+2002-12,inversion_privada,2483.0948,API BCRPData
+2003-01,inversion_privada,2456.5933,API BCRPData
+2003-02,inversion_privada,2423.5055,API BCRPData
+2003-03,inversion_privada,2383.8316,API BCRPData
+2003-04,inversion_privada,2337.5715,API BCRPData
+2003-05,inversion_privada,2358.1768,API BCRPData
+2003-06,inversion_privada,2445.6476,API BCRPData
+2003-07,inversion_privada,2599.9839,API BCRPData
+2003-08,inversion_privada,2667.8468,API BCRPData
+2003-09,inversion_privada,2649.2364,API BCRPData
+2003-10,inversion_privada,2544.1528,API BCRPData
+2003-11,inversion_privada,2507.9189,API BCRPData
+2003-12,inversion_privada,2540.5348,API BCRPData
+2004-01,inversion_privada,2642.0005,API BCRPData
+2004-02,inversion_privada,2684.8138,API BCRPData
+2004-03,inversion_privada,2668.9746,API BCRPData
+2004-04,inversion_privada,2594.483,API BCRPData
+2004-05,inversion_privada,2572.1114,API BCRPData
+2004-06,inversion_privada,2601.8599,API BCRPData
+2004-07,inversion_privada,2683.7284,API BCRPData
+2004-08,inversion_privada,2741.9367,API BCRPData
+2004-09,inversion_privada,2776.485,API BCRPData
+2004-10,inversion_privada,2787.3732,API BCRPData
+2004-11,inversion_privada,2791.717,API BCRPData
+2004-12,inversion_privada,2789.5165,API BCRPData
+2005-01,inversion_privada,2780.7716,API BCRPData
+2005-02,inversion_privada,2776.1695,API BCRPData
+2005-03,inversion_privada,2775.71,API BCRPData
+2005-04,inversion_privada,2779.3932,API BCRPData
+2005-05,inversion_privada,2819.971,API BCRPData
+2005-06,inversion_privada,2897.4436,API BCRPData
+2005-07,inversion_privada,3011.8108,API BCRPData
+2005-08,inversion_privada,3111.9381,API BCRPData
+2005-09,inversion_privada,3197.8255,API BCRPData
+2005-10,inversion_privada,3269.4729,API BCRPData
+2005-11,inversion_privada,3351.7718,API BCRPData
+2005-12,inversion_privada,3444.722,API BCRPData
+2006-01,inversion_privada,3548.3237,API BCRPData
+2006-02,inversion_privada,3575.265,API BCRPData
+2006-03,inversion_privada,3525.546,API BCRPData
+2006-04,inversion_privada,3399.1667,API BCRPData
+2006-05,inversion_privada,3345.2765,API BCRPData
+2006-06,inversion_privada,3363.8755,API BCRPData
+2006-07,inversion_privada,3454.9635,API BCRPData
+2006-08,inversion_privada,3575.1158,API BCRPData
+2006-09,inversion_privada,3724.3323,API BCRPData
+2006-10,inversion_privada,3902.613,API BCRPData
+2006-11,inversion_privada,4012.7572,API BCRPData
+2006-12,inversion_privada,4054.7648,API BCRPData
+2007-01,inversion_privada,4028.6359,API BCRPData
+2007-02,inversion_privada,4018.6038,API BCRPData
+2007-03,inversion_privada,4024.6685,API BCRPData
+2007-04,inversion_privada,4046.8301,API BCRPData
+2007-05,inversion_privada,4133.5918,API BCRPData
+2007-06,inversion_privada,4284.9539,API BCRPData
+2007-07,inversion_privada,4500.9161,API BCRPData
+2007-08,inversion_privada,4690.5919,API BCRPData
+2007-09,inversion_privada,4853.9812,API BCRPData
+2007-10,inversion_privada,4991.084,API BCRPData
+2007-11,inversion_privada,5042.8531,API BCRPData
+2007-12,inversion_privada,5009.2884,API BCRPData
+2008-01,inversion_privada,4890.39,API BCRPData
+2008-02,inversion_privada,4894.4772,API BCRPData
+2008-03,inversion_privada,5021.5499,API BCRPData
+2008-04,inversion_privada,5271.6082,API BCRPData
+2008-05,inversion_privada,5500.7395,API BCRPData
+2008-06,inversion_privada,5708.9439,API BCRPData
+2008-07,inversion_privada,5896.2213,API BCRPData
+2008-08,inversion_privada,5997.7612,API BCRPData
+2008-09,inversion_privada,6013.5636,API BCRPData
+2008-10,inversion_privada,5943.6285,API BCRPData
+2008-11,inversion_privada,5779.6597,API BCRPData
+2008-12,inversion_privada,5521.6572,API BCRPData
+2009-01,inversion_privada,5169.621,API BCRPData
+2009-02,inversion_privada,4891.4263,API BCRPData
+2009-03,inversion_privada,4687.0731,API BCRPData
+2009-04,inversion_privada,4556.5614,API BCRPData
+2009-05,inversion_privada,4568.591,API BCRPData
+2009-06,inversion_privada,4723.1617,API BCRPData
+2009-07,inversion_privada,5020.2736,API BCRPData
+2009-08,inversion_privada,5232.1079,API BCRPData
+2009-09,inversion_privada,5358.6647,API BCRPData
+2009-10,inversion_privada,5399.9438,API BCRPData
+2009-11,inversion_privada,5449.7336,API BCRPData
+2009-12,inversion_privada,5508.034,API BCRPData
+2010-01,inversion_privada,5574.8449,API BCRPData
+2010-02,inversion_privada,5652.9124,API BCRPData
+2010-03,inversion_privada,5742.2365,API BCRPData
+2010-04,inversion_privada,5842.8171,API BCRPData
+2010-05,inversion_privada,5996.5163,API BCRPData
+2010-06,inversion_privada,6203.3341,API BCRPData
+2010-07,inversion_privada,6463.2703,API BCRPData
+2010-08,inversion_privada,6678.2908,API BCRPData
+2010-09,inversion_privada,6848.3954,API BCRPData
+2010-10,inversion_privada,6973.5842,API BCRPData
+2010-11,inversion_privada,6971.4757,API BCRPData
+2010-12,inversion_privada,6842.0701,API BCRPData
+2011-01,inversion_privada,6585.3673,API BCRPData
+2011-02,inversion_privada,6456.3041,API BCRPData
+2011-03,inversion_privada,6454.8806,API BCRPData
+2011-04,inversion_privada,6581.0967,API BCRPData
+2011-05,inversion_privada,6737.1,API BCRPData
+2011-06,inversion_privada,6922.8906,API BCRPData
+2011-07,inversion_privada,7138.4683,API BCRPData
+2011-08,inversion_privada,7319.9889,API BCRPData
+2011-09,inversion_privada,7467.4523,API BCRPData
+2011-10,inversion_privada,7580.8585,API BCRPData
+2011-11,inversion_privada,7623.0905,API BCRPData
+2011-12,inversion_privada,7594.1481,API BCRPData
+2012-01,inversion_privada,7494.0313,API BCRPData
+2012-02,inversion_privada,7484.176,API BCRPData
+2012-03,inversion_privada,7564.582,API BCRPData
+2012-04,inversion_privada,7735.2493,API BCRPData
+2012-05,inversion_privada,7906.0648,API BCRPData
+2012-06,inversion_privada,8077.0286,API BCRPData
+2012-07,inversion_privada,8248.1406,API BCRPData
+2012-08,inversion_privada,8414.1078,API BCRPData
+2012-09,inversion_privada,8574.9301,API BCRPData
+2012-10,inversion_privada,8730.6075,API BCRPData
+2012-11,inversion_privada,8764.272,API BCRPData
+2012-12,inversion_privada,8675.9236,API BCRPData
+2013-01,inversion_privada,8465.5624,API BCRPData
+2013-02,inversion_privada,8390.3406,API BCRPData
+2013-03,inversion_privada,8450.2584,API BCRPData
+2013-04,inversion_privada,8645.3157,API BCRPData
+2013-05,inversion_privada,8766.8823,API BCRPData
+2013-06,inversion_privada,8814.9581,API BCRPData
+2013-07,inversion_privada,8789.5433,API BCRPData
+2013-08,inversion_privada,8802.4919,API BCRPData
+2013-09,inversion_privada,8853.804,API BCRPData
+2013-10,inversion_privada,8943.4794,API BCRPData
+2013-11,inversion_privada,8900.0028,API BCRPData
+2013-12,inversion_privada,8723.3741,API BCRPData
+2014-01,inversion_privada,8413.5934,API BCRPData
+2014-02,inversion_privada,8286.8334,API BCRPData
+2014-03,inversion_privada,8343.0943,API BCRPData
+2014-04,inversion_privada,8582.3761,API BCRPData
+2014-05,inversion_privada,8680.2829,API BCRPData
+2014-06,inversion_privada,8636.8147,API BCRPData
+2014-07,inversion_privada,8451.9717,API BCRPData
+2014-08,inversion_privada,8415.0213,API BCRPData
+2014-09,inversion_privada,8525.9637,API BCRPData
+2014-10,inversion_privada,8784.7988,API BCRPData
+2014-11,inversion_privada,8830.9758,API BCRPData
+2014-12,inversion_privada,8664.4948,API BCRPData
+2015-01,inversion_privada,8285.3557,API BCRPData
+2015-02,inversion_privada,8036.2116,API BCRPData
+2015-03,inversion_privada,7917.0624,API BCRPData
+2015-04,inversion_privada,7927.9081,API BCRPData
+2015-05,inversion_privada,7951.0996,API BCRPData
+2015-06,inversion_privada,7986.6368,API BCRPData
+2015-07,inversion_privada,8034.5198,API BCRPData
+2015-08,inversion_privada,8175.2487,API BCRPData
+2015-09,inversion_privada,8408.8235,API BCRPData
+2015-10,inversion_privada,8735.2443,API BCRPData
+2015-11,inversion_privada,8791.5514,API BCRPData
+2015-12,inversion_privada,8577.7448,API BCRPData
+2016-01,inversion_privada,8093.8245,API BCRPData
+2016-02,inversion_privada,7786.9528,API BCRPData
+2016-03,inversion_privada,7657.1298,API BCRPData
+2016-04,inversion_privada,7704.3555,API BCRPData
+2016-05,inversion_privada,7686.6496,API BCRPData
+2016-06,inversion_privada,7604.0121,API BCRPData
+2016-07,inversion_privada,7456.4429,API BCRPData
+2016-08,inversion_privada,7535.7055,API BCRPData
+2016-09,inversion_privada,7841.7999,API BCRPData
+2016-10,inversion_privada,8374.7259,API BCRPData
+2016-11,inversion_privada,8525.3041,API BCRPData
+2016-12,inversion_privada,8293.5342,API BCRPData
+2017-01,inversion_privada,7679.4165,API BCRPData
+2017-02,inversion_privada,7303.6592,API BCRPData
+2017-03,inversion_privada,7166.2625,API BCRPData
+2017-04,inversion_privada,7267.2262,API BCRPData
+2017-05,inversion_privada,7391.7182,API BCRPData
+2017-06,inversion_privada,7539.7384,API BCRPData
+2017-07,inversion_privada,7711.2869,API BCRPData
+2017-08,inversion_privada,7966.3203,API BCRPData
+2017-09,inversion_privada,8304.8386,API BCRPData
+2017-10,inversion_privada,8726.8418,API BCRPData
+2017-11,inversion_privada,8809.3145,API BCRPData
+2017-12,inversion_privada,8552.2568,API BCRPData
+2018-01,inversion_privada,7955.6686,API BCRPData
+2018-02,inversion_privada,7644.0221,API BCRPData
+2018-03,inversion_privada,7617.3175,API BCRPData
+2018-04,inversion_privada,7875.5546,API BCRPData
+2018-05,inversion_privada,8016.5502,API BCRPData
+2018-06,inversion_privada,8040.3044,API BCRPData
+2018-07,inversion_privada,7946.817,API BCRPData
+2018-08,inversion_privada,8038.9417,API BCRPData
+2018-09,inversion_privada,8316.6785,API BCRPData
+2018-10,inversion_privada,8780.0274,API BCRPData
+2018-11,inversion_privada,8910.4957,API BCRPData
+2018-12,inversion_privada,8708.0834,API BCRPData
+2019-01,inversion_privada,8172.7905,API BCRPData
+2019-02,inversion_privada,7920.7787,API BCRPData
+2019-03,inversion_privada,7952.048,API BCRPData
+2019-04,inversion_privada,8266.5984,API BCRPData
+2019-05,inversion_privada,8509.0041,API BCRPData
+2019-06,inversion_privada,8679.2652,API BCRPData
+2019-07,inversion_privada,8777.3816,API BCRPData
+2019-08,inversion_privada,8880.6643,API BCRPData
+2019-09,inversion_privada,8989.1135,API BCRPData
+2019-10,inversion_privada,9102.7291,API BCRPData
+2019-11,inversion_privada,8987.0378,API BCRPData
+2019-12,inversion_privada,8642.0396,API BCRPData
+2020-01,inversion_privada,8067.7346,API BCRPData
+2020-02,inversion_privada,7048.2637,API BCRPData
+2020-03,inversion_privada,5583.627,API BCRPData
+2020-04,inversion_privada,3673.8244,API BCRPData
+2020-05,inversion_privada,3222.7565,API BCRPData
+2020-06,inversion_privada,4230.4233,API BCRPData
+2020-07,inversion_privada,6696.8246,API BCRPData
+2020-08,inversion_privada,8450.1952,API BCRPData
+2020-09,inversion_privada,9490.535,API BCRPData
+2020-10,inversion_privada,9817.8441,API BCRPData
+2020-11,inversion_privada,9929.2328,API BCRPData
+2020-12,inversion_privada,9824.7011,API BCRPData
+2021-01,inversion_privada,9504.249,API BCRPData
+2021-02,inversion_privada,9320.7558,API BCRPData
+2021-03,inversion_privada,9274.2212,API BCRPData
+2021-04,inversion_privada,9364.6455,API BCRPData
+2021-05,inversion_privada,9485.0732,API BCRPData
+2021-06,inversion_privada,9635.5043,API BCRPData
+2021-07,inversion_privada,9815.9389,API BCRPData
+2021-08,inversion_privada,9951.4388,API BCRPData
+2021-09,inversion_privada,10042.0041,API BCRPData
+2021-10,inversion_privada,10087.6348,API BCRPData
+2021-11,inversion_privada,10022.2571,API BCRPData
+2021-12,inversion_privada,9845.871,API BCRPData
+2022-01,inversion_privada,9558.4765,API BCRPData
+2022-02,inversion_privada,9407.8949,API BCRPData
+2022-03,inversion_privada,9394.1261,API BCRPData
+2022-04,inversion_privada,9517.1701,API BCRPData
+2022-05,inversion_privada,9639.3855,API BCRPData
+2022-06,inversion_privada,9760.7722,API BCRPData
+2022-07,inversion_privada,9881.3302,API BCRPData
+2022-08,inversion_privada,9969.5973,API BCRPData
+2022-09,inversion_privada,10025.5737,API BCRPData
+2022-10,inversion_privada,10049.2592,API BCRPData
+2022-11,inversion_privada,9821.1244,API BCRPData
+2022-12,inversion_privada,9341.1693,API BCRPData
+2023-01,inversion_privada,8609.3938,API BCRPData
+2023-02,inversion_privada,8254.2863,API BCRPData
+2023-03,inversion_privada,8275.8467,API BCRPData
+2023-04,inversion_privada,8674.0751,API BCRPData
+2023-05,inversion_privada,8981.5904,API BCRPData
+2023-06,inversion_privada,9198.3926,API BCRPData
+2023-07,inversion_privada,9324.4818,API BCRPData
+2023-08,inversion_privada,9468.3632,API BCRPData
+2023-09,inversion_privada,9630.0368,API BCRPData
+2023-10,inversion_privada,9809.5027,API BCRPData
+2023-11,inversion_privada,9713.2983,API BCRPData
+2023-12,inversion_privada,9341.4237,API BCRPData
+2024-01,inversion_privada,8693.8789,API BCRPData
+2024-02,inversion_privada,8375.8757,API BCRPData
+2024-03,inversion_privada,8387.4143,API BCRPData
+2024-04,inversion_privada,8728.4945,API BCRPData
+2024-05,inversion_privada,9042.6139,API BCRPData
+2024-06,inversion_privada,9329.7722,API BCRPData
+2024-07,inversion_privada,9589.9697,API BCRPData
+2024-08,inversion_privada,9851.5511,API BCRPData
+2024-09,inversion_privada,10114.5164,API BCRPData
+2024-10,inversion_privada,10378.8657,API BCRPData
+2024-11,inversion_privada,10353.4301,API BCRPData
+2024-12,inversion_privada,10038.2095,API BCRPData
+2025-01,inversion_privada,9433.2039,API BCRPData
+2025-02,inversion_privada,9139.4324,API BCRPData
+2025-03,inversion_privada,9156.895,API BCRPData
+2025-04,inversion_privada,9485.5916,API BCRPData
+2025-05,inversion_privada,9853.8946,API BCRPData
+2025-06,inversion_privada,10261.804,API BCRPData
+2025-07,inversion_privada,10709.3197,API BCRPData
+2025-08,inversion_privada,11025.1847,API BCRPData
+2025-09,inversion_privada,11209.3989,API BCRPData
+2025-10,inversion_privada,11261.9623,API BCRPData
+2025-11,inversion_privada,11297.0046,API BCRPData
+2025-12,inversion_privada,11314.5258,API BCRPData
+2000-01,pbi,65.9233,API BCRPData
+2000-02,pbi,65.4093,API BCRPData
+2000-03,pbi,73.8948,API BCRPData
+2000-04,pbi,68.2892,API BCRPData
+2000-05,pbi,76.2178,API BCRPData
+2000-06,pbi,74.1611,API BCRPData
+2000-07,pbi,73.3169,API BCRPData
+2000-08,pbi,67.6867,API BCRPData
+2000-09,pbi,64.0247,API BCRPData
+2000-10,pbi,68.3385,API BCRPData
+2000-11,pbi,68.2851,API BCRPData
+2000-12,pbi,68.5278,API BCRPData
+2001-01,pbi,64.5423,API BCRPData
+2001-02,pbi,62.0928,API BCRPData
+2001-03,pbi,67.6527,API BCRPData
+2001-04,pbi,71.0371,API BCRPData
+2001-05,pbi,76.4639,API BCRPData
+2001-06,pbi,71.8259,API BCRPData
+2001-07,pbi,74.0412,API BCRPData
+2001-08,pbi,69.5853,API BCRPData
+2001-09,pbi,67.0243,API BCRPData
+2001-10,pbi,72.5211,API BCRPData
+2001-11,pbi,69.3489,API BCRPData
+2001-12,pbi,73.0931,API BCRPData
+2002-01,pbi,70.3459,API BCRPData
+2002-02,pbi,66.137,API BCRPData
+2002-03,pbi,70.4822,API BCRPData
+2002-04,pbi,77.1512,API BCRPData
+2002-05,pbi,80.8137,API BCRPData
+2002-06,pbi,75.9116,API BCRPData
+2002-07,pbi,76.5181,API BCRPData
+2002-08,pbi,71.7773,API BCRPData
+2002-09,pbi,70.9313,API BCRPData
+2002-10,pbi,74.0245,API BCRPData
+2002-11,pbi,74.5321,API BCRPData
+2002-12,pbi,76.3728,API BCRPData
+2003-01,pbi,73.2224,API BCRPData
+2003-02,pbi,71.0794,API BCRPData
+2003-03,pbi,74.3427,API BCRPData
+2003-04,pbi,80.6677,API BCRPData
+2003-05,pbi,83.2226,API BCRPData
+2003-06,pbi,80.8538,API BCRPData
+2003-07,pbi,79.207,API BCRPData
+2003-08,pbi,74.212,API BCRPData
+2003-09,pbi,73.8678,API BCRPData
+2003-10,pbi,77.5989,API BCRPData
+2003-11,pbi,75.5725,API BCRPData
+2003-12,pbi,78.0097,API BCRPData
+2004-01,pbi,75.9133,API BCRPData
+2004-02,pbi,74.0974,API BCRPData
+2004-03,pbi,78.6355,API BCRPData
+2004-04,pbi,84.0945,API BCRPData
+2004-05,pbi,86.5106,API BCRPData
+2004-06,pbi,83.2875,API BCRPData
+2004-07,pbi,82.1068,API BCRPData
+2004-08,pbi,77.5146,API BCRPData
+2004-09,pbi,77.4026,API BCRPData
+2004-10,pbi,79.6325,API BCRPData
+2004-11,pbi,82.7196,API BCRPData
+2004-12,pbi,85.6503,API BCRPData
+2005-01,pbi,79.9792,API BCRPData
+2005-02,pbi,80.1345,API BCRPData
+2005-03,pbi,81.3964,API BCRPData
+2005-04,pbi,87.0734,API BCRPData
+2005-05,pbi,92.1415,API BCRPData
+2005-06,pbi,88.4558,API BCRPData
+2005-07,pbi,87.2766,API BCRPData
+2005-08,pbi,82.9895,API BCRPData
+2005-09,pbi,82.0879,API BCRPData
+2005-10,pbi,84.8027,API BCRPData
+2005-11,pbi,90.4951,API BCRPData
+2005-12,pbi,91.5459,API BCRPData
+2006-01,pbi,85.659,API BCRPData
+2006-02,pbi,84.6285,API BCRPData
+2006-03,pbi,91.2287,API BCRPData
+2006-04,pbi,91.778,API BCRPData
+2006-05,pbi,97.7619,API BCRPData
+2006-06,pbi,95.0729,API BCRPData
+2006-07,pbi,92.9616,API BCRPData
+2006-08,pbi,91.5548,API BCRPData
+2006-09,pbi,88.7693,API BCRPData
+2006-10,pbi,92.1822,API BCRPData
+2006-11,pbi,94.7874,API BCRPData
+2006-12,pbi,99.4184,API BCRPData
+2007-01,pbi,89.9526,API BCRPData
+2007-02,pbi,88.6681,API BCRPData
+2007-03,pbi,96.7214,API BCRPData
+2007-04,pbi,96.6364,API BCRPData
+2007-05,pbi,104.7467,API BCRPData
+2007-06,pbi,101.2546,API BCRPData
+2007-07,pbi,102.5451,API BCRPData
+2007-08,pbi,100.1287,API BCRPData
+2007-09,pbi,100.2404,API BCRPData
+2007-10,pbi,103.1513,API BCRPData
+2007-11,pbi,104.0997,API BCRPData
+2007-12,pbi,111.855,API BCRPData
+2008-01,pbi,98.5125,API BCRPData
+2008-02,pbi,100.6766,API BCRPData
+2008-03,pbi,104.088,API BCRPData
+2008-04,pbi,110.2471,API BCRPData
+2008-05,pbi,112.0853,API BCRPData
+2008-06,pbi,112.1799,API BCRPData
+2008-07,pbi,112.3011,API BCRPData
+2008-08,pbi,108.89,API BCRPData
+2008-09,pbi,110.7407,API BCRPData
+2008-10,pbi,111.6553,API BCRPData
+2008-11,pbi,110.6671,API BCRPData
+2008-12,pbi,117.4751,API BCRPData
+2009-01,pbi,102.9579,API BCRPData
+2009-02,pbi,101.0337,API BCRPData
+2009-03,pbi,107.1527,API BCRPData
+2009-04,pbi,108.8521,API BCRPData
+2009-05,pbi,114.233,API BCRPData
+2009-06,pbi,108.9733,API BCRPData
+2009-07,pbi,110.7393,API BCRPData
+2009-08,pbi,109.8541,API BCRPData
+2009-09,pbi,111.0047,API BCRPData
+2009-10,pbi,113.0667,API BCRPData
+2009-11,pbi,113.6167,API BCRPData
+2009-12,pbi,122.3847,API BCRPData
+2010-01,pbi,106.1493,API BCRPData
+2010-02,pbi,106.1818,API BCRPData
+2010-03,pbi,115.8715,API BCRPData
+2010-04,pbi,117.5301,API BCRPData
+2010-05,pbi,122.8405,API BCRPData
+2010-06,pbi,122.9521,API BCRPData
+2010-07,pbi,121.7156,API BCRPData
+2010-08,pbi,119.4366,API BCRPData
+2010-09,pbi,122.1776,API BCRPData
+2010-10,pbi,123.7245,API BCRPData
+2010-11,pbi,123.6545,API BCRPData
+2010-12,pbi,131.9455,API BCRPData
+2011-01,pbi,116.3027,API BCRPData
+2011-02,pbi,114.7378,API BCRPData
+2011-03,pbi,124.7766,API BCRPData
+2011-04,pbi,126.2574,API BCRPData
+2011-05,pbi,129.6482,API BCRPData
+2011-06,pbi,126.6174,API BCRPData
+2011-07,pbi,129.0977,API BCRPData
+2011-08,pbi,127.177,API BCRPData
+2011-09,pbi,128.1701,API BCRPData
+2011-10,pbi,129.2383,API BCRPData
+2011-11,pbi,129.5185,API BCRPData
+2011-12,pbi,143.3811,API BCRPData
+2012-01,pbi,122.643,API BCRPData
+2012-02,pbi,122.832,API BCRPData
+2012-03,pbi,132.0846,API BCRPData
+2012-04,pbi,130.294,API BCRPData
+2012-05,pbi,138.6162,API BCRPData
+2012-06,pbi,136.1596,API BCRPData
+2012-07,pbi,138.4607,API BCRPData
+2012-08,pbi,136.1583,API BCRPData
+2012-09,pbi,136.8158,API BCRPData
+2012-10,pbi,138.8231,API BCRPData
+2012-11,pbi,137.3697,API BCRPData
+2012-12,pbi,148.2919,API BCRPData
+2013-01,pbi,130.56,API BCRPData
+2013-02,pbi,129.0794,API BCRPData
+2013-03,pbi,136.7161,API BCRPData
+2013-04,pbi,141.7869,API BCRPData
+2013-05,pbi,144.5252,API BCRPData
+2013-06,pbi,144.1315,API BCRPData
+2013-07,pbi,145.8152,API BCRPData
+2013-08,pbi,143.6544,API BCRPData
+2013-09,pbi,143.4695,API BCRPData
+2013-10,pbi,147.442,API BCRPData
+2013-11,pbi,147.3735,API BCRPData
+2013-12,pbi,158.7213,API BCRPData
+2014-01,pbi,136.0798,API BCRPData
+2014-02,pbi,135.8016,API BCRPData
+2014-03,pbi,144.1148,API BCRPData
+2014-04,pbi,145.931,API BCRPData
+2014-05,pbi,148.2685,API BCRPData
+2014-06,pbi,144.6761,API BCRPData
+2014-07,pbi,147.929,API BCRPData
+2014-08,pbi,145.5983,API BCRPData
+2014-09,pbi,147.305,API BCRPData
+2014-10,pbi,150.7946,API BCRPData
+2014-11,pbi,147.6063,API BCRPData
+2014-12,pbi,159.9829,API BCRPData
+2015-01,pbi,138.2045,API BCRPData
+2015-02,pbi,137.4772,API BCRPData
+2015-03,pbi,148.347,API BCRPData
+2015-04,pbi,152.0571,API BCRPData
+2015-05,pbi,150.171,API BCRPData
+2015-06,pbi,150.5865,API BCRPData
+2015-07,pbi,153.2584,API BCRPData
+2015-08,pbi,149.4847,API BCRPData
+2015-09,pbi,152.0009,API BCRPData
+2015-10,pbi,155.7307,API BCRPData
+2015-11,pbi,153.4248,API BCRPData
+2015-12,pbi,170.3924,API BCRPData
+2016-01,pbi,143.0984,API BCRPData
+2016-02,pbi,146.3092,API BCRPData
+2016-03,pbi,153.6124,API BCRPData
+2016-04,pbi,156.2637,API BCRPData
+2016-05,pbi,157.4895,API BCRPData
+2016-06,pbi,155.9753,API BCRPData
+2016-07,pbi,158.7459,API BCRPData
+2016-08,pbi,158.1156,API BCRPData
+2016-09,pbi,158.8546,API BCRPData
+2016-10,pbi,159.1268,API BCRPData
+2016-11,pbi,158.8226,API BCRPData
+2016-12,pbi,176.3211,API BCRPData
+2017-01,pbi,150.2764,API BCRPData
+2017-02,pbi,147.4613,API BCRPData
+2017-03,pbi,155.4002,API BCRPData
+2017-04,pbi,156.7515,API BCRPData
+2017-05,pbi,163.2513,API BCRPData
+2017-06,pbi,162.1678,API BCRPData
+2017-07,pbi,162.2863,API BCRPData
+2017-08,pbi,162.6384,API BCRPData
+2017-09,pbi,164.1811,API BCRPData
+2017-10,pbi,164.8708,API BCRPData
+2017-11,pbi,162.0501,API BCRPData
+2017-12,pbi,178.8229,API BCRPData
+2018-01,pbi,154.5929,API BCRPData
+2018-02,pbi,151.4638,API BCRPData
+2018-03,pbi,161.432,API BCRPData
+2018-04,pbi,169.4237,API BCRPData
+2018-05,pbi,174.201,API BCRPData
+2018-06,pbi,165.5276,API BCRPData
+2018-07,pbi,166.5172,API BCRPData
+2018-08,pbi,166.412,API BCRPData
+2018-09,pbi,168.1054,API BCRPData
+2018-10,pbi,171.6045,API BCRPData
+2018-11,pbi,170.2496,API BCRPData
+2018-12,pbi,187.2432,API BCRPData
+2019-01,pbi,157.1932,API BCRPData
+2019-02,pbi,154.6171,API BCRPData
+2019-03,pbi,166.8975,API BCRPData
+2019-04,pbi,169.4174,API BCRPData
+2019-05,pbi,175.4018,API BCRPData
+2019-06,pbi,170.1928,API BCRPData
+2019-07,pbi,173.0617,API BCRPData
+2019-08,pbi,172.5943,API BCRPData
+2019-09,pbi,172.3606,API BCRPData
+2019-10,pbi,176.251,API BCRPData
+2019-11,pbi,174.1834,API BCRPData
+2019-12,pbi,189.5663,API BCRPData
+2020-01,pbi,162.3857,API BCRPData
+2020-02,pbi,161.6984,API BCRPData
+2020-03,pbi,137.5135,API BCRPData
+2020-04,pbi,102.8753,API BCRPData
+2020-05,pbi,117.9976,API BCRPData
+2020-06,pbi,139.3821,API BCRPData
+2020-07,pbi,153.9917,API BCRPData
+2020-08,pbi,156.7752,API BCRPData
+2020-09,pbi,162.2478,API BCRPData
+2020-10,pbi,170.5143,API BCRPData
+2020-11,pbi,170.5133,API BCRPData
+2020-12,pbi,191.5194,API BCRPData
+2021-01,pbi,160.7662,API BCRPData
+2021-02,pbi,155.5194,API BCRPData
+2021-03,pbi,164.835,API BCRPData
+2021-04,pbi,164.4923,API BCRPData
+2021-05,pbi,175.3437,API BCRPData
+2021-06,pbi,172.0129,API BCRPData
+2021-07,pbi,174.4992,API BCRPData
+2021-08,pbi,175.6064,API BCRPData
+2021-09,pbi,178.523,API BCRPData
+2021-10,pbi,178.6468,API BCRPData
+2021-11,pbi,176.9236,API BCRPData
+2021-12,pbi,195.4237,API BCRPData
+2022-01,pbi,165.7055,API BCRPData
+2022-02,pbi,163.0593,API BCRPData
+2022-03,pbi,171.2736,API BCRPData
+2022-04,pbi,171.17,API BCRPData
+2022-05,pbi,179.8248,API BCRPData
+2022-06,pbi,178.4349,API BCRPData
+2022-07,pbi,177.9879,API BCRPData
+2022-08,pbi,179.1347,API BCRPData
+2022-09,pbi,182.3747,API BCRPData
+2022-10,pbi,183.2917,API BCRPData
+2022-11,pbi,180.809,API BCRPData
+2022-12,pbi,197.9358,API BCRPData
+2023-01,pbi,164.7472,API BCRPData
+2023-02,pbi,162.4892,API BCRPData
+2023-03,pbi,172.6991,API BCRPData
+2023-04,pbi,172.3531,API BCRPData
+2023-05,pbi,177.7192,API BCRPData
+2023-06,pbi,177.193,API BCRPData
+2023-07,pbi,176.1799,API BCRPData
+2023-08,pbi,179.2448,API BCRPData
+2023-09,pbi,180.721,API BCRPData
+2023-10,pbi,182.0411,API BCRPData
+2023-11,pbi,182.0768,API BCRPData
+2023-12,pbi,196.064,API BCRPData
+2024-01,pbi,167.7637,API BCRPData
+2024-02,pbi,167.6278,API BCRPData
+2024-03,pbi,171.9916,API BCRPData
+2024-04,pbi,181.884,API BCRPData
+2024-05,pbi,187.8615,API BCRPData
+2024-06,pbi,177.8496,API BCRPData
+2024-07,pbi,184.7399,API BCRPData
+2024-08,pbi,186.3614,API BCRPData
+2024-09,pbi,187.0291,API BCRPData
+2024-10,pbi,189.0153,API BCRPData
+2024-11,pbi,190.0554,API BCRPData
+2024-12,pbi,205.997,API BCRPData
+2025-01,pbi,175.1498,API BCRPData
+2025-02,pbi,172.3739,API BCRPData
+2025-03,pbi,180.2032,API BCRPData
+2025-04,pbi,184.2479,API BCRPData
+2025-05,pbi,191.6608,API BCRPData
+2025-06,pbi,186.6355,API BCRPData
+2025-07,pbi,191.2993,API BCRPData
+2025-08,pbi,192.2597,API BCRPData
+2025-09,pbi,195.2446,API BCRPData
+2025-10,pbi,196.9092,API BCRPData
+2025-11,pbi,193.0758,API BCRPData
+2025-12,pbi,214.5266,API BCRPData
+2000-01,tasa_corporativa,17.277,API BCRPData
+2000-02,tasa_corporativa,10.4318,API BCRPData
+2000-03,tasa_corporativa,11.8524,API BCRPData
+2000-04,tasa_corporativa,14.8284,API BCRPData
+2000-05,tasa_corporativa,17.0634,API BCRPData
+2000-06,tasa_corporativa,14.6946,API BCRPData
+2000-07,tasa_corporativa,12.244,API BCRPData
+2000-08,tasa_corporativa,9.3919,API BCRPData
+2000-09,tasa_corporativa,14.3817,API BCRPData
+2000-10,tasa_corporativa,15.7083,API BCRPData
+2000-11,tasa_corporativa,15.2124,API BCRPData
+2000-12,tasa_corporativa,12.4669,API BCRPData
+2001-01,tasa_corporativa,11.816,API BCRPData
+2001-02,tasa_corporativa,12.0202,API BCRPData
+2001-03,tasa_corporativa,11.3569,API BCRPData
+2001-04,tasa_corporativa,13.6481,API BCRPData
+2001-05,tasa_corporativa,13.787,API BCRPData
+2001-06,tasa_corporativa,17.3189,API BCRPData
+2001-07,tasa_corporativa,9.2874,API BCRPData
+2001-08,tasa_corporativa,6.4412,API BCRPData
+2001-09,tasa_corporativa,6.6541,API BCRPData
+2001-10,tasa_corporativa,5.2597,API BCRPData
+2001-11,tasa_corporativa,4.2171,API BCRPData
+2001-12,tasa_corporativa,3.83,API BCRPData
+2002-01,tasa_corporativa,3.3594,API BCRPData
+2002-02,tasa_corporativa,3.2611,API BCRPData
+2002-03,tasa_corporativa,3.1821,API BCRPData
+2002-04,tasa_corporativa,3.193,API BCRPData
+2002-05,tasa_corporativa,3.193,API BCRPData
+2002-06,tasa_corporativa,3.2981,API BCRPData
+2002-07,tasa_corporativa,3.6281,API BCRPData
+2002-08,tasa_corporativa,3.6461,API BCRPData
+2002-09,tasa_corporativa,6.234,API BCRPData
+2002-10,tasa_corporativa,5.3992,API BCRPData
+2002-11,tasa_corporativa,4.6698,API BCRPData
+2002-12,tasa_corporativa,4.5487,API BCRPData
+2003-01,tasa_corporativa,4.5015,API BCRPData
+2003-02,tasa_corporativa,4.5587,API BCRPData
+2003-03,tasa_corporativa,4.5746,API BCRPData
+2003-04,tasa_corporativa,4.5995,API BCRPData
+2003-05,tasa_corporativa,4.5399,API BCRPData
+2003-06,tasa_corporativa,4.4853,API BCRPData
+2003-07,tasa_corporativa,4.1966,API BCRPData
+2003-08,tasa_corporativa,3.7062,API BCRPData
+2003-09,tasa_corporativa,3.4482,API BCRPData
+2003-10,tasa_corporativa,3.3862,API BCRPData
+2003-11,tasa_corporativa,3.2654,API BCRPData
+2003-12,tasa_corporativa,3.171,API BCRPData
+2004-01,tasa_corporativa,3.0467,API BCRPData
+2004-02,tasa_corporativa,3.1563,API BCRPData
+2004-03,tasa_corporativa,3.1085,API BCRPData
+2004-04,tasa_corporativa,3.1232,API BCRPData
+2004-05,tasa_corporativa,3.1105,API BCRPData
+2004-06,tasa_corporativa,3.0803,API BCRPData
+2004-07,tasa_corporativa,3.0598,API BCRPData
+2004-08,tasa_corporativa,3.3002,API BCRPData
+2004-09,tasa_corporativa,3.3637,API BCRPData
+2004-10,tasa_corporativa,3.5757,API BCRPData
+2004-11,tasa_corporativa,3.6754,API BCRPData
+2004-12,tasa_corporativa,3.6437,API BCRPData
+2005-01,tasa_corporativa,3.6101,API BCRPData
+2005-02,tasa_corporativa,3.5269,API BCRPData
+2005-03,tasa_corporativa,3.558,API BCRPData
+2005-04,tasa_corporativa,3.6672,API BCRPData
+2005-05,tasa_corporativa,3.649,API BCRPData
+2005-06,tasa_corporativa,3.6245,API BCRPData
+2005-07,tasa_corporativa,3.6457,API BCRPData
+2005-08,tasa_corporativa,3.597,API BCRPData
+2005-09,tasa_corporativa,3.63,API BCRPData
+2005-10,tasa_corporativa,3.696,API BCRPData
+2005-11,tasa_corporativa,3.6766,API BCRPData
+2005-12,tasa_corporativa,4.0247,API BCRPData
+2006-01,tasa_corporativa,4.27,API BCRPData
+2006-02,tasa_corporativa,4.5231,API BCRPData
+2006-03,tasa_corporativa,4.8356,API BCRPData
+2006-04,tasa_corporativa,5.1512,API BCRPData
+2006-05,tasa_corporativa,5.2126,API BCRPData
+2006-06,tasa_corporativa,5.2657,API BCRPData
+2006-07,tasa_corporativa,5.2369,API BCRPData
+2006-08,tasa_corporativa,5.1751,API BCRPData
+2006-09,tasa_corporativa,5.2509,API BCRPData
+2006-10,tasa_corporativa,5.2468,API BCRPData
+2006-11,tasa_corporativa,5.2296,API BCRPData
+2006-12,tasa_corporativa,5.262,API BCRPData
+2007-01,tasa_corporativa,5.2108,API BCRPData
+2007-02,tasa_corporativa,5.2237,API BCRPData
+2007-03,tasa_corporativa,5.2576,API BCRPData
+2007-04,tasa_corporativa,5.2661,API BCRPData
+2007-05,tasa_corporativa,5.254,API BCRPData
+2007-06,tasa_corporativa,5.2817,API BCRPData
+2007-07,tasa_corporativa,5.4486,API BCRPData
+2007-08,tasa_corporativa,5.5382,API BCRPData
+2007-09,tasa_corporativa,5.7529,API BCRPData
+2007-10,tasa_corporativa,5.7604,API BCRPData
+2007-11,tasa_corporativa,5.7738,API BCRPData
+2007-12,tasa_corporativa,5.7774,API BCRPData
+2008-01,tasa_corporativa,5.186,API BCRPData
+2008-02,tasa_corporativa,5.7946,API BCRPData
+2008-03,tasa_corporativa,5.987,API BCRPData
+2008-04,tasa_corporativa,6.1559,API BCRPData
+2008-05,tasa_corporativa,6.3261,API BCRPData
+2008-06,tasa_corporativa,6.4829,API BCRPData
+2008-07,tasa_corporativa,6.7257,API BCRPData
+2008-08,tasa_corporativa,7.0362,API BCRPData
+2008-09,tasa_corporativa,7.2628,API BCRPData
+2008-10,tasa_corporativa,7.4466,API BCRPData
+2008-11,tasa_corporativa,7.3946,API BCRPData
+2008-12,tasa_corporativa,7.3916,API BCRPData
+2009-01,tasa_corporativa,7.4328,API BCRPData
+2009-02,tasa_corporativa,7.2886,API BCRPData
+2009-03,tasa_corporativa,6.9105,API BCRPData
+2009-04,tasa_corporativa,6.1377,API BCRPData
+2009-05,tasa_corporativa,5.037,API BCRPData
+2009-06,tasa_corporativa,3.8452,API BCRPData
+2009-07,tasa_corporativa,2.9105,API BCRPData
+2009-08,tasa_corporativa,1.9589,API BCRPData
+2009-09,tasa_corporativa,1.8261,API BCRPData
+2009-10,tasa_corporativa,1.7768,API BCRPData
+2009-11,tasa_corporativa,1.8476,API BCRPData
+2009-12,tasa_corporativa,1.8706,API BCRPData
+2010-01,tasa_corporativa,1.6155,API BCRPData
+2010-02,tasa_corporativa,1.8446,API BCRPData
+2010-03,tasa_corporativa,1.8667,API BCRPData
+2010-04,tasa_corporativa,1.8544,API BCRPData
+2010-05,tasa_corporativa,2.0952,API BCRPData
+2010-06,tasa_corporativa,2.2788,API BCRPData
+2010-07,tasa_corporativa,2.5857,API BCRPData
+2010-08,tasa_corporativa,3.392,API BCRPData
+2010-09,tasa_corporativa,3.813,API BCRPData
+2010-10,tasa_corporativa,3.841,API BCRPData
+2010-11,tasa_corporativa,3.654,API BCRPData
+2010-12,tasa_corporativa,3.6292,API BCRPData
+2011-01,tasa_corporativa,3.8403,API BCRPData
+2011-02,tasa_corporativa,4.1328,API BCRPData
+2011-03,tasa_corporativa,4.422,API BCRPData
+2011-04,tasa_corporativa,4.9028,API BCRPData
+2011-05,tasa_corporativa,5.3829,API BCRPData
+2011-06,tasa_corporativa,5.6209,API BCRPData
+2011-07,tasa_corporativa,5.4194,API BCRPData
+2011-08,tasa_corporativa,5.3906,API BCRPData
+2011-09,tasa_corporativa,5.317,API BCRPData
+2011-10,tasa_corporativa,5.4037,API BCRPData
+2011-11,tasa_corporativa,5.1702,API BCRPData
+2011-12,tasa_corporativa,5.3604,API BCRPData
+2012-01,tasa_corporativa,5.2828,API BCRPData
+2012-02,tasa_corporativa,5.3,API BCRPData
+2012-03,tasa_corporativa,5.2513,API BCRPData
+2012-04,tasa_corporativa,5.265,API BCRPData
+2012-05,tasa_corporativa,5.1938,API BCRPData
+2012-06,tasa_corporativa,5.1563,API BCRPData
+2012-07,tasa_corporativa,5.1698,API BCRPData
+2012-08,tasa_corporativa,5.1906,API BCRPData
+2012-09,tasa_corporativa,5.1102,API BCRPData
+2012-10,tasa_corporativa,5.0611,API BCRPData
+2012-11,tasa_corporativa,5.0593,API BCRPData
+2012-12,tasa_corporativa,5.0304,API BCRPData
+2013-01,tasa_corporativa,5.0298,API BCRPData
+2013-02,tasa_corporativa,4.8751,API BCRPData
+2013-03,tasa_corporativa,4.6881,API BCRPData
+2013-04,tasa_corporativa,4.4482,API BCRPData
+2013-05,tasa_corporativa,4.3607,API BCRPData
+2013-06,tasa_corporativa,4.4862,API BCRPData
+2013-07,tasa_corporativa,4.7471,API BCRPData
+2013-08,tasa_corporativa,4.6554,API BCRPData
+2013-09,tasa_corporativa,4.7181,API BCRPData
+2013-10,tasa_corporativa,4.7076,API BCRPData
+2013-11,tasa_corporativa,4.5043,API BCRPData
+2013-12,tasa_corporativa,4.4875,API BCRPData
+2014-01,tasa_corporativa,4.4809,API BCRPData
+2014-02,tasa_corporativa,4.7948,API BCRPData
+2014-03,tasa_corporativa,4.9354,API BCRPData
+2014-04,tasa_corporativa,5.0225,API BCRPData
+2014-05,tasa_corporativa,5.0269,API BCRPData
+2014-06,tasa_corporativa,4.9535,API BCRPData
+2014-07,tasa_corporativa,4.7393,API BCRPData
+2014-08,tasa_corporativa,4.6087,API BCRPData
+2014-09,tasa_corporativa,4.4861,API BCRPData
+2014-10,tasa_corporativa,4.4428,API BCRPData
+2014-11,tasa_corporativa,4.4378,API BCRPData
+2014-12,tasa_corporativa,4.6632,API BCRPData
+2015-01,tasa_corporativa,4.4829,API BCRPData
+2015-02,tasa_corporativa,4.1728,API BCRPData
+2015-03,tasa_corporativa,4.1913,API BCRPData
+2015-04,tasa_corporativa,4.3667,API BCRPData
+2015-05,tasa_corporativa,4.4803,API BCRPData
+2015-06,tasa_corporativa,4.1341,API BCRPData
+2015-07,tasa_corporativa,4.1685,API BCRPData
+2015-08,tasa_corporativa,4.483,API BCRPData
+2015-09,tasa_corporativa,4.9268,API BCRPData
+2015-10,tasa_corporativa,4.7596,API BCRPData
+2015-11,tasa_corporativa,4.8417,API BCRPData
+2015-12,tasa_corporativa,4.9317,API BCRPData
+2016-01,tasa_corporativa,4.9884,API BCRPData
+2016-02,tasa_corporativa,5.2324,API BCRPData
+2016-03,tasa_corporativa,5.3779,API BCRPData
+2016-04,tasa_corporativa,5.3769,API BCRPData
+2016-05,tasa_corporativa,5.4266,API BCRPData
+2016-06,tasa_corporativa,5.5167,API BCRPData
+2016-07,tasa_corporativa,5.4174,API BCRPData
+2016-08,tasa_corporativa,5.0871,API BCRPData
+2016-09,tasa_corporativa,4.9469,API BCRPData
+2016-10,tasa_corporativa,4.9397,API BCRPData
+2016-11,tasa_corporativa,4.9515,API BCRPData
+2016-12,tasa_corporativa,5.1925,API BCRPData
+2017-01,tasa_corporativa,5.1127,API BCRPData
+2017-02,tasa_corporativa,5.0111,API BCRPData
+2017-03,tasa_corporativa,4.9649,API BCRPData
+2017-04,tasa_corporativa,4.9442,API BCRPData
+2017-05,tasa_corporativa,4.7097,API BCRPData
+2017-06,tasa_corporativa,4.5507,API BCRPData
+2017-07,tasa_corporativa,4.4816,API BCRPData
+2017-08,tasa_corporativa,4.2758,API BCRPData
+2017-09,tasa_corporativa,3.8977,API BCRPData
+2017-10,tasa_corporativa,3.6451,API BCRPData
+2017-11,tasa_corporativa,3.5737,API BCRPData
+2017-12,tasa_corporativa,3.5602,API BCRPData
+2018-01,tasa_corporativa,3.4641,API BCRPData
+2018-02,tasa_corporativa,3.3265,API BCRPData
+2018-03,tasa_corporativa,3.2356,API BCRPData
+2018-04,tasa_corporativa,3.1521,API BCRPData
+2018-05,tasa_corporativa,3.2427,API BCRPData
+2018-06,tasa_corporativa,3.4706,API BCRPData
+2018-07,tasa_corporativa,3.6566,API BCRPData
+2018-08,tasa_corporativa,3.7944,API BCRPData
+2018-09,tasa_corporativa,3.8758,API BCRPData
+2018-10,tasa_corporativa,3.9819,API BCRPData
+2018-11,tasa_corporativa,4.123,API BCRPData
+2018-12,tasa_corporativa,4.3114,API BCRPData
+2019-01,tasa_corporativa,4.5276,API BCRPData
+2019-02,tasa_corporativa,4.3563,API BCRPData
+2019-03,tasa_corporativa,4.0849,API BCRPData
+2019-04,tasa_corporativa,4.0403,API BCRPData
+2019-05,tasa_corporativa,4.05,API BCRPData
+2019-06,tasa_corporativa,4.0253,API BCRPData
+2019-07,tasa_corporativa,3.9249,API BCRPData
+2019-08,tasa_corporativa,3.7128,API BCRPData
+2019-09,tasa_corporativa,3.5263,API BCRPData
+2019-10,tasa_corporativa,3.4438,API BCRPData
+2019-11,tasa_corporativa,3.3523,API BCRPData
+2019-12,tasa_corporativa,3.2587,API BCRPData
+2020-01,tasa_corporativa,3.2747,API BCRPData
+2020-02,tasa_corporativa,3.1977,API BCRPData
+2020-03,tasa_corporativa,3.0473,API BCRPData
+2020-04,tasa_corporativa,2.3516,API BCRPData
+2020-05,tasa_corporativa,1.4852,API BCRPData
+2020-06,tasa_corporativa,1.0749,API BCRPData
+2020-07,tasa_corporativa,0.9011,API BCRPData
+2020-08,tasa_corporativa,1.09,API BCRPData
+2020-09,tasa_corporativa,1.0285,API BCRPData
+2020-10,tasa_corporativa,0.7759,API BCRPData
+2020-11,tasa_corporativa,0.6906,API BCRPData
+2020-12,tasa_corporativa,0.6189,API BCRPData
+2021-01,tasa_corporativa,0.6644,API BCRPData
+2021-02,tasa_corporativa,0.5929,API BCRPData
+2021-03,tasa_corporativa,0.5577,API BCRPData
+2021-04,tasa_corporativa,0.5062,API BCRPData
+2021-05,tasa_corporativa,0.6641,API BCRPData
+2021-06,tasa_corporativa,0.9206,API BCRPData
+2021-07,tasa_corporativa,0.7924,API BCRPData
+2021-08,tasa_corporativa,0.8452,API BCRPData
+2021-09,tasa_corporativa,1.2422,API BCRPData
+2021-10,tasa_corporativa,1.7906,API BCRPData
+2021-11,tasa_corporativa,2.3431,API BCRPData
+2021-12,tasa_corporativa,2.8714,API BCRPData
+2022-01,tasa_corporativa,3.5743,API BCRPData
+2022-02,tasa_corporativa,4.1679,API BCRPData
+2022-03,tasa_corporativa,4.553,API BCRPData
+2022-04,tasa_corporativa,5.3908,API BCRPData
+2022-05,tasa_corporativa,6.1156,API BCRPData
+2022-06,tasa_corporativa,6.5066,API BCRPData
+2022-07,tasa_corporativa,7.1747,API BCRPData
+2022-08,tasa_corporativa,7.8556,API BCRPData
+2022-09,tasa_corporativa,7.9938,API BCRPData
+2022-10,tasa_corporativa,8.2644,API BCRPData
+2022-11,tasa_corporativa,8.4504,API BCRPData
+2022-12,tasa_corporativa,8.7459,API BCRPData
+2023-01,tasa_corporativa,9.4381,API BCRPData
+2023-02,tasa_corporativa,9.4919,API BCRPData
+2023-03,tasa_corporativa,9.0567,API BCRPData
+2023-04,tasa_corporativa,9.0685,API BCRPData
+2023-05,tasa_corporativa,9.1889,API BCRPData
+2023-06,tasa_corporativa,9.3105,API BCRPData
+2023-07,tasa_corporativa,9.244,API BCRPData
+2023-08,tasa_corporativa,9.041,API BCRPData
+2023-09,tasa_corporativa,8.8215,API BCRPData
+2023-10,tasa_corporativa,8.3505,API BCRPData
+2023-11,tasa_corporativa,7.9954,API BCRPData
+2023-12,tasa_corporativa,7.656,API BCRPData
+2024-01,tasa_corporativa,7.294,API BCRPData
+2024-02,tasa_corporativa,6.8902,API BCRPData
+2024-03,tasa_corporativa,6.5961,API BCRPData
+2024-04,tasa_corporativa,6.4786,API BCRPData
+2024-05,tasa_corporativa,6.3612,API BCRPData
+2024-06,tasa_corporativa,6.238,API BCRPData
+2024-07,tasa_corporativa,5.9434,API BCRPData
+2024-08,tasa_corporativa,5.736,API BCRPData
+2024-09,tasa_corporativa,5.5418,API BCRPData
+2024-10,tasa_corporativa,5.5019,API BCRPData
+2024-11,tasa_corporativa,5.4011,API BCRPData
+2024-12,tasa_corporativa,5.1856,API BCRPData
+2025-01,tasa_corporativa,5.0934,API BCRPData
+2025-02,tasa_corporativa,5.0581,API BCRPData
+2025-03,tasa_corporativa,4.9808,API BCRPData
+2025-04,tasa_corporativa,5.1185,API BCRPData
+2025-05,tasa_corporativa,5.0515,API BCRPData
+2025-06,tasa_corporativa,4.9998,API BCRPData
+2025-07,tasa_corporativa,5.0848,API BCRPData
+2025-08,tasa_corporativa,5.0419,API BCRPData
+2025-09,tasa_corporativa,4.9333,API BCRPData
+2025-10,tasa_corporativa,4.8992,API BCRPData
+2025-11,tasa_corporativa,4.8408,API BCRPData
+2025-12,tasa_corporativa,4.7816,API BCRPData
+2000-01,tipo_cambio,3.5009,API BCRPData
+2000-02,tipo_cambio,3.4566,API BCRPData
+2000-03,tipo_cambio,3.4442,API BCRPData
+2000-04,tipo_cambio,3.4802,API BCRPData
+2000-05,tipo_cambio,3.505,API BCRPData
+2000-06,tipo_cambio,3.4876,API BCRPData
+2000-07,tipo_cambio,3.4806,API BCRPData
+2000-08,tipo_cambio,3.4782,API BCRPData
+2000-09,tipo_cambio,3.4858,API BCRPData
+2000-10,tipo_cambio,3.5014,API BCRPData
+2000-11,tipo_cambio,3.5301,API BCRPData
+2000-12,tipo_cambio,3.5201,API BCRPData
+2001-01,tipo_cambio,3.5236,API BCRPData
+2001-02,tipo_cambio,3.5291,API BCRPData
+2001-03,tipo_cambio,3.5204,API BCRPData
+2001-04,tipo_cambio,3.561,API BCRPData
+2001-05,tipo_cambio,3.6021,API BCRPData
+2001-06,tipo_cambio,3.5313,API BCRPData
+2001-07,tipo_cambio,3.504,API BCRPData
+2001-08,tipo_cambio,3.4924,API BCRPData
+2001-09,tipo_cambio,3.4907,API BCRPData
+2001-10,tipo_cambio,3.4602,API BCRPData
+2001-11,tipo_cambio,3.4396,API BCRPData
+2001-12,tipo_cambio,3.4358,API BCRPData
+2002-01,tipo_cambio,3.4613,API BCRPData
+2002-02,tipo_cambio,3.4776,API BCRPData
+2002-03,tipo_cambio,3.4561,API BCRPData
+2002-04,tipo_cambio,3.4387,API BCRPData
+2002-05,tipo_cambio,3.4521,API BCRPData
+2002-06,tipo_cambio,3.4821,API BCRPData
+2002-07,tipo_cambio,3.5348,API BCRPData
+2002-08,tipo_cambio,3.5717,API BCRPData
+2002-09,tipo_cambio,3.6209,API BCRPData
+2002-10,tipo_cambio,3.6152,API BCRPData
+2002-11,tipo_cambio,3.5833,API BCRPData
+2002-12,tipo_cambio,3.5151,API BCRPData
+2003-01,tipo_cambio,3.4942,API BCRPData
+2003-02,tipo_cambio,3.4844,API BCRPData
+2003-03,tipo_cambio,3.4797,API BCRPData
+2003-04,tipo_cambio,3.4648,API BCRPData
+2003-05,tipo_cambio,3.482,API BCRPData
+2003-06,tipo_cambio,3.4791,API BCRPData
+2003-07,tipo_cambio,3.4713,API BCRPData
+2003-08,tipo_cambio,3.4806,API BCRPData
+2003-09,tipo_cambio,3.4812,API BCRPData
+2003-10,tipo_cambio,3.4784,API BCRPData
+2003-11,tipo_cambio,3.4779,API BCRPData
+2003-12,tipo_cambio,3.4714,API BCRPData
+2004-01,tipo_cambio,3.4678,API BCRPData
+2004-02,tipo_cambio,3.4839,API BCRPData
+2004-03,tipo_cambio,3.4656,API BCRPData
+2004-04,tipo_cambio,3.4706,API BCRPData
+2004-05,tipo_cambio,3.488,API BCRPData
+2004-06,tipo_cambio,3.4777,API BCRPData
+2004-07,tipo_cambio,3.4416,API BCRPData
+2004-08,tipo_cambio,3.3958,API BCRPData
+2004-09,tipo_cambio,3.3602,API BCRPData
+2004-10,tipo_cambio,3.324,API BCRPData
+2004-11,tipo_cambio,3.3115,API BCRPData
+2004-12,tipo_cambio,3.2841,API BCRPData
+2005-01,tipo_cambio,3.2709,API BCRPData
+2005-02,tipo_cambio,3.2598,API BCRPData
+2005-03,tipo_cambio,3.2602,API BCRPData
+2005-04,tipo_cambio,3.2585,API BCRPData
+2005-05,tipo_cambio,3.2555,API BCRPData
+2005-06,tipo_cambio,3.2535,API BCRPData
+2005-07,tipo_cambio,3.2526,API BCRPData
+2005-08,tipo_cambio,3.2585,API BCRPData
+2005-09,tipo_cambio,3.3092,API BCRPData
+2005-10,tipo_cambio,3.3818,API BCRPData
+2005-11,tipo_cambio,3.3778,API BCRPData
+2005-12,tipo_cambio,3.4257,API BCRPData
+2006-01,tipo_cambio,3.3947,API BCRPData
+2006-02,tipo_cambio,3.2895,API BCRPData
+2006-03,tipo_cambio,3.3422,API BCRPData
+2006-04,tipo_cambio,3.3333,API BCRPData
+2006-05,tipo_cambio,3.2803,API BCRPData
+2006-06,tipo_cambio,3.2655,API BCRPData
+2006-07,tipo_cambio,3.244,API BCRPData
+2006-08,tipo_cambio,3.2352,API BCRPData
+2006-09,tipo_cambio,3.2488,API BCRPData
+2006-10,tipo_cambio,3.2382,API BCRPData
+2006-11,tipo_cambio,3.2234,API BCRPData
+2006-12,tipo_cambio,3.2059,API BCRPData
+2007-01,tipo_cambio,3.1933,API BCRPData
+2007-02,tipo_cambio,3.191,API BCRPData
+2007-03,tipo_cambio,3.1864,API BCRPData
+2007-04,tipo_cambio,3.1787,API BCRPData
+2007-05,tipo_cambio,3.1682,API BCRPData
+2007-06,tipo_cambio,3.1709,API BCRPData
+2007-07,tipo_cambio,3.1618,API BCRPData
+2007-08,tipo_cambio,3.1587,API BCRPData
+2007-09,tipo_cambio,3.1366,API BCRPData
+2007-10,tipo_cambio,3.0206,API BCRPData
+2007-11,tipo_cambio,3.0019,API BCRPData
+2007-12,tipo_cambio,2.9826,API BCRPData
+2008-01,tipo_cambio,2.9518,API BCRPData
+2008-02,tipo_cambio,2.9061,API BCRPData
+2008-03,tipo_cambio,2.812,API BCRPData
+2008-04,tipo_cambio,2.7519,API BCRPData
+2008-05,tipo_cambio,2.8071,API BCRPData
+2008-06,tipo_cambio,2.8948,API BCRPData
+2008-07,tipo_cambio,2.8501,API BCRPData
+2008-08,tipo_cambio,2.8963,API BCRPData
+2008-09,tipo_cambio,2.9682,API BCRPData
+2008-10,tipo_cambio,3.0816,API BCRPData
+2008-11,tipo_cambio,3.0934,API BCRPData
+2008-12,tipo_cambio,3.1155,API BCRPData
+2009-01,tipo_cambio,3.1526,API BCRPData
+2009-02,tipo_cambio,3.2382,API BCRPData
+2009-03,tipo_cambio,3.1764,API BCRPData
+2009-04,tipo_cambio,3.0854,API BCRPData
+2009-05,tipo_cambio,2.9959,API BCRPData
+2009-06,tipo_cambio,2.9921,API BCRPData
+2009-07,tipo_cambio,3.0136,API BCRPData
+2009-08,tipo_cambio,2.9518,API BCRPData
+2009-09,tipo_cambio,2.9106,API BCRPData
+2009-10,tipo_cambio,2.8733,API BCRPData
+2009-11,tipo_cambio,2.8855,API BCRPData
+2009-12,tipo_cambio,2.8786,API BCRPData
+2010-01,tipo_cambio,2.8573,API BCRPData
+2010-02,tipo_cambio,2.8548,API BCRPData
+2010-03,tipo_cambio,2.8401,API BCRPData
+2010-04,tipo_cambio,2.8404,API BCRPData
+2010-05,tipo_cambio,2.8464,API BCRPData
+2010-06,tipo_cambio,2.8388,API BCRPData
+2010-07,tipo_cambio,2.8237,API BCRPData
+2010-08,tipo_cambio,2.8028,API BCRPData
+2010-09,tipo_cambio,2.7912,API BCRPData
+2010-10,tipo_cambio,2.7924,API BCRPData
+2010-11,tipo_cambio,2.8066,API BCRPData
+2010-12,tipo_cambio,2.816,API BCRPData
+2011-01,tipo_cambio,2.7875,API BCRPData
+2011-02,tipo_cambio,2.7718,API BCRPData
+2011-03,tipo_cambio,2.7803,API BCRPData
+2011-04,tipo_cambio,2.8168,API BCRPData
+2011-05,tipo_cambio,2.7751,API BCRPData
+2011-06,tipo_cambio,2.7647,API BCRPData
+2011-07,tipo_cambio,2.7421,API BCRPData
+2011-08,tipo_cambio,2.7401,API BCRPData
+2011-09,tipo_cambio,2.7452,API BCRPData
+2011-10,tipo_cambio,2.7321,API BCRPData
+2011-11,tipo_cambio,2.7059,API BCRPData
+2011-12,tipo_cambio,2.6968,API BCRPData
+2012-01,tipo_cambio,2.6931,API BCRPData
+2012-02,tipo_cambio,2.6839,API BCRPData
+2012-03,tipo_cambio,2.6724,API BCRPData
+2012-04,tipo_cambio,2.6571,API BCRPData
+2012-05,tipo_cambio,2.6703,API BCRPData
+2012-06,tipo_cambio,2.6717,API BCRPData
+2012-07,tipo_cambio,2.6367,API BCRPData
+2012-08,tipo_cambio,2.6164,API BCRPData
+2012-09,tipo_cambio,2.603,API BCRPData
+2012-10,tipo_cambio,2.5883,API BCRPData
+2012-11,tipo_cambio,2.5992,API BCRPData
+2012-12,tipo_cambio,2.567,API BCRPData
+2013-01,tipo_cambio,2.5526,API BCRPData
+2013-02,tipo_cambio,2.5789,API BCRPData
+2013-03,tipo_cambio,2.5947,API BCRPData
+2013-04,tipo_cambio,2.599,API BCRPData
+2013-05,tipo_cambio,2.6473,API BCRPData
+2013-06,tipo_cambio,2.751,API BCRPData
+2013-07,tipo_cambio,2.7786,API BCRPData
+2013-08,tipo_cambio,2.8027,API BCRPData
+2013-09,tipo_cambio,2.7835,API BCRPData
+2013-10,tipo_cambio,2.7702,API BCRPData
+2013-11,tipo_cambio,2.7992,API BCRPData
+2013-12,tipo_cambio,2.7867,API BCRPData
+2014-01,tipo_cambio,2.8102,API BCRPData
+2014-02,tipo_cambio,2.8134,API BCRPData
+2014-03,tipo_cambio,2.8073,API BCRPData
+2014-04,tipo_cambio,2.7951,API BCRPData
+2014-05,tipo_cambio,2.7879,API BCRPData
+2014-06,tipo_cambio,2.7954,API BCRPData
+2014-07,tipo_cambio,2.7874,API BCRPData
+2014-08,tipo_cambio,2.8158,API BCRPData
+2014-09,tipo_cambio,2.8658,API BCRPData
+2014-10,tipo_cambio,2.9075,API BCRPData
+2014-11,tipo_cambio,2.9264,API BCRPData
+2014-12,tipo_cambio,2.9638,API BCRPData
+2015-01,tipo_cambio,3.0076,API BCRPData
+2015-02,tipo_cambio,3.0801,API BCRPData
+2015-03,tipo_cambio,3.0933,API BCRPData
+2015-04,tipo_cambio,3.1216,API BCRPData
+2015-05,tipo_cambio,3.1522,API BCRPData
+2015-06,tipo_cambio,3.1626,API BCRPData
+2015-07,tipo_cambio,3.1829,API BCRPData
+2015-08,tipo_cambio,3.2413,API BCRPData
+2015-09,tipo_cambio,3.2204,API BCRPData
+2015-10,tipo_cambio,3.2508,API BCRPData
+2015-11,tipo_cambio,3.339,API BCRPData
+2015-12,tipo_cambio,3.3847,API BCRPData
+2016-01,tipo_cambio,3.4395,API BCRPData
+2016-02,tipo_cambio,3.5079,API BCRPData
+2016-03,tipo_cambio,3.4088,API BCRPData
+2016-04,tipo_cambio,3.3041,API BCRPData
+2016-05,tipo_cambio,3.3363,API BCRPData
+2016-06,tipo_cambio,3.3186,API BCRPData
+2016-07,tipo_cambio,3.3012,API BCRPData
+2016-08,tipo_cambio,3.3354,API BCRPData
+2016-09,tipo_cambio,3.384,API BCRPData
+2016-10,tipo_cambio,3.3874,API BCRPData
+2016-11,tipo_cambio,3.4051,API BCRPData
+2016-12,tipo_cambio,3.3975,API BCRPData
+2017-01,tipo_cambio,3.3423,API BCRPData
+2017-02,tipo_cambio,3.2616,API BCRPData
+2017-03,tipo_cambio,3.2657,API BCRPData
+2017-04,tipo_cambio,3.2494,API BCRPData
+2017-05,tipo_cambio,3.2758,API BCRPData
+2017-06,tipo_cambio,3.2705,API BCRPData
+2017-07,tipo_cambio,3.2513,API BCRPData
+2017-08,tipo_cambio,3.2438,API BCRPData
+2017-09,tipo_cambio,3.2477,API BCRPData
+2017-10,tipo_cambio,3.253,API BCRPData
+2017-11,tipo_cambio,3.2429,API BCRPData
+2017-12,tipo_cambio,3.2488,API BCRPData
+2018-01,tipo_cambio,3.216,API BCRPData
+2018-02,tipo_cambio,3.25,API BCRPData
+2018-03,tipo_cambio,3.2531,API BCRPData
+2018-04,tipo_cambio,3.2314,API BCRPData
+2018-05,tipo_cambio,3.2748,API BCRPData
+2018-06,tipo_cambio,3.2722,API BCRPData
+2018-07,tipo_cambio,3.2781,API BCRPData
+2018-08,tipo_cambio,3.2897,API BCRPData
+2018-09,tipo_cambio,3.3126,API BCRPData
+2018-10,tipo_cambio,3.3355,API BCRPData
+2018-11,tipo_cambio,3.3763,API BCRPData
+2018-12,tipo_cambio,3.3652,API BCRPData
+2019-01,tipo_cambio,3.3444,API BCRPData
+2019-02,tipo_cambio,3.3223,API BCRPData
+2019-03,tipo_cambio,3.3058,API BCRPData
+2019-04,tipo_cambio,3.305,API BCRPData
+2019-05,tipo_cambio,3.3343,API BCRPData
+2019-06,tipo_cambio,3.326,API BCRPData
+2019-07,tipo_cambio,3.2911,API BCRPData
+2019-08,tipo_cambio,3.3796,API BCRPData
+2019-09,tipo_cambio,3.3582,API BCRPData
+2019-10,tipo_cambio,3.361,API BCRPData
+2019-11,tipo_cambio,3.3736,API BCRPData
+2019-12,tipo_cambio,3.3557,API BCRPData
+2020-01,tipo_cambio,3.3287,API BCRPData
+2020-02,tipo_cambio,3.3922,API BCRPData
+2020-03,tipo_cambio,3.4947,API BCRPData
+2020-04,tipo_cambio,3.4008,API BCRPData
+2020-05,tipo_cambio,3.4236,API BCRPData
+2020-06,tipo_cambio,3.4724,API BCRPData
+2020-07,tipo_cambio,3.5186,API BCRPData
+2020-08,tipo_cambio,3.5655,API BCRPData
+2020-09,tipo_cambio,3.5565,API BCRPData
+2020-10,tipo_cambio,3.5971,API BCRPData
+2020-11,tipo_cambio,3.6101,API BCRPData
+2020-12,tipo_cambio,3.6042,API BCRPData
+2021-01,tipo_cambio,3.6259,API BCRPData
+2021-02,tipo_cambio,3.6464,API BCRPData
+2021-03,tipo_cambio,3.711,API BCRPData
+2021-04,tipo_cambio,3.7016,API BCRPData
+2021-05,tipo_cambio,3.7759,API BCRPData
+2021-06,tipo_cambio,3.9139,API BCRPData
+2021-07,tipo_cambio,3.9445,API BCRPData
+2021-08,tipo_cambio,4.0889,API BCRPData
+2021-09,tipo_cambio,4.1089,API BCRPData
+2021-10,tipo_cambio,4.015,API BCRPData
+2021-11,tipo_cambio,4.0217,API BCRPData
+2021-12,tipo_cambio,4.0388,API BCRPData
+2022-01,tipo_cambio,3.8898,API BCRPData
+2022-02,tipo_cambio,3.7938,API BCRPData
+2022-03,tipo_cambio,3.7408,API BCRPData
+2022-04,tipo_cambio,3.7433,API BCRPData
+2022-05,tipo_cambio,3.7596,API BCRPData
+2022-06,tipo_cambio,3.7502,API BCRPData
+2022-07,tipo_cambio,3.9053,API BCRPData
+2022-08,tipo_cambio,3.8757,API BCRPData
+2022-09,tipo_cambio,3.9015,API BCRPData
+2022-10,tipo_cambio,3.9806,API BCRPData
+2022-11,tipo_cambio,3.8785,API BCRPData
+2022-12,tipo_cambio,3.8318,API BCRPData
+2023-01,tipo_cambio,3.836,API BCRPData
+2023-02,tipo_cambio,3.8424,API BCRPData
+2023-03,tipo_cambio,3.7806,API BCRPData
+2023-04,tipo_cambio,3.766,API BCRPData
+2023-05,tipo_cambio,3.6898,API BCRPData
+2023-06,tipo_cambio,3.652,API BCRPData
+2023-07,tipo_cambio,3.6024,API BCRPData
+2023-08,tipo_cambio,3.6984,API BCRPData
+2023-09,tipo_cambio,3.732,API BCRPData
+2023-10,tipo_cambio,3.847,API BCRPData
+2023-11,tipo_cambio,3.7621,API BCRPData
+2023-12,tipo_cambio,3.7351,API BCRPData
+2024-01,tipo_cambio,3.7419,API BCRPData
+2024-02,tipo_cambio,3.829,API BCRPData
+2024-03,tipo_cambio,3.71,API BCRPData
+2024-04,tipo_cambio,3.7167,API BCRPData
+2024-05,tipo_cambio,3.7329,API BCRPData
+2024-06,tipo_cambio,3.7884,API BCRPData
+2024-07,tipo_cambio,3.7661,API BCRPData
+2024-08,tipo_cambio,3.7429,API BCRPData
+2024-09,tipo_cambio,3.7699,API BCRPData
+2024-10,tipo_cambio,3.7558,API BCRPData
+2024-11,tipo_cambio,3.7803,API BCRPData
+2024-12,tipo_cambio,3.7366,API BCRPData
+2025-01,tipo_cambio,3.7483,API BCRPData
+2025-02,tipo_cambio,3.6982,API BCRPData
+2025-03,tipo_cambio,3.6534,API BCRPData
+2025-04,tipo_cambio,3.7013,API BCRPData
+2025-05,tipo_cambio,3.6609,API BCRPData
+2025-06,tipo_cambio,3.6039,API BCRPData
+2025-07,tipo_cambio,3.5579,API BCRPData
+2025-08,tipo_cambio,3.5437,API BCRPData
+2025-09,tipo_cambio,3.5031,API BCRPData
+2025-10,tipo_cambio,3.415,API BCRPData
+2025-11,tipo_cambio,3.3738,API BCRPData
+2025-12,tipo_cambio,3.3678,API BCRPData
+2000-01,terminos_intercambio,59.0971,API BCRPData
+2000-02,terminos_intercambio,58.0512,API BCRPData
+2000-03,terminos_intercambio,57.4415,API BCRPData
+2000-04,terminos_intercambio,55.8368,API BCRPData
+2000-05,terminos_intercambio,56.3505,API BCRPData
+2000-06,terminos_intercambio,56.0051,API BCRPData
+2000-07,terminos_intercambio,57.1609,API BCRPData
+2000-08,terminos_intercambio,56.0473,API BCRPData
+2000-09,terminos_intercambio,56.8333,API BCRPData
+2000-10,terminos_intercambio,55.3724,API BCRPData
+2000-11,terminos_intercambio,56.3713,API BCRPData
+2000-12,terminos_intercambio,54.5987,API BCRPData
+2001-01,terminos_intercambio,54.5115,API BCRPData
+2001-02,terminos_intercambio,56.8209,API BCRPData
+2001-03,terminos_intercambio,56.4601,API BCRPData
+2001-04,terminos_intercambio,54.2557,API BCRPData
+2001-05,terminos_intercambio,55.6304,API BCRPData
+2001-06,terminos_intercambio,56.2841,API BCRPData
+2001-07,terminos_intercambio,56.7653,API BCRPData
+2001-08,terminos_intercambio,56.4285,API BCRPData
+2001-09,terminos_intercambio,55.7468,API BCRPData
+2001-10,terminos_intercambio,56.5031,API BCRPData
+2001-11,terminos_intercambio,58.067,API BCRPData
+2001-12,terminos_intercambio,58.4793,API BCRPData
+2002-01,terminos_intercambio,58.372,API BCRPData
+2002-02,terminos_intercambio,59.1427,API BCRPData
+2002-03,terminos_intercambio,60.5007,API BCRPData
+2002-04,terminos_intercambio,60.4226,API BCRPData
+2002-05,terminos_intercambio,60.2916,API BCRPData
+2002-06,terminos_intercambio,60.6483,API BCRPData
+2002-07,terminos_intercambio,61.823,API BCRPData
+2002-08,terminos_intercambio,59.8657,API BCRPData
+2002-09,terminos_intercambio,59.0095,API BCRPData
+2002-10,terminos_intercambio,60.6787,API BCRPData
+2002-11,terminos_intercambio,62.1477,API BCRPData
+2002-12,terminos_intercambio,61.392,API BCRPData
+2003-01,terminos_intercambio,60.2151,API BCRPData
+2003-02,terminos_intercambio,60.3658,API BCRPData
+2003-03,terminos_intercambio,58.4999,API BCRPData
+2003-04,terminos_intercambio,56.8424,API BCRPData
+2003-05,terminos_intercambio,59.3158,API BCRPData
+2003-06,terminos_intercambio,59.5225,API BCRPData
+2003-07,terminos_intercambio,60.7878,API BCRPData
+2003-08,terminos_intercambio,61.0435,API BCRPData
+2003-09,terminos_intercambio,63.7539,API BCRPData
+2003-10,terminos_intercambio,63.2017,API BCRPData
+2003-11,terminos_intercambio,66.8301,API BCRPData
+2003-12,terminos_intercambio,65.2055,API BCRPData
+2004-01,terminos_intercambio,66.9536,API BCRPData
+2004-02,terminos_intercambio,70.8147,API BCRPData
+2004-03,terminos_intercambio,74.1047,API BCRPData
+2004-04,terminos_intercambio,70.7774,API BCRPData
+2004-05,terminos_intercambio,69.7822,API BCRPData
+2004-06,terminos_intercambio,70.1023,API BCRPData
+2004-07,terminos_intercambio,67.199,API BCRPData
+2004-08,terminos_intercambio,67.9638,API BCRPData
+2004-09,terminos_intercambio,67.6744,API BCRPData
+2004-10,terminos_intercambio,69.7756,API BCRPData
+2004-11,terminos_intercambio,67.065,API BCRPData
+2004-12,terminos_intercambio,69.2295,API BCRPData
+2005-01,terminos_intercambio,69.422,API BCRPData
+2005-02,terminos_intercambio,70.9298,API BCRPData
+2005-03,terminos_intercambio,71.0498,API BCRPData
+2005-04,terminos_intercambio,71.5497,API BCRPData
+2005-05,terminos_intercambio,71.7291,API BCRPData
+2005-06,terminos_intercambio,72.7509,API BCRPData
+2005-07,terminos_intercambio,71.593,API BCRPData
+2005-08,terminos_intercambio,72.9601,API BCRPData
+2005-09,terminos_intercambio,74.3387,API BCRPData
+2005-10,terminos_intercambio,72.7269,API BCRPData
+2005-11,terminos_intercambio,77.8702,API BCRPData
+2005-12,terminos_intercambio,80.4438,API BCRPData
+2006-01,terminos_intercambio,82.5649,API BCRPData
+2006-02,terminos_intercambio,82.8111,API BCRPData
+2006-03,terminos_intercambio,85.0013,API BCRPData
+2006-04,terminos_intercambio,91.818,API BCRPData
+2006-05,terminos_intercambio,98.3635,API BCRPData
+2006-06,terminos_intercambio,97.0162,API BCRPData
+2006-07,terminos_intercambio,97.5361,API BCRPData
+2006-08,terminos_intercambio,99.5028,API BCRPData
+2006-09,terminos_intercambio,96.3016,API BCRPData
+2006-10,terminos_intercambio,98.4989,API BCRPData
+2006-11,terminos_intercambio,100.4194,API BCRPData
+2006-12,terminos_intercambio,98.4874,API BCRPData
+2007-01,terminos_intercambio,99.3961,API BCRPData
+2007-02,terminos_intercambio,99.0953,API BCRPData
+2007-03,terminos_intercambio,100.4372,API BCRPData
+2007-04,terminos_intercambio,106.8491,API BCRPData
+2007-05,terminos_intercambio,107.7049,API BCRPData
+2007-06,terminos_intercambio,101.7077,API BCRPData
+2007-07,terminos_intercambio,103.9534,API BCRPData
+2007-08,terminos_intercambio,99.3476,API BCRPData
+2007-09,terminos_intercambio,95.7533,API BCRPData
+2007-10,terminos_intercambio,97.1322,API BCRPData
+2007-11,terminos_intercambio,95.6208,API BCRPData
+2007-12,terminos_intercambio,94.7371,API BCRPData
+2008-01,terminos_intercambio,94.4608,API BCRPData
+2008-02,terminos_intercambio,96.7333,API BCRPData
+2008-03,terminos_intercambio,97.5334,API BCRPData
+2008-04,terminos_intercambio,98.1466,API BCRPData
+2008-05,terminos_intercambio,91.4755,API BCRPData
+2008-06,terminos_intercambio,88.9889,API BCRPData
+2008-07,terminos_intercambio,88.5511,API BCRPData
+2008-08,terminos_intercambio,84.5326,API BCRPData
+2008-09,terminos_intercambio,81.2446,API BCRPData
+2008-10,terminos_intercambio,75.9865,API BCRPData
+2008-11,terminos_intercambio,71.4632,API BCRPData
+2008-12,terminos_intercambio,72.1315,API BCRPData
+2009-01,terminos_intercambio,74.0726,API BCRPData
+2009-02,terminos_intercambio,77.3443,API BCRPData
+2009-03,terminos_intercambio,79.3217,API BCRPData
+2009-04,terminos_intercambio,80.3833,API BCRPData
+2009-05,terminos_intercambio,84.4696,API BCRPData
+2009-06,terminos_intercambio,84.7287,API BCRPData
+2009-07,terminos_intercambio,86.4149,API BCRPData
+2009-08,terminos_intercambio,88.8321,API BCRPData
+2009-09,terminos_intercambio,91.4416,API BCRPData
+2009-10,terminos_intercambio,95.0407,API BCRPData
+2009-11,terminos_intercambio,98.5869,API BCRPData
+2009-12,terminos_intercambio,100.4315,API BCRPData
+2010-01,terminos_intercambio,101.5337,API BCRPData
+2010-02,terminos_intercambio,100.4831,API BCRPData
+2010-03,terminos_intercambio,99.1444,API BCRPData
+2010-04,terminos_intercambio,101.6846,API BCRPData
+2010-05,terminos_intercambio,104.3949,API BCRPData
+2010-06,terminos_intercambio,101.1641,API BCRPData
+2010-07,terminos_intercambio,99.9491,API BCRPData
+2010-08,terminos_intercambio,102.4876,API BCRPData
+2010-09,terminos_intercambio,105.9305,API BCRPData
+2010-10,terminos_intercambio,109.3589,API BCRPData
+2010-11,terminos_intercambio,109.4951,API BCRPData
+2010-12,terminos_intercambio,110.7105,API BCRPData
+2011-01,terminos_intercambio,111.5061,API BCRPData
+2011-02,terminos_intercambio,112.6464,API BCRPData
+2011-03,terminos_intercambio,112.6147,API BCRPData
+2011-04,terminos_intercambio,111.6053,API BCRPData
+2011-05,terminos_intercambio,111.6168,API BCRPData
+2011-06,terminos_intercambio,108.4084,API BCRPData
+2011-07,terminos_intercambio,110.0188,API BCRPData
+2011-08,terminos_intercambio,113.5678,API BCRPData
+2011-09,terminos_intercambio,111.1592,API BCRPData
+2011-10,terminos_intercambio,105.7604,API BCRPData
+2011-11,terminos_intercambio,104.4941,API BCRPData
+2011-12,terminos_intercambio,105.6394,API BCRPData
+2012-01,terminos_intercambio,109.2096,API BCRPData
+2012-02,terminos_intercambio,111.6823,API BCRPData
+2012-03,terminos_intercambio,108.961,API BCRPData
+2012-04,terminos_intercambio,107.335,API BCRPData
+2012-05,terminos_intercambio,108.2388,API BCRPData
+2012-06,terminos_intercambio,103.111,API BCRPData
+2012-07,terminos_intercambio,105.1504,API BCRPData
+2012-08,terminos_intercambio,105.3636,API BCRPData
+2012-09,terminos_intercambio,108.6808,API BCRPData
+2012-10,terminos_intercambio,108.412,API BCRPData
+2012-11,terminos_intercambio,109.0153,API BCRPData
+2012-12,terminos_intercambio,110.6973,API BCRPData
+2013-01,terminos_intercambio,111.1997,API BCRPData
+2013-02,terminos_intercambio,109.6282,API BCRPData
+2013-03,terminos_intercambio,106.1125,API BCRPData
+2013-04,terminos_intercambio,103.5201,API BCRPData
+2013-05,terminos_intercambio,101.3871,API BCRPData
+2013-06,terminos_intercambio,98.5724,API BCRPData
+2013-07,terminos_intercambio,98.4166,API BCRPData
+2013-08,terminos_intercambio,97.8873,API BCRPData
+2013-09,terminos_intercambio,101.8602,API BCRPData
+2013-10,terminos_intercambio,99.2737,API BCRPData
+2013-11,terminos_intercambio,99.0214,API BCRPData
+2013-12,terminos_intercambio,97.9141,API BCRPData
+2014-01,terminos_intercambio,98.2644,API BCRPData
+2014-02,terminos_intercambio,98.519,API BCRPData
+2014-03,terminos_intercambio,97.4327,API BCRPData
+2014-04,terminos_intercambio,99.004,API BCRPData
+2014-05,terminos_intercambio,96.3111,API BCRPData
+2014-06,terminos_intercambio,94.5922,API BCRPData
+2014-07,terminos_intercambio,98.258,API BCRPData
+2014-08,terminos_intercambio,98.7598,API BCRPData
+2014-09,terminos_intercambio,98.1608,API BCRPData
+2014-10,terminos_intercambio,96.4879,API BCRPData
+2014-11,terminos_intercambio,97.1909,API BCRPData
+2014-12,terminos_intercambio,98.5825,API BCRPData
+2015-01,terminos_intercambio,95.8071,API BCRPData
+2015-02,terminos_intercambio,96.8846,API BCRPData
+2015-03,terminos_intercambio,94.4146,API BCRPData
+2015-04,terminos_intercambio,95.4803,API BCRPData
+2015-05,terminos_intercambio,96.919,API BCRPData
+2015-06,terminos_intercambio,95.4945,API BCRPData
+2015-07,terminos_intercambio,93.4571,API BCRPData
+2015-08,terminos_intercambio,92.3877,API BCRPData
+2015-09,terminos_intercambio,89.7023,API BCRPData
+2015-10,terminos_intercambio,94.3863,API BCRPData
+2015-11,terminos_intercambio,92.707,API BCRPData
+2015-12,terminos_intercambio,91.702,API BCRPData
+2016-01,terminos_intercambio,91.2104,API BCRPData
+2016-02,terminos_intercambio,93.122,API BCRPData
+2016-03,terminos_intercambio,97.9488,API BCRPData
+2016-04,terminos_intercambio,96.162,API BCRPData
+2016-05,terminos_intercambio,95.2672,API BCRPData
+2016-06,terminos_intercambio,94.6566,API BCRPData
+2016-07,terminos_intercambio,99.0427,API BCRPData
+2016-08,terminos_intercambio,97.4393,API BCRPData
+2016-09,terminos_intercambio,98.5491,API BCRPData
+2016-10,terminos_intercambio,97.2345,API BCRPData
+2016-11,terminos_intercambio,102.6422,API BCRPData
+2016-12,terminos_intercambio,104.5378,API BCRPData
+2017-01,terminos_intercambio,100.0748,API BCRPData
+2017-02,terminos_intercambio,102.0664,API BCRPData
+2017-03,terminos_intercambio,104.2504,API BCRPData
+2017-04,terminos_intercambio,99.9644,API BCRPData
+2017-05,terminos_intercambio,100.7439,API BCRPData
+2017-06,terminos_intercambio,100.5672,API BCRPData
+2017-07,terminos_intercambio,102.0068,API BCRPData
+2017-08,terminos_intercambio,105.929,API BCRPData
+2017-09,terminos_intercambio,108.4929,API BCRPData
+2017-10,terminos_intercambio,109.2546,API BCRPData
+2017-11,terminos_intercambio,110.7514,API BCRPData
+2017-12,terminos_intercambio,109.046,API BCRPData
+2018-01,terminos_intercambio,107.6775,API BCRPData
+2018-02,terminos_intercambio,108.6658,API BCRPData
+2018-03,terminos_intercambio,105.2641,API BCRPData
+2018-04,terminos_intercambio,103.2636,API BCRPData
+2018-05,terminos_intercambio,102.7575,API BCRPData
+2018-06,terminos_intercambio,102.0738,API BCRPData
+2018-07,terminos_intercambio,100.9042,API BCRPData
+2018-08,terminos_intercambio,97.9754,API BCRPData
+2018-09,terminos_intercambio,96.9593,API BCRPData
+2018-10,terminos_intercambio,97.7736,API BCRPData
+2018-11,terminos_intercambio,99.1156,API BCRPData
+2018-12,terminos_intercambio,101.4987,API BCRPData
+2019-01,terminos_intercambio,101.4063,API BCRPData
+2019-02,terminos_intercambio,99.3103,API BCRPData
+2019-03,terminos_intercambio,100.796,API BCRPData
+2019-04,terminos_intercambio,103.2341,API BCRPData
+2019-05,terminos_intercambio,102.9235,API BCRPData
+2019-06,terminos_intercambio,103.4479,API BCRPData
+2019-07,terminos_intercambio,104.7733,API BCRPData
+2019-08,terminos_intercambio,104.0732,API BCRPData
+2019-09,terminos_intercambio,105.2621,API BCRPData
+2019-10,terminos_intercambio,103.6832,API BCRPData
+2019-11,terminos_intercambio,103.5546,API BCRPData
+2019-12,terminos_intercambio,105.7391,API BCRPData
+2020-01,terminos_intercambio,109.6802,API BCRPData
+2020-02,terminos_intercambio,106.9745,API BCRPData
+2020-03,terminos_intercambio,104.92,API BCRPData
+2020-04,terminos_intercambio,104.8872,API BCRPData
+2020-05,terminos_intercambio,107.6777,API BCRPData
+2020-06,terminos_intercambio,111.6802,API BCRPData
+2020-07,terminos_intercambio,115.7354,API BCRPData
+2020-08,terminos_intercambio,120.2144,API BCRPData
+2020-09,terminos_intercambio,122.6613,API BCRPData
+2020-10,terminos_intercambio,122.4746,API BCRPData
+2020-11,terminos_intercambio,123.2997,API BCRPData
+2020-12,terminos_intercambio,125.4305,API BCRPData
+2021-01,terminos_intercambio,129.8072,API BCRPData
+2021-02,terminos_intercambio,126.3743,API BCRPData
+2021-03,terminos_intercambio,125.4665,API BCRPData
+2021-04,terminos_intercambio,123.039,API BCRPData
+2021-05,terminos_intercambio,127.8027,API BCRPData
+2021-06,terminos_intercambio,128.131,API BCRPData
+2021-07,terminos_intercambio,122.4268,API BCRPData
+2021-08,terminos_intercambio,123.192,API BCRPData
+2021-09,terminos_intercambio,123.4916,API BCRPData
+2021-10,terminos_intercambio,124.0445,API BCRPData
+2021-11,terminos_intercambio,125.8633,API BCRPData
+2021-12,terminos_intercambio,123.6617,API BCRPData
+2022-01,terminos_intercambio,119.4308,API BCRPData
+2022-02,terminos_intercambio,119.9971,API BCRPData
+2022-03,terminos_intercambio,117.9867,API BCRPData
+2022-04,terminos_intercambio,115.8481,API BCRPData
+2022-05,terminos_intercambio,110.4709,API BCRPData
+2022-06,terminos_intercambio,106.8936,API BCRPData
+2022-07,terminos_intercambio,106.4715,API BCRPData
+2022-08,terminos_intercambio,109.599,API BCRPData
+2022-09,terminos_intercambio,106.4398,API BCRPData
+2022-10,terminos_intercambio,108.0115,API BCRPData
+2022-11,terminos_intercambio,113.2641,API BCRPData
+2022-12,terminos_intercambio,119.1455,API BCRPData
+2023-01,terminos_intercambio,117.2118,API BCRPData
+2023-02,terminos_intercambio,117.0014,API BCRPData
+2023-03,terminos_intercambio,119.7383,API BCRPData
+2023-04,terminos_intercambio,119.7542,API BCRPData
+2023-05,terminos_intercambio,118.4659,API BCRPData
+2023-06,terminos_intercambio,119.8905,API BCRPData
+2023-07,terminos_intercambio,120.3856,API BCRPData
+2023-08,terminos_intercambio,121.9952,API BCRPData
+2023-09,terminos_intercambio,124.337,API BCRPData
+2023-10,terminos_intercambio,122.7436,API BCRPData
+2023-11,terminos_intercambio,124.2128,API BCRPData
+2023-12,terminos_intercambio,129.7546,API BCRPData
+2024-01,terminos_intercambio,127.7987,API BCRPData
+2024-02,terminos_intercambio,125.3846,API BCRPData
+2024-03,terminos_intercambio,126.9398,API BCRPData
+2024-04,terminos_intercambio,133.1594,API BCRPData
+2024-05,terminos_intercambio,135.2996,API BCRPData
+2024-06,terminos_intercambio,136.2581,API BCRPData
+2024-07,terminos_intercambio,138.1365,API BCRPData
+2024-08,terminos_intercambio,138.3839,API BCRPData
+2024-09,terminos_intercambio,143.3158,API BCRPData
+2024-10,terminos_intercambio,142.4477,API BCRPData
+2024-11,terminos_intercambio,142.1925,API BCRPData
+2024-12,terminos_intercambio,144.1409,API BCRPData
+2025-01,terminos_intercambio,144.9246,API BCRPData
+2025-02,terminos_intercambio,147.8171,API BCRPData
+2025-03,terminos_intercambio,149.9633,API BCRPData
+2025-04,terminos_intercambio,153.8859,API BCRPData
+2025-05,terminos_intercambio,159.8079,API BCRPData
+2025-06,terminos_intercambio,161.6347,API BCRPData
+2025-07,terminos_intercambio,162.605,API BCRPData
+2025-08,terminos_intercambio,162.6939,API BCRPData
+2025-09,terminos_intercambio,170.6417,API BCRPData
+2025-10,terminos_intercambio,176.2665,API BCRPData
+2025-11,terminos_intercambio,178.1631,API BCRPData
+2025-12,terminos_intercambio,189.5949,API BCRPData
+2000-01,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-02,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-03,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-04,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-05,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-06,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-07,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-08,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-09,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-10,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-11,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2000-12,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-01,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-02,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-03,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-04,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-05,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-06,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-07,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-08,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-09,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-10,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-11,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2001-12,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2002-01,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2002-02,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2002-03,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2002-04,expectativa_economia_3m,60.09,Scraping Encuesta BCRP
+2002-05,expectativa_economia_3m,61.09,Scraping Encuesta BCRP
+2002-06,expectativa_economia_3m,49.39,Scraping Encuesta BCRP
+2002-07,expectativa_economia_3m,56.23,Scraping Encuesta BCRP
+2002-08,expectativa_economia_3m,57.16,Scraping Encuesta BCRP
+2002-09,expectativa_economia_3m,57.62,Scraping Encuesta BCRP
+2002-10,expectativa_economia_3m,60.27,Scraping Encuesta BCRP
+2002-11,expectativa_economia_3m,65.92,Scraping Encuesta BCRP
+2002-12,expectativa_economia_3m,71.19,Scraping Encuesta BCRP
+2003-01,expectativa_economia_3m,70.94,Scraping Encuesta BCRP
+2003-02,expectativa_economia_3m,66.91,Scraping Encuesta BCRP
+2003-03,expectativa_economia_3m,60.03,Scraping Encuesta BCRP
+2003-04,expectativa_economia_3m,65.53,Scraping Encuesta BCRP
+2003-05,expectativa_economia_3m,52.96,Scraping Encuesta BCRP
+2003-06,expectativa_economia_3m,54.86,Scraping Encuesta BCRP
+2003-07,expectativa_economia_3m,56.06,Scraping Encuesta BCRP
+2003-08,expectativa_economia_3m,57.75,Scraping Encuesta BCRP
+2003-09,expectativa_economia_3m,57.49,Scraping Encuesta BCRP
+2003-10,expectativa_economia_3m,60.21,Scraping Encuesta BCRP
+2003-11,expectativa_economia_3m,58.68,Scraping Encuesta BCRP
+2003-12,expectativa_economia_3m,59.02,Scraping Encuesta BCRP
+2004-01,expectativa_economia_3m,54.52,Scraping Encuesta BCRP
+2004-02,expectativa_economia_3m,57.23,Scraping Encuesta BCRP
+2004-03,expectativa_economia_3m,56.51,Scraping Encuesta BCRP
+2004-04,expectativa_economia_3m,57.86,Scraping Encuesta BCRP
+2004-05,expectativa_economia_3m,56.23,Scraping Encuesta BCRP
+2004-06,expectativa_economia_3m,56.21,Scraping Encuesta BCRP
+2004-07,expectativa_economia_3m,57.35,Scraping Encuesta BCRP
+2004-08,expectativa_economia_3m,62.31,Scraping Encuesta BCRP
+2004-09,expectativa_economia_3m,61.72,Scraping Encuesta BCRP
+2004-10,expectativa_economia_3m,63.13,Scraping Encuesta BCRP
+2004-11,expectativa_economia_3m,63.29,Scraping Encuesta BCRP
+2004-12,expectativa_economia_3m,62.92,Scraping Encuesta BCRP
+2005-01,expectativa_economia_3m,62.99,Scraping Encuesta BCRP
+2005-02,expectativa_economia_3m,62.58,Scraping Encuesta BCRP
+2005-03,expectativa_economia_3m,62.68,Scraping Encuesta BCRP
+2005-04,expectativa_economia_3m,63.75,Scraping Encuesta BCRP
+2005-05,expectativa_economia_3m,64.2,Scraping Encuesta BCRP
+2005-06,expectativa_economia_3m,63.61,Scraping Encuesta BCRP
+2005-07,expectativa_economia_3m,65.07,Scraping Encuesta BCRP
+2005-08,expectativa_economia_3m,63.73,Scraping Encuesta BCRP
+2005-09,expectativa_economia_3m,67.44,Scraping Encuesta BCRP
+2005-10,expectativa_economia_3m,64.47,Scraping Encuesta BCRP
+2005-11,expectativa_economia_3m,63.46,Scraping Encuesta BCRP
+2005-12,expectativa_economia_3m,56.43,Scraping Encuesta BCRP
+2006-01,expectativa_economia_3m,52.03,Scraping Encuesta BCRP
+2006-02,expectativa_economia_3m,57.23,Scraping Encuesta BCRP
+2006-03,expectativa_economia_3m,53.36,Scraping Encuesta BCRP
+2006-04,expectativa_economia_3m,52.53,Scraping Encuesta BCRP
+2006-05,expectativa_economia_3m,62.24,Scraping Encuesta BCRP
+2006-06,expectativa_economia_3m,65.33,Scraping Encuesta BCRP
+2006-07,expectativa_economia_3m,67.34,Scraping Encuesta BCRP
+2006-08,expectativa_economia_3m,70.06,Scraping Encuesta BCRP
+2006-09,expectativa_economia_3m,68.9,Scraping Encuesta BCRP
+2006-10,expectativa_economia_3m,70.23,Scraping Encuesta BCRP
+2006-11,expectativa_economia_3m,72.67,Scraping Encuesta BCRP
+2006-12,expectativa_economia_3m,72.19,Scraping Encuesta BCRP
+2007-01,expectativa_economia_3m,72.12,Scraping Encuesta BCRP
+2007-02,expectativa_economia_3m,72.51,Scraping Encuesta BCRP
+2007-03,expectativa_economia_3m,72.91,Scraping Encuesta BCRP
+2007-04,expectativa_economia_3m,74.31,Scraping Encuesta BCRP
+2007-05,expectativa_economia_3m,71.54,Scraping Encuesta BCRP
+2007-06,expectativa_economia_3m,71.93,Scraping Encuesta BCRP
+2007-07,expectativa_economia_3m,70.17,Scraping Encuesta BCRP
+2007-08,expectativa_economia_3m,68.95,Scraping Encuesta BCRP
+2007-09,expectativa_economia_3m,69.97,Scraping Encuesta BCRP
+2007-10,expectativa_economia_3m,71.26,Scraping Encuesta BCRP
+2007-11,expectativa_economia_3m,71.65,Scraping Encuesta BCRP
+2007-12,expectativa_economia_3m,75.34,Scraping Encuesta BCRP
+2008-01,expectativa_economia_3m,70.0,Scraping Encuesta BCRP
+2008-02,expectativa_economia_3m,71.0,Scraping Encuesta BCRP
+2008-03,expectativa_economia_3m,67.0,Scraping Encuesta BCRP
+2008-04,expectativa_economia_3m,69.0,Scraping Encuesta BCRP
+2008-05,expectativa_economia_3m,74.0,Scraping Encuesta BCRP
+2008-06,expectativa_economia_3m,71.0,Scraping Encuesta BCRP
+2008-07,expectativa_economia_3m,67.0,Scraping Encuesta BCRP
+2008-08,expectativa_economia_3m,61.0,Scraping Encuesta BCRP
+2008-09,expectativa_economia_3m,56.0,Scraping Encuesta BCRP
+2008-10,expectativa_economia_3m,44.0,Scraping Encuesta BCRP
+2008-11,expectativa_economia_3m,47.0,Scraping Encuesta BCRP
+2008-12,expectativa_economia_3m,32.0,Scraping Encuesta BCRP
+2009-01,expectativa_economia_3m,35.0,Scraping Encuesta BCRP
+2009-02,expectativa_economia_3m,38.0,Scraping Encuesta BCRP
+2009-03,expectativa_economia_3m,33.0,Scraping Encuesta BCRP
+2009-04,expectativa_economia_3m,39.0,Scraping Encuesta BCRP
+2009-05,expectativa_economia_3m,53.0,Scraping Encuesta BCRP
+2009-06,expectativa_economia_3m,51.0,Scraping Encuesta BCRP
+2009-07,expectativa_economia_3m,53.0,Scraping Encuesta BCRP
+2009-08,expectativa_economia_3m,63.0,Scraping Encuesta BCRP
+2009-09,expectativa_economia_3m,61.0,Scraping Encuesta BCRP
+2009-10,expectativa_economia_3m,66.0,Scraping Encuesta BCRP
+2009-11,expectativa_economia_3m,67.0,Scraping Encuesta BCRP
+2009-12,expectativa_economia_3m,69.0,Scraping Encuesta BCRP
+2010-01,expectativa_economia_3m,71.62,Scraping Encuesta BCRP
+2010-02,expectativa_economia_3m,71.91,Scraping Encuesta BCRP
+2010-03,expectativa_economia_3m,70.85,Scraping Encuesta BCRP
+2010-04,expectativa_economia_3m,73.8,Scraping Encuesta BCRP
+2010-05,expectativa_economia_3m,70.54,Scraping Encuesta BCRP
+2010-06,expectativa_economia_3m,74.64,Scraping Encuesta BCRP
+2010-07,expectativa_economia_3m,71.06,Scraping Encuesta BCRP
+2010-08,expectativa_economia_3m,71.04,Scraping Encuesta BCRP
+2010-09,expectativa_economia_3m,70.49,Scraping Encuesta BCRP
+2010-10,expectativa_economia_3m,70.75,Scraping Encuesta BCRP
+2010-11,expectativa_economia_3m,69.82,Scraping Encuesta BCRP
+2010-12,expectativa_economia_3m,67.71,Scraping Encuesta BCRP
+2011-01,expectativa_economia_3m,66.04,Scraping Encuesta BCRP
+2011-02,expectativa_economia_3m,65.2,Scraping Encuesta BCRP
+2011-03,expectativa_economia_3m,64.53,Scraping Encuesta BCRP
+2011-04,expectativa_economia_3m,46.07,Scraping Encuesta BCRP
+2011-05,expectativa_economia_3m,49.01,Scraping Encuesta BCRP
+2011-06,expectativa_economia_3m,46.64,Scraping Encuesta BCRP
+2011-07,expectativa_economia_3m,50.88,Scraping Encuesta BCRP
+2011-08,expectativa_economia_3m,50.7,Scraping Encuesta BCRP
+2011-09,expectativa_economia_3m,52.93,Scraping Encuesta BCRP
+2011-10,expectativa_economia_3m,58.49,Scraping Encuesta BCRP
+2011-11,expectativa_economia_3m,57.53,Scraping Encuesta BCRP
+2011-12,expectativa_economia_3m,55.79,Scraping Encuesta BCRP
+2012-01,expectativa_economia_3m,57.33,Scraping Encuesta BCRP
+2012-02,expectativa_economia_3m,59.52,Scraping Encuesta BCRP
+2012-03,expectativa_economia_3m,63.54,Scraping Encuesta BCRP
+2012-04,expectativa_economia_3m,64.98,Scraping Encuesta BCRP
+2012-05,expectativa_economia_3m,59.82,Scraping Encuesta BCRP
+2012-06,expectativa_economia_3m,57.22,Scraping Encuesta BCRP
+2012-07,expectativa_economia_3m,56.15,Scraping Encuesta BCRP
+2012-08,expectativa_economia_3m,59.12,Scraping Encuesta BCRP
+2012-09,expectativa_economia_3m,60.81,Scraping Encuesta BCRP
+2012-10,expectativa_economia_3m,63.95,Scraping Encuesta BCRP
+2012-11,expectativa_economia_3m,64.33,Scraping Encuesta BCRP
+2012-12,expectativa_economia_3m,64.13,Scraping Encuesta BCRP
+2013-01,expectativa_economia_3m,66.67,Scraping Encuesta BCRP
+2013-02,expectativa_economia_3m,66.31,Scraping Encuesta BCRP
+2013-03,expectativa_economia_3m,64.56,Scraping Encuesta BCRP
+2013-04,expectativa_economia_3m,59.73,Scraping Encuesta BCRP
+2013-05,expectativa_economia_3m,54.11,Scraping Encuesta BCRP
+2013-06,expectativa_economia_3m,51.0,Scraping Encuesta BCRP
+2013-07,expectativa_economia_3m,50.32,Scraping Encuesta BCRP
+2013-08,expectativa_economia_3m,47.61,Scraping Encuesta BCRP
+2013-09,expectativa_economia_3m,53.24,Scraping Encuesta BCRP
+2013-10,expectativa_economia_3m,54.5,Scraping Encuesta BCRP
+2013-11,expectativa_economia_3m,54.08,Scraping Encuesta BCRP
+2013-12,expectativa_economia_3m,58.7,Scraping Encuesta BCRP
+2014-01,expectativa_economia_3m,59.28,Scraping Encuesta BCRP
+2014-02,expectativa_economia_3m,60.2,Scraping Encuesta BCRP
+2014-03,expectativa_economia_3m,53.85,Scraping Encuesta BCRP
+2014-04,expectativa_economia_3m,54.21,Scraping Encuesta BCRP
+2014-05,expectativa_economia_3m,52.86,Scraping Encuesta BCRP
+2014-06,expectativa_economia_3m,49.72,Scraping Encuesta BCRP
+2014-07,expectativa_economia_3m,50.59,Scraping Encuesta BCRP
+2014-08,expectativa_economia_3m,48.46,Scraping Encuesta BCRP
+2014-09,expectativa_economia_3m,53.99,Scraping Encuesta BCRP
+2014-10,expectativa_economia_3m,52.99,Scraping Encuesta BCRP
+2014-11,expectativa_economia_3m,55.25,Scraping Encuesta BCRP
+2014-12,expectativa_economia_3m,53.1,Scraping Encuesta BCRP
+2015-01,expectativa_economia_3m,54.23,Scraping Encuesta BCRP
+2015-02,expectativa_economia_3m,50.16,Scraping Encuesta BCRP
+2015-03,expectativa_economia_3m,49.39,Scraping Encuesta BCRP
+2015-04,expectativa_economia_3m,46.74,Scraping Encuesta BCRP
+2015-05,expectativa_economia_3m,45.07,Scraping Encuesta BCRP
+2015-06,expectativa_economia_3m,50.63,Scraping Encuesta BCRP
+2015-07,expectativa_economia_3m,46.72,Scraping Encuesta BCRP
+2015-08,expectativa_economia_3m,42.22,Scraping Encuesta BCRP
+2015-09,expectativa_economia_3m,43.22,Scraping Encuesta BCRP
+2015-10,expectativa_economia_3m,44.97,Scraping Encuesta BCRP
+2015-11,expectativa_economia_3m,44.81,Scraping Encuesta BCRP
+2015-12,expectativa_economia_3m,44.6,Scraping Encuesta BCRP
+2016-01,expectativa_economia_3m,42.51,Scraping Encuesta BCRP
+2016-02,expectativa_economia_3m,46.68,Scraping Encuesta BCRP
+2016-03,expectativa_economia_3m,46.4,Scraping Encuesta BCRP
+2016-04,expectativa_economia_3m,54.17,Scraping Encuesta BCRP
+2016-05,expectativa_economia_3m,53.44,Scraping Encuesta BCRP
+2016-06,expectativa_economia_3m,54.35,Scraping Encuesta BCRP
+2016-07,expectativa_economia_3m,60.98,Scraping Encuesta BCRP
+2016-08,expectativa_economia_3m,61.98,Scraping Encuesta BCRP
+2016-09,expectativa_economia_3m,62.35,Scraping Encuesta BCRP
+2016-10,expectativa_economia_3m,60.82,Scraping Encuesta BCRP
+2016-11,expectativa_economia_3m,58.36,Scraping Encuesta BCRP
+2016-12,expectativa_economia_3m,57.26,Scraping Encuesta BCRP
+2017-01,expectativa_economia_3m,56.68,Scraping Encuesta BCRP
+2017-02,expectativa_economia_3m,54.62,Scraping Encuesta BCRP
+2017-03,expectativa_economia_3m,43.81,Scraping Encuesta BCRP
+2017-04,expectativa_economia_3m,53.57,Scraping Encuesta BCRP
+2017-05,expectativa_economia_3m,54.15,Scraping Encuesta BCRP
+2017-06,expectativa_economia_3m,53.05,Scraping Encuesta BCRP
+2017-07,expectativa_economia_3m,54.8,Scraping Encuesta BCRP
+2017-08,expectativa_economia_3m,56.27,Scraping Encuesta BCRP
+2017-09,expectativa_economia_3m,60.14,Scraping Encuesta BCRP
+2017-10,expectativa_economia_3m,64.14,Scraping Encuesta BCRP
+2017-11,expectativa_economia_3m,62.61,Scraping Encuesta BCRP
+2017-12,expectativa_economia_3m,53.65,Scraping Encuesta BCRP
+2018-01,expectativa_economia_3m,58.54,Scraping Encuesta BCRP
+2018-02,expectativa_economia_3m,54.94,Scraping Encuesta BCRP
+2018-03,expectativa_economia_3m,53.54,Scraping Encuesta BCRP
+2018-04,expectativa_economia_3m,58.56,Scraping Encuesta BCRP
+2018-05,expectativa_economia_3m,59.73,Scraping Encuesta BCRP
+2018-06,expectativa_economia_3m,57.8,Scraping Encuesta BCRP
+2018-07,expectativa_economia_3m,58.97,Scraping Encuesta BCRP
+2018-08,expectativa_economia_3m,58.53,Scraping Encuesta BCRP
+2018-09,expectativa_economia_3m,55.13,Scraping Encuesta BCRP
+2018-10,expectativa_economia_3m,52.38,Scraping Encuesta BCRP
+2018-11,expectativa_economia_3m,55.45,Scraping Encuesta BCRP
+2018-12,expectativa_economia_3m,58.3,Scraping Encuesta BCRP
+2019-01,expectativa_economia_3m,58.12,Scraping Encuesta BCRP
+2019-02,expectativa_economia_3m,58.49,Scraping Encuesta BCRP
+2019-03,expectativa_economia_3m,59.6,Scraping Encuesta BCRP
+2019-04,expectativa_economia_3m,55.86,Scraping Encuesta BCRP
+2019-05,expectativa_economia_3m,52.91,Scraping Encuesta BCRP
+2019-06,expectativa_economia_3m,49.85,Scraping Encuesta BCRP
+2019-07,expectativa_economia_3m,49.11,Scraping Encuesta BCRP
+2019-08,expectativa_economia_3m,45.24,Scraping Encuesta BCRP
+2019-09,expectativa_economia_3m,46.8,Scraping Encuesta BCRP
+2019-10,expectativa_economia_3m,47.0,Scraping Encuesta BCRP
+2019-11,expectativa_economia_3m,49.7,Scraping Encuesta BCRP
+2019-12,expectativa_economia_3m,50.77,Scraping Encuesta BCRP
+2020-01,expectativa_economia_3m,52.92,Scraping Encuesta BCRP
+2020-02,expectativa_economia_3m,48.19,Scraping Encuesta BCRP
+2020-03,expectativa_economia_3m,21.81,Scraping Encuesta BCRP
+2020-04,expectativa_economia_3m,9.14,Scraping Encuesta BCRP
+2020-05,expectativa_economia_3m,14.34,Scraping Encuesta BCRP
+2020-06,expectativa_economia_3m,28.78,Scraping Encuesta BCRP
+2020-07,expectativa_economia_3m,34.79,Scraping Encuesta BCRP
+2020-08,expectativa_economia_3m,38.12,Scraping Encuesta BCRP
+2020-09,expectativa_economia_3m,46.57,Scraping Encuesta BCRP
+2020-10,expectativa_economia_3m,50.16,Scraping Encuesta BCRP
+2020-11,expectativa_economia_3m,52.81,Scraping Encuesta BCRP
+2020-12,expectativa_economia_3m,49.5,Scraping Encuesta BCRP
+2021-01,expectativa_economia_3m,41.18,Scraping Encuesta BCRP
+2021-02,expectativa_economia_3m,44.22,Scraping Encuesta BCRP
+2021-03,expectativa_economia_3m,51.18,Scraping Encuesta BCRP
+2021-04,expectativa_economia_3m,39.72,Scraping Encuesta BCRP
+2021-05,expectativa_economia_3m,44.84,Scraping Encuesta BCRP
+2021-06,expectativa_economia_3m,39.47,Scraping Encuesta BCRP
+2021-07,expectativa_economia_3m,42.93,Scraping Encuesta BCRP
+2021-08,expectativa_economia_3m,33.56,Scraping Encuesta BCRP
+2021-09,expectativa_economia_3m,35.0,Scraping Encuesta BCRP
+2021-10,expectativa_economia_3m,42.52,Scraping Encuesta BCRP
+2021-11,expectativa_economia_3m,40.11,Scraping Encuesta BCRP
+2021-12,expectativa_economia_3m,41.22,Scraping Encuesta BCRP
+2022-01,expectativa_economia_3m,44.48,Scraping Encuesta BCRP
+2022-02,expectativa_economia_3m,44.52,Scraping Encuesta BCRP
+2022-03,expectativa_economia_3m,38.99,Scraping Encuesta BCRP
+2022-04,expectativa_economia_3m,34.91,Scraping Encuesta BCRP
+2022-05,expectativa_economia_3m,36.06,Scraping Encuesta BCRP
+2022-06,expectativa_economia_3m,34.12,Scraping Encuesta BCRP
+2022-07,expectativa_economia_3m,34.29,Scraping Encuesta BCRP
+2022-08,expectativa_economia_3m,35.56,Scraping Encuesta BCRP
+2022-09,expectativa_economia_3m,36.53,Scraping Encuesta BCRP
+2022-10,expectativa_economia_3m,35.74,Scraping Encuesta BCRP
+2022-11,expectativa_economia_3m,37.93,Scraping Encuesta BCRP
+2022-12,expectativa_economia_3m,42.36,Scraping Encuesta BCRP
+2023-01,expectativa_economia_3m,31.88,Scraping Encuesta BCRP
+2023-02,expectativa_economia_3m,41.49,Scraping Encuesta BCRP
+2023-03,expectativa_economia_3m,42.91,Scraping Encuesta BCRP
+2023-04,expectativa_economia_3m,43.93,Scraping Encuesta BCRP
+2023-05,expectativa_economia_3m,44.51,Scraping Encuesta BCRP
+2023-06,expectativa_economia_3m,42.78,Scraping Encuesta BCRP
+2023-07,expectativa_economia_3m,44.49,Scraping Encuesta BCRP
+2023-08,expectativa_economia_3m,44.06,Scraping Encuesta BCRP
+2023-09,expectativa_economia_3m,40.41,Scraping Encuesta BCRP
+2023-10,expectativa_economia_3m,38.7,Scraping Encuesta BCRP
+2023-11,expectativa_economia_3m,37.59,Scraping Encuesta BCRP
+2023-12,expectativa_economia_3m,41.18,Scraping Encuesta BCRP
+2024-01,expectativa_economia_3m,43.84,Scraping Encuesta BCRP
+2024-02,expectativa_economia_3m,47.18,Scraping Encuesta BCRP
+2024-03,expectativa_economia_3m,50.8,Scraping Encuesta BCRP
+2024-04,expectativa_economia_3m,50.0,Scraping Encuesta BCRP
+2024-05,expectativa_economia_3m,47.53,Scraping Encuesta BCRP
+2024-06,expectativa_economia_3m,50.37,Scraping Encuesta BCRP
+2024-07,expectativa_economia_3m,51.14,Scraping Encuesta BCRP
+2024-08,expectativa_economia_3m,51.93,Scraping Encuesta BCRP
+2024-09,expectativa_economia_3m,51.77,Scraping Encuesta BCRP
+2024-10,expectativa_economia_3m,51.74,Scraping Encuesta BCRP
+2024-11,expectativa_economia_3m,50.58,Scraping Encuesta BCRP
+2024-12,expectativa_economia_3m,50.0,Scraping Encuesta BCRP
+2025-01,expectativa_economia_3m,52.59,Scraping Encuesta BCRP
+2025-02,expectativa_economia_3m,54.55,Scraping Encuesta BCRP
+2025-03,expectativa_economia_3m,53.93,Scraping Encuesta BCRP
+2025-04,expectativa_economia_3m,52.13,Scraping Encuesta BCRP
+2025-05,expectativa_economia_3m,53.97,Scraping Encuesta BCRP
+2025-06,expectativa_economia_3m,52.9,Scraping Encuesta BCRP
+2025-07,expectativa_economia_3m,54.55,Scraping Encuesta BCRP
+2025-08,expectativa_economia_3m,54.43,Scraping Encuesta BCRP
+2025-09,expectativa_economia_3m,55.63,Scraping Encuesta BCRP
+2025-10,expectativa_economia_3m,55.89,Scraping Encuesta BCRP
+2025-11,expectativa_economia_3m,58.18,Scraping Encuesta BCRP
+2025-12,expectativa_economia_3m,55.31,Scraping Encuesta BCRP
+2008-06,expectativa_economia_12m,81.29,Scraping Encuesta BCRP
+2008-07,expectativa_economia_12m,74.92,Scraping Encuesta BCRP
+2008-08,expectativa_economia_12m,70.69,Scraping Encuesta BCRP
+2008-09,expectativa_economia_12m,63.6,Scraping Encuesta BCRP
+2008-10,expectativa_economia_12m,48.95,Scraping Encuesta BCRP
+2008-11,expectativa_economia_12m,50.15,Scraping Encuesta BCRP
+2008-12,expectativa_economia_12m,35.4,Scraping Encuesta BCRP
+2009-01,expectativa_economia_12m,41.64,Scraping Encuesta BCRP
+2009-02,expectativa_economia_12m,42.42,Scraping Encuesta BCRP
+2009-03,expectativa_economia_12m,41.52,Scraping Encuesta BCRP
+2009-04,expectativa_economia_12m,50.52,Scraping Encuesta BCRP
+2009-05,expectativa_economia_12m,66.45,Scraping Encuesta BCRP
+2009-06,expectativa_economia_12m,67.94,Scraping Encuesta BCRP
+2009-07,expectativa_economia_12m,71.18,Scraping Encuesta BCRP
+2009-08,expectativa_economia_12m,75.47,Scraping Encuesta BCRP
+2009-09,expectativa_economia_12m,77.72,Scraping Encuesta BCRP
+2009-10,expectativa_economia_12m,79.8,Scraping Encuesta BCRP
+2009-11,expectativa_economia_12m,81.17,Scraping Encuesta BCRP
+2009-12,expectativa_economia_12m,84.59,Scraping Encuesta BCRP
+2010-01,expectativa_economia_12m,86.63,Scraping Encuesta BCRP
+2010-02,expectativa_economia_12m,85.16,Scraping Encuesta BCRP
+2010-03,expectativa_economia_12m,83.85,Scraping Encuesta BCRP
+2010-04,expectativa_economia_12m,83.97,Scraping Encuesta BCRP
+2010-05,expectativa_economia_12m,79.36,Scraping Encuesta BCRP
+2010-06,expectativa_economia_12m,81.87,Scraping Encuesta BCRP
+2010-07,expectativa_economia_12m,80.73,Scraping Encuesta BCRP
+2010-08,expectativa_economia_12m,77.72,Scraping Encuesta BCRP
+2010-09,expectativa_economia_12m,77.7,Scraping Encuesta BCRP
+2010-10,expectativa_economia_12m,78.84,Scraping Encuesta BCRP
+2010-11,expectativa_economia_12m,77.68,Scraping Encuesta BCRP
+2010-12,expectativa_economia_12m,74.54,Scraping Encuesta BCRP
+2011-01,expectativa_economia_12m,75.09,Scraping Encuesta BCRP
+2011-02,expectativa_economia_12m,75.18,Scraping Encuesta BCRP
+2011-03,expectativa_economia_12m,73.22,Scraping Encuesta BCRP
+2011-04,expectativa_economia_12m,51.15,Scraping Encuesta BCRP
+2011-05,expectativa_economia_12m,56.73,Scraping Encuesta BCRP
+2011-06,expectativa_economia_12m,52.66,Scraping Encuesta BCRP
+2011-07,expectativa_economia_12m,57.02,Scraping Encuesta BCRP
+2011-08,expectativa_economia_12m,54.3,Scraping Encuesta BCRP
+2011-09,expectativa_economia_12m,55.54,Scraping Encuesta BCRP
+2011-10,expectativa_economia_12m,60.94,Scraping Encuesta BCRP
+2011-11,expectativa_economia_12m,60.5,Scraping Encuesta BCRP
+2011-12,expectativa_economia_12m,59.43,Scraping Encuesta BCRP
+2012-01,expectativa_economia_12m,62.17,Scraping Encuesta BCRP
+2012-02,expectativa_economia_12m,66.77,Scraping Encuesta BCRP
+2012-03,expectativa_economia_12m,70.79,Scraping Encuesta BCRP
+2012-04,expectativa_economia_12m,73.48,Scraping Encuesta BCRP
+2012-05,expectativa_economia_12m,67.4,Scraping Encuesta BCRP
+2012-06,expectativa_economia_12m,64.53,Scraping Encuesta BCRP
+2012-07,expectativa_economia_12m,62.47,Scraping Encuesta BCRP
+2012-08,expectativa_economia_12m,63.41,Scraping Encuesta BCRP
+2012-09,expectativa_economia_12m,66.24,Scraping Encuesta BCRP
+2012-10,expectativa_economia_12m,67.19,Scraping Encuesta BCRP
+2012-11,expectativa_economia_12m,68.38,Scraping Encuesta BCRP
+2012-12,expectativa_economia_12m,72.6,Scraping Encuesta BCRP
+2013-01,expectativa_economia_12m,74.61,Scraping Encuesta BCRP
+2013-02,expectativa_economia_12m,74.54,Scraping Encuesta BCRP
+2013-03,expectativa_economia_12m,71.92,Scraping Encuesta BCRP
+2013-04,expectativa_economia_12m,64.46,Scraping Encuesta BCRP
+2013-05,expectativa_economia_12m,57.41,Scraping Encuesta BCRP
+2013-06,expectativa_economia_12m,55.41,Scraping Encuesta BCRP
+2013-07,expectativa_economia_12m,53.66,Scraping Encuesta BCRP
+2013-08,expectativa_economia_12m,52.22,Scraping Encuesta BCRP
+2013-09,expectativa_economia_12m,60.66,Scraping Encuesta BCRP
+2013-10,expectativa_economia_12m,61.59,Scraping Encuesta BCRP
+2013-11,expectativa_economia_12m,64.13,Scraping Encuesta BCRP
+2013-12,expectativa_economia_12m,65.76,Scraping Encuesta BCRP
+2014-01,expectativa_economia_12m,67.0,Scraping Encuesta BCRP
+2014-02,expectativa_economia_12m,66.14,Scraping Encuesta BCRP
+2014-03,expectativa_economia_12m,58.65,Scraping Encuesta BCRP
+2014-04,expectativa_economia_12m,60.91,Scraping Encuesta BCRP
+2014-05,expectativa_economia_12m,58.94,Scraping Encuesta BCRP
+2014-06,expectativa_economia_12m,57.81,Scraping Encuesta BCRP
+2014-07,expectativa_economia_12m,60.81,Scraping Encuesta BCRP
+2014-08,expectativa_economia_12m,60.31,Scraping Encuesta BCRP
+2014-09,expectativa_economia_12m,64.11,Scraping Encuesta BCRP
+2014-10,expectativa_economia_12m,63.86,Scraping Encuesta BCRP
+2014-11,expectativa_economia_12m,62.93,Scraping Encuesta BCRP
+2014-12,expectativa_economia_12m,63.13,Scraping Encuesta BCRP
+2015-01,expectativa_economia_12m,65.19,Scraping Encuesta BCRP
+2015-02,expectativa_economia_12m,60.53,Scraping Encuesta BCRP
+2015-03,expectativa_economia_12m,56.06,Scraping Encuesta BCRP
+2015-04,expectativa_economia_12m,55.54,Scraping Encuesta BCRP
+2015-05,expectativa_economia_12m,53.84,Scraping Encuesta BCRP
+2015-06,expectativa_economia_12m,55.41,Scraping Encuesta BCRP
+2015-07,expectativa_economia_12m,54.06,Scraping Encuesta BCRP
+2015-08,expectativa_economia_12m,49.26,Scraping Encuesta BCRP
+2015-09,expectativa_economia_12m,50.64,Scraping Encuesta BCRP
+2015-10,expectativa_economia_12m,53.14,Scraping Encuesta BCRP
+2015-11,expectativa_economia_12m,55.13,Scraping Encuesta BCRP
+2015-12,expectativa_economia_12m,56.01,Scraping Encuesta BCRP
+2016-01,expectativa_economia_12m,56.09,Scraping Encuesta BCRP
+2016-02,expectativa_economia_12m,59.08,Scraping Encuesta BCRP
+2016-03,expectativa_economia_12m,59.59,Scraping Encuesta BCRP
+2016-04,expectativa_economia_12m,67.56,Scraping Encuesta BCRP
+2016-05,expectativa_economia_12m,66.53,Scraping Encuesta BCRP
+2016-06,expectativa_economia_12m,67.96,Scraping Encuesta BCRP
+2016-07,expectativa_economia_12m,74.59,Scraping Encuesta BCRP
+2016-08,expectativa_economia_12m,74.78,Scraping Encuesta BCRP
+2016-09,expectativa_economia_12m,75.08,Scraping Encuesta BCRP
+2016-10,expectativa_economia_12m,74.3,Scraping Encuesta BCRP
+2016-11,expectativa_economia_12m,73.2,Scraping Encuesta BCRP
+2016-12,expectativa_economia_12m,70.14,Scraping Encuesta BCRP
+2017-01,expectativa_economia_12m,67.95,Scraping Encuesta BCRP
+2017-02,expectativa_economia_12m,65.98,Scraping Encuesta BCRP
+2017-03,expectativa_economia_12m,58.08,Scraping Encuesta BCRP
+2017-04,expectativa_economia_12m,66.36,Scraping Encuesta BCRP
+2017-05,expectativa_economia_12m,65.27,Scraping Encuesta BCRP
+2017-06,expectativa_economia_12m,64.6,Scraping Encuesta BCRP
+2017-07,expectativa_economia_12m,68.65,Scraping Encuesta BCRP
+2017-08,expectativa_economia_12m,71.04,Scraping Encuesta BCRP
+2017-09,expectativa_economia_12m,75.57,Scraping Encuesta BCRP
+2017-10,expectativa_economia_12m,77.45,Scraping Encuesta BCRP
+2017-11,expectativa_economia_12m,76.1,Scraping Encuesta BCRP
+2017-12,expectativa_economia_12m,68.98,Scraping Encuesta BCRP
+2018-01,expectativa_economia_12m,70.73,Scraping Encuesta BCRP
+2018-02,expectativa_economia_12m,63.55,Scraping Encuesta BCRP
+2018-03,expectativa_economia_12m,66.08,Scraping Encuesta BCRP
+2018-04,expectativa_economia_12m,69.22,Scraping Encuesta BCRP
+2018-05,expectativa_economia_12m,70.33,Scraping Encuesta BCRP
+2018-06,expectativa_economia_12m,68.67,Scraping Encuesta BCRP
+2018-07,expectativa_economia_12m,68.6,Scraping Encuesta BCRP
+2018-08,expectativa_economia_12m,69.93,Scraping Encuesta BCRP
+2018-09,expectativa_economia_12m,68.59,Scraping Encuesta BCRP
+2018-10,expectativa_economia_12m,64.61,Scraping Encuesta BCRP
+2018-11,expectativa_economia_12m,67.75,Scraping Encuesta BCRP
+2018-12,expectativa_economia_12m,70.28,Scraping Encuesta BCRP
+2019-01,expectativa_economia_12m,69.42,Scraping Encuesta BCRP
+2019-02,expectativa_economia_12m,69.54,Scraping Encuesta BCRP
+2019-03,expectativa_economia_12m,69.96,Scraping Encuesta BCRP
+2019-04,expectativa_economia_12m,66.91,Scraping Encuesta BCRP
+2019-05,expectativa_economia_12m,62.79,Scraping Encuesta BCRP
+2019-06,expectativa_economia_12m,59.35,Scraping Encuesta BCRP
+2019-07,expectativa_economia_12m,57.91,Scraping Encuesta BCRP
+2019-08,expectativa_economia_12m,53.39,Scraping Encuesta BCRP
+2019-09,expectativa_economia_12m,57.4,Scraping Encuesta BCRP
+2019-10,expectativa_economia_12m,57.4,Scraping Encuesta BCRP
+2019-11,expectativa_economia_12m,60.47,Scraping Encuesta BCRP
+2019-12,expectativa_economia_12m,61.47,Scraping Encuesta BCRP
+2020-01,expectativa_economia_12m,61.33,Scraping Encuesta BCRP
+2020-02,expectativa_economia_12m,56.78,Scraping Encuesta BCRP
+2020-03,expectativa_economia_12m,41.54,Scraping Encuesta BCRP
+2020-04,expectativa_economia_12m,30.45,Scraping Encuesta BCRP
+2020-05,expectativa_economia_12m,38.08,Scraping Encuesta BCRP
+2020-06,expectativa_economia_12m,53.13,Scraping Encuesta BCRP
+2020-07,expectativa_economia_12m,53.52,Scraping Encuesta BCRP
+2020-08,expectativa_economia_12m,57.99,Scraping Encuesta BCRP
+2020-09,expectativa_economia_12m,66.21,Scraping Encuesta BCRP
+2020-10,expectativa_economia_12m,68.49,Scraping Encuesta BCRP
+2020-11,expectativa_economia_12m,69.31,Scraping Encuesta BCRP
+2020-12,expectativa_economia_12m,65.43,Scraping Encuesta BCRP
+2021-01,expectativa_economia_12m,61.11,Scraping Encuesta BCRP
+2021-02,expectativa_economia_12m,60.73,Scraping Encuesta BCRP
+2021-03,expectativa_economia_12m,65.64,Scraping Encuesta BCRP
+2021-04,expectativa_economia_12m,51.55,Scraping Encuesta BCRP
+2021-05,expectativa_economia_12m,55.0,Scraping Encuesta BCRP
+2021-06,expectativa_economia_12m,47.05,Scraping Encuesta BCRP
+2021-07,expectativa_economia_12m,47.96,Scraping Encuesta BCRP
+2021-08,expectativa_economia_12m,43.48,Scraping Encuesta BCRP
+2021-09,expectativa_economia_12m,44.53,Scraping Encuesta BCRP
+2021-10,expectativa_economia_12m,50.97,Scraping Encuesta BCRP
+2021-11,expectativa_economia_12m,47.32,Scraping Encuesta BCRP
+2021-12,expectativa_economia_12m,48.62,Scraping Encuesta BCRP
+2022-01,expectativa_economia_12m,55.11,Scraping Encuesta BCRP
+2022-02,expectativa_economia_12m,52.73,Scraping Encuesta BCRP
+2022-03,expectativa_economia_12m,46.69,Scraping Encuesta BCRP
+2022-04,expectativa_economia_12m,40.26,Scraping Encuesta BCRP
+2022-05,expectativa_economia_12m,42.28,Scraping Encuesta BCRP
+2022-06,expectativa_economia_12m,40.46,Scraping Encuesta BCRP
+2022-07,expectativa_economia_12m,42.99,Scraping Encuesta BCRP
+2022-08,expectativa_economia_12m,42.64,Scraping Encuesta BCRP
+2022-09,expectativa_economia_12m,42.86,Scraping Encuesta BCRP
+2022-10,expectativa_economia_12m,43.49,Scraping Encuesta BCRP
+2022-11,expectativa_economia_12m,43.32,Scraping Encuesta BCRP
+2022-12,expectativa_economia_12m,53.98,Scraping Encuesta BCRP
+2023-01,expectativa_economia_12m,46.63,Scraping Encuesta BCRP
+2023-02,expectativa_economia_12m,51.89,Scraping Encuesta BCRP
+2023-03,expectativa_economia_12m,51.89,Scraping Encuesta BCRP
+2023-04,expectativa_economia_12m,53.68,Scraping Encuesta BCRP
+2023-05,expectativa_economia_12m,56.3,Scraping Encuesta BCRP
+2023-06,expectativa_economia_12m,51.18,Scraping Encuesta BCRP
+2023-07,expectativa_economia_12m,53.94,Scraping Encuesta BCRP
+2023-08,expectativa_economia_12m,55.7,Scraping Encuesta BCRP
+2023-09,expectativa_economia_12m,51.96,Scraping Encuesta BCRP
+2023-10,expectativa_economia_12m,49.8,Scraping Encuesta BCRP
+2023-11,expectativa_economia_12m,50.0,Scraping Encuesta BCRP
+2023-12,expectativa_economia_12m,55.36,Scraping Encuesta BCRP
+2024-01,expectativa_economia_12m,53.5,Scraping Encuesta BCRP
+2024-02,expectativa_economia_12m,61.65,Scraping Encuesta BCRP
+2024-03,expectativa_economia_12m,59.0,Scraping Encuesta BCRP
+2024-04,expectativa_economia_12m,60.04,Scraping Encuesta BCRP
+2024-05,expectativa_economia_12m,55.33,Scraping Encuesta BCRP
+2024-06,expectativa_economia_12m,59.3,Scraping Encuesta BCRP
+2024-07,expectativa_economia_12m,58.63,Scraping Encuesta BCRP
+2024-08,expectativa_economia_12m,58.54,Scraping Encuesta BCRP
+2024-09,expectativa_economia_12m,56.91,Scraping Encuesta BCRP
+2024-10,expectativa_economia_12m,60.32,Scraping Encuesta BCRP
+2024-11,expectativa_economia_12m,59.11,Scraping Encuesta BCRP
+2024-12,expectativa_economia_12m,56.52,Scraping Encuesta BCRP
+2025-01,expectativa_economia_12m,58.21,Scraping Encuesta BCRP
+2025-02,expectativa_economia_12m,60.66,Scraping Encuesta BCRP
+2025-03,expectativa_economia_12m,58.08,Scraping Encuesta BCRP
+2025-04,expectativa_economia_12m,57.9,Scraping Encuesta BCRP
+2025-05,expectativa_economia_12m,56.89,Scraping Encuesta BCRP
+2025-06,expectativa_economia_12m,56.64,Scraping Encuesta BCRP
+2025-07,expectativa_economia_12m,58.31,Scraping Encuesta BCRP
+2025-08,expectativa_economia_12m,60.15,Scraping Encuesta BCRP
+2025-09,expectativa_economia_12m,61.09,Scraping Encuesta BCRP
+2025-10,expectativa_economia_12m,60.95,Scraping Encuesta BCRP
+2025-11,expectativa_economia_12m,63.9,Scraping Encuesta BCRP
+2025-12,expectativa_economia_12m,64.54,Scraping Encuesta BCRP
+2002-06,expectativa_sector_3m,56.15,Scraping Encuesta BCRP
+2002-07,expectativa_sector_3m,58.43,Scraping Encuesta BCRP
+2002-08,expectativa_sector_3m,62.46,Scraping Encuesta BCRP
+2002-09,expectativa_sector_3m,63.27,Scraping Encuesta BCRP
+2002-10,expectativa_sector_3m,62.05,Scraping Encuesta BCRP
+2002-11,expectativa_sector_3m,65.67,Scraping Encuesta BCRP
+2002-12,expectativa_sector_3m,68.84,Scraping Encuesta BCRP
+2003-01,expectativa_sector_3m,71.01,Scraping Encuesta BCRP
+2003-02,expectativa_sector_3m,66.62,Scraping Encuesta BCRP
+2003-03,expectativa_sector_3m,66.08,Scraping Encuesta BCRP
+2003-04,expectativa_sector_3m,64.96,Scraping Encuesta BCRP
+2003-05,expectativa_sector_3m,59.5,Scraping Encuesta BCRP
+2003-06,expectativa_sector_3m,56.25,Scraping Encuesta BCRP
+2003-07,expectativa_sector_3m,59.82,Scraping Encuesta BCRP
+2003-08,expectativa_sector_3m,60.9,Scraping Encuesta BCRP
+2003-09,expectativa_sector_3m,64.97,Scraping Encuesta BCRP
+2003-10,expectativa_sector_3m,61.39,Scraping Encuesta BCRP
+2003-11,expectativa_sector_3m,59.58,Scraping Encuesta BCRP
+2003-12,expectativa_sector_3m,61.32,Scraping Encuesta BCRP
+2004-01,expectativa_sector_3m,62.31,Scraping Encuesta BCRP
+2004-02,expectativa_sector_3m,61.04,Scraping Encuesta BCRP
+2004-03,expectativa_sector_3m,63.19,Scraping Encuesta BCRP
+2004-04,expectativa_sector_3m,61.83,Scraping Encuesta BCRP
+2004-05,expectativa_sector_3m,60.6,Scraping Encuesta BCRP
+2004-06,expectativa_sector_3m,59.9,Scraping Encuesta BCRP
+2004-07,expectativa_sector_3m,59.96,Scraping Encuesta BCRP
+2004-08,expectativa_sector_3m,62.42,Scraping Encuesta BCRP
+2004-09,expectativa_sector_3m,65.14,Scraping Encuesta BCRP
+2004-10,expectativa_sector_3m,64.2,Scraping Encuesta BCRP
+2004-11,expectativa_sector_3m,66.35,Scraping Encuesta BCRP
+2004-12,expectativa_sector_3m,65.3,Scraping Encuesta BCRP
+2005-01,expectativa_sector_3m,64.39,Scraping Encuesta BCRP
+2005-02,expectativa_sector_3m,64.5,Scraping Encuesta BCRP
+2005-03,expectativa_sector_3m,64.6,Scraping Encuesta BCRP
+2005-04,expectativa_sector_3m,65.54,Scraping Encuesta BCRP
+2005-05,expectativa_sector_3m,63.28,Scraping Encuesta BCRP
+2005-06,expectativa_sector_3m,63.28,Scraping Encuesta BCRP
+2005-07,expectativa_sector_3m,64.56,Scraping Encuesta BCRP
+2005-08,expectativa_sector_3m,65.52,Scraping Encuesta BCRP
+2005-09,expectativa_sector_3m,69.23,Scraping Encuesta BCRP
+2005-10,expectativa_sector_3m,65.16,Scraping Encuesta BCRP
+2005-11,expectativa_sector_3m,62.95,Scraping Encuesta BCRP
+2005-12,expectativa_sector_3m,63.3,Scraping Encuesta BCRP
+2006-01,expectativa_sector_3m,62.61,Scraping Encuesta BCRP
+2006-02,expectativa_sector_3m,65.04,Scraping Encuesta BCRP
+2006-03,expectativa_sector_3m,58.04,Scraping Encuesta BCRP
+2006-04,expectativa_sector_3m,59.06,Scraping Encuesta BCRP
+2006-05,expectativa_sector_3m,65.04,Scraping Encuesta BCRP
+2006-06,expectativa_sector_3m,66.08,Scraping Encuesta BCRP
+2006-07,expectativa_sector_3m,68.03,Scraping Encuesta BCRP
+2006-08,expectativa_sector_3m,70.2,Scraping Encuesta BCRP
+2006-09,expectativa_sector_3m,68.06,Scraping Encuesta BCRP
+2006-10,expectativa_sector_3m,67.94,Scraping Encuesta BCRP
+2006-11,expectativa_sector_3m,70.0,Scraping Encuesta BCRP
+2006-12,expectativa_sector_3m,70.36,Scraping Encuesta BCRP
+2007-01,expectativa_sector_3m,71.45,Scraping Encuesta BCRP
+2007-02,expectativa_sector_3m,73.18,Scraping Encuesta BCRP
+2007-03,expectativa_sector_3m,72.21,Scraping Encuesta BCRP
+2007-04,expectativa_sector_3m,73.89,Scraping Encuesta BCRP
+2007-05,expectativa_sector_3m,72.74,Scraping Encuesta BCRP
+2007-06,expectativa_sector_3m,70.53,Scraping Encuesta BCRP
+2007-07,expectativa_sector_3m,73.21,Scraping Encuesta BCRP
+2007-08,expectativa_sector_3m,71.93,Scraping Encuesta BCRP
+2007-09,expectativa_sector_3m,71.99,Scraping Encuesta BCRP
+2007-10,expectativa_sector_3m,68.62,Scraping Encuesta BCRP
+2007-11,expectativa_sector_3m,72.19,Scraping Encuesta BCRP
+2007-12,expectativa_sector_3m,73.46,Scraping Encuesta BCRP
+2008-01,expectativa_sector_3m,73.49,Scraping Encuesta BCRP
+2008-02,expectativa_sector_3m,73.49,Scraping Encuesta BCRP
+2008-03,expectativa_sector_3m,68.81,Scraping Encuesta BCRP
+2008-04,expectativa_sector_3m,69.44,Scraping Encuesta BCRP
+2008-05,expectativa_sector_3m,70.64,Scraping Encuesta BCRP
+2008-06,expectativa_sector_3m,70.68,Scraping Encuesta BCRP
+2008-07,expectativa_sector_3m,65.25,Scraping Encuesta BCRP
+2008-08,expectativa_sector_3m,62.99,Scraping Encuesta BCRP
+2008-09,expectativa_sector_3m,60.06,Scraping Encuesta BCRP
+2008-10,expectativa_sector_3m,47.3,Scraping Encuesta BCRP
+2008-11,expectativa_sector_3m,46.46,Scraping Encuesta BCRP
+2008-12,expectativa_sector_3m,36.24,Scraping Encuesta BCRP
+2009-01,expectativa_sector_3m,39.18,Scraping Encuesta BCRP
+2009-02,expectativa_sector_3m,43.06,Scraping Encuesta BCRP
+2009-03,expectativa_sector_3m,39.79,Scraping Encuesta BCRP
+2009-04,expectativa_sector_3m,41.87,Scraping Encuesta BCRP
+2009-05,expectativa_sector_3m,52.97,Scraping Encuesta BCRP
+2009-06,expectativa_sector_3m,52.1,Scraping Encuesta BCRP
+2009-07,expectativa_sector_3m,51.72,Scraping Encuesta BCRP
+2009-08,expectativa_sector_3m,60.66,Scraping Encuesta BCRP
+2009-09,expectativa_sector_3m,59.89,Scraping Encuesta BCRP
+2009-10,expectativa_sector_3m,62.6,Scraping Encuesta BCRP
+2009-11,expectativa_sector_3m,64.29,Scraping Encuesta BCRP
+2009-12,expectativa_sector_3m,65.07,Scraping Encuesta BCRP
+2010-01,expectativa_sector_3m,66.5,Scraping Encuesta BCRP
+2010-02,expectativa_sector_3m,68.58,Scraping Encuesta BCRP
+2010-03,expectativa_sector_3m,67.29,Scraping Encuesta BCRP
+2010-04,expectativa_sector_3m,67.63,Scraping Encuesta BCRP
+2010-05,expectativa_sector_3m,66.78,Scraping Encuesta BCRP
+2010-06,expectativa_sector_3m,68.8,Scraping Encuesta BCRP
+2010-07,expectativa_sector_3m,67.01,Scraping Encuesta BCRP
+2010-08,expectativa_sector_3m,67.46,Scraping Encuesta BCRP
+2010-09,expectativa_sector_3m,67.71,Scraping Encuesta BCRP
+2010-10,expectativa_sector_3m,67.18,Scraping Encuesta BCRP
+2010-11,expectativa_sector_3m,64.11,Scraping Encuesta BCRP
+2010-12,expectativa_sector_3m,64.47,Scraping Encuesta BCRP
+2011-01,expectativa_sector_3m,64.77,Scraping Encuesta BCRP
+2011-02,expectativa_sector_3m,64.65,Scraping Encuesta BCRP
+2011-03,expectativa_sector_3m,64.26,Scraping Encuesta BCRP
+2011-04,expectativa_sector_3m,51.64,Scraping Encuesta BCRP
+2011-05,expectativa_sector_3m,52.14,Scraping Encuesta BCRP
+2011-06,expectativa_sector_3m,48.94,Scraping Encuesta BCRP
+2011-07,expectativa_sector_3m,53.52,Scraping Encuesta BCRP
+2011-08,expectativa_sector_3m,52.82,Scraping Encuesta BCRP
+2011-09,expectativa_sector_3m,55.38,Scraping Encuesta BCRP
+2011-10,expectativa_sector_3m,58.11,Scraping Encuesta BCRP
+2011-11,expectativa_sector_3m,57.21,Scraping Encuesta BCRP
+2011-12,expectativa_sector_3m,56.64,Scraping Encuesta BCRP
+2012-01,expectativa_sector_3m,58.03,Scraping Encuesta BCRP
+2012-02,expectativa_sector_3m,61.49,Scraping Encuesta BCRP
+2012-03,expectativa_sector_3m,62.54,Scraping Encuesta BCRP
+2012-04,expectativa_sector_3m,61.82,Scraping Encuesta BCRP
+2012-05,expectativa_sector_3m,57.79,Scraping Encuesta BCRP
+2012-06,expectativa_sector_3m,56.96,Scraping Encuesta BCRP
+2012-07,expectativa_sector_3m,56.04,Scraping Encuesta BCRP
+2012-08,expectativa_sector_3m,58.39,Scraping Encuesta BCRP
+2012-09,expectativa_sector_3m,60.48,Scraping Encuesta BCRP
+2012-10,expectativa_sector_3m,62.42,Scraping Encuesta BCRP
+2012-11,expectativa_sector_3m,61.71,Scraping Encuesta BCRP
+2012-12,expectativa_sector_3m,62.22,Scraping Encuesta BCRP
+2013-01,expectativa_sector_3m,63.21,Scraping Encuesta BCRP
+2013-02,expectativa_sector_3m,63.26,Scraping Encuesta BCRP
+2013-03,expectativa_sector_3m,61.97,Scraping Encuesta BCRP
+2013-04,expectativa_sector_3m,57.91,Scraping Encuesta BCRP
+2013-05,expectativa_sector_3m,55.65,Scraping Encuesta BCRP
+2013-06,expectativa_sector_3m,51.83,Scraping Encuesta BCRP
+2013-07,expectativa_sector_3m,51.27,Scraping Encuesta BCRP
+2013-08,expectativa_sector_3m,50.95,Scraping Encuesta BCRP
+2013-09,expectativa_sector_3m,54.91,Scraping Encuesta BCRP
+2013-10,expectativa_sector_3m,57.25,Scraping Encuesta BCRP
+2013-11,expectativa_sector_3m,57.75,Scraping Encuesta BCRP
+2013-12,expectativa_sector_3m,58.86,Scraping Encuesta BCRP
+2014-01,expectativa_sector_3m,60.95,Scraping Encuesta BCRP
+2014-02,expectativa_sector_3m,59.51,Scraping Encuesta BCRP
+2014-03,expectativa_sector_3m,55.7,Scraping Encuesta BCRP
+2014-04,expectativa_sector_3m,56.46,Scraping Encuesta BCRP
+2014-05,expectativa_sector_3m,53.95,Scraping Encuesta BCRP
+2014-06,expectativa_sector_3m,53.46,Scraping Encuesta BCRP
+2014-07,expectativa_sector_3m,51.63,Scraping Encuesta BCRP
+2014-08,expectativa_sector_3m,52.53,Scraping Encuesta BCRP
+2014-09,expectativa_sector_3m,56.33,Scraping Encuesta BCRP
+2014-10,expectativa_sector_3m,54.65,Scraping Encuesta BCRP
+2014-11,expectativa_sector_3m,54.75,Scraping Encuesta BCRP
+2014-12,expectativa_sector_3m,54.76,Scraping Encuesta BCRP
+2015-01,expectativa_sector_3m,55.8,Scraping Encuesta BCRP
+2015-02,expectativa_sector_3m,54.08,Scraping Encuesta BCRP
+2015-03,expectativa_sector_3m,54.1,Scraping Encuesta BCRP
+2015-04,expectativa_sector_3m,52.14,Scraping Encuesta BCRP
+2015-05,expectativa_sector_3m,50.57,Scraping Encuesta BCRP
+2015-06,expectativa_sector_3m,53.27,Scraping Encuesta BCRP
+2015-07,expectativa_sector_3m,50.78,Scraping Encuesta BCRP
+2015-08,expectativa_sector_3m,48.04,Scraping Encuesta BCRP
+2015-09,expectativa_sector_3m,48.09,Scraping Encuesta BCRP
+2015-10,expectativa_sector_3m,49.31,Scraping Encuesta BCRP
+2015-11,expectativa_sector_3m,49.14,Scraping Encuesta BCRP
+2015-12,expectativa_sector_3m,47.66,Scraping Encuesta BCRP
+2016-01,expectativa_sector_3m,47.89,Scraping Encuesta BCRP
+2016-02,expectativa_sector_3m,50.42,Scraping Encuesta BCRP
+2016-03,expectativa_sector_3m,50.83,Scraping Encuesta BCRP
+2016-04,expectativa_sector_3m,55.08,Scraping Encuesta BCRP
+2016-05,expectativa_sector_3m,53.26,Scraping Encuesta BCRP
+2016-06,expectativa_sector_3m,56.02,Scraping Encuesta BCRP
+2016-07,expectativa_sector_3m,58.2,Scraping Encuesta BCRP
+2016-08,expectativa_sector_3m,59.14,Scraping Encuesta BCRP
+2016-09,expectativa_sector_3m,59.34,Scraping Encuesta BCRP
+2016-10,expectativa_sector_3m,59.16,Scraping Encuesta BCRP
+2016-11,expectativa_sector_3m,57.88,Scraping Encuesta BCRP
+2016-12,expectativa_sector_3m,57.1,Scraping Encuesta BCRP
+2017-01,expectativa_sector_3m,56.93,Scraping Encuesta BCRP
+2017-02,expectativa_sector_3m,56.68,Scraping Encuesta BCRP
+2017-03,expectativa_sector_3m,52.16,Scraping Encuesta BCRP
+2017-04,expectativa_sector_3m,59.41,Scraping Encuesta BCRP
+2017-05,expectativa_sector_3m,57.76,Scraping Encuesta BCRP
+2017-06,expectativa_sector_3m,56.87,Scraping Encuesta BCRP
+2017-07,expectativa_sector_3m,55.85,Scraping Encuesta BCRP
+2017-08,expectativa_sector_3m,57.85,Scraping Encuesta BCRP
+2017-09,expectativa_sector_3m,60.73,Scraping Encuesta BCRP
+2017-10,expectativa_sector_3m,61.68,Scraping Encuesta BCRP
+2017-11,expectativa_sector_3m,60.61,Scraping Encuesta BCRP
+2017-12,expectativa_sector_3m,55.87,Scraping Encuesta BCRP
+2018-01,expectativa_sector_3m,58.31,Scraping Encuesta BCRP
+2018-02,expectativa_sector_3m,56.65,Scraping Encuesta BCRP
+2018-03,expectativa_sector_3m,55.67,Scraping Encuesta BCRP
+2018-04,expectativa_sector_3m,58.94,Scraping Encuesta BCRP
+2018-05,expectativa_sector_3m,59.86,Scraping Encuesta BCRP
+2018-06,expectativa_sector_3m,57.29,Scraping Encuesta BCRP
+2018-07,expectativa_sector_3m,59.7,Scraping Encuesta BCRP
+2018-08,expectativa_sector_3m,58.9,Scraping Encuesta BCRP
+2018-09,expectativa_sector_3m,57.14,Scraping Encuesta BCRP
+2018-10,expectativa_sector_3m,55.97,Scraping Encuesta BCRP
+2018-11,expectativa_sector_3m,55.59,Scraping Encuesta BCRP
+2018-12,expectativa_sector_3m,58.54,Scraping Encuesta BCRP
+2019-01,expectativa_sector_3m,56.62,Scraping Encuesta BCRP
+2019-02,expectativa_sector_3m,59.55,Scraping Encuesta BCRP
+2019-03,expectativa_sector_3m,58.82,Scraping Encuesta BCRP
+2019-04,expectativa_sector_3m,54.85,Scraping Encuesta BCRP
+2019-05,expectativa_sector_3m,56.25,Scraping Encuesta BCRP
+2019-06,expectativa_sector_3m,54.42,Scraping Encuesta BCRP
+2019-07,expectativa_sector_3m,52.08,Scraping Encuesta BCRP
+2019-08,expectativa_sector_3m,49.85,Scraping Encuesta BCRP
+2019-09,expectativa_sector_3m,50.15,Scraping Encuesta BCRP
+2019-10,expectativa_sector_3m,50.47,Scraping Encuesta BCRP
+2019-11,expectativa_sector_3m,51.95,Scraping Encuesta BCRP
+2019-12,expectativa_sector_3m,51.52,Scraping Encuesta BCRP
+2020-01,expectativa_sector_3m,55.8,Scraping Encuesta BCRP
+2020-02,expectativa_sector_3m,50.76,Scraping Encuesta BCRP
+2020-03,expectativa_sector_3m,28.48,Scraping Encuesta BCRP
+2020-04,expectativa_sector_3m,15.74,Scraping Encuesta BCRP
+2020-05,expectativa_sector_3m,19.46,Scraping Encuesta BCRP
+2020-06,expectativa_sector_3m,34.63,Scraping Encuesta BCRP
+2020-07,expectativa_sector_3m,38.72,Scraping Encuesta BCRP
+2020-08,expectativa_sector_3m,43.19,Scraping Encuesta BCRP
+2020-09,expectativa_sector_3m,49.67,Scraping Encuesta BCRP
+2020-10,expectativa_sector_3m,50.97,Scraping Encuesta BCRP
+2020-11,expectativa_sector_3m,55.08,Scraping Encuesta BCRP
+2020-12,expectativa_sector_3m,49.67,Scraping Encuesta BCRP
+2021-01,expectativa_sector_3m,44.83,Scraping Encuesta BCRP
+2021-02,expectativa_sector_3m,46.96,Scraping Encuesta BCRP
+2021-03,expectativa_sector_3m,53.54,Scraping Encuesta BCRP
+2021-04,expectativa_sector_3m,46.69,Scraping Encuesta BCRP
+2021-05,expectativa_sector_3m,48.87,Scraping Encuesta BCRP
+2021-06,expectativa_sector_3m,43.05,Scraping Encuesta BCRP
+2021-07,expectativa_sector_3m,45.41,Scraping Encuesta BCRP
+2021-08,expectativa_sector_3m,42.44,Scraping Encuesta BCRP
+2021-09,expectativa_sector_3m,44.8,Scraping Encuesta BCRP
+2021-10,expectativa_sector_3m,48.72,Scraping Encuesta BCRP
+2021-11,expectativa_sector_3m,46.77,Scraping Encuesta BCRP
+2021-12,expectativa_sector_3m,46.2,Scraping Encuesta BCRP
+2022-01,expectativa_sector_3m,48.83,Scraping Encuesta BCRP
+2022-02,expectativa_sector_3m,49.49,Scraping Encuesta BCRP
+2022-03,expectativa_sector_3m,48.95,Scraping Encuesta BCRP
+2022-04,expectativa_sector_3m,43.53,Scraping Encuesta BCRP
+2022-05,expectativa_sector_3m,46.15,Scraping Encuesta BCRP
+2022-06,expectativa_sector_3m,43.19,Scraping Encuesta BCRP
+2022-07,expectativa_sector_3m,43.19,Scraping Encuesta BCRP
+2022-08,expectativa_sector_3m,44.39,Scraping Encuesta BCRP
+2022-09,expectativa_sector_3m,44.84,Scraping Encuesta BCRP
+2022-10,expectativa_sector_3m,43.9,Scraping Encuesta BCRP
+2022-11,expectativa_sector_3m,42.78,Scraping Encuesta BCRP
+2022-12,expectativa_sector_3m,47.1,Scraping Encuesta BCRP
+2023-01,expectativa_sector_3m,39.75,Scraping Encuesta BCRP
+2023-02,expectativa_sector_3m,44.0,Scraping Encuesta BCRP
+2023-03,expectativa_sector_3m,46.55,Scraping Encuesta BCRP
+2023-04,expectativa_sector_3m,46.15,Scraping Encuesta BCRP
+2023-05,expectativa_sector_3m,47.45,Scraping Encuesta BCRP
+2023-06,expectativa_sector_3m,44.67,Scraping Encuesta BCRP
+2023-07,expectativa_sector_3m,45.42,Scraping Encuesta BCRP
+2023-08,expectativa_sector_3m,46.77,Scraping Encuesta BCRP
+2023-09,expectativa_sector_3m,42.83,Scraping Encuesta BCRP
+2023-10,expectativa_sector_3m,41.44,Scraping Encuesta BCRP
+2023-11,expectativa_sector_3m,41.61,Scraping Encuesta BCRP
+2023-12,expectativa_sector_3m,44.16,Scraping Encuesta BCRP
+2024-01,expectativa_sector_3m,45.76,Scraping Encuesta BCRP
+2024-02,expectativa_sector_3m,49.2,Scraping Encuesta BCRP
+2024-03,expectativa_sector_3m,51.19,Scraping Encuesta BCRP
+2024-04,expectativa_sector_3m,49.81,Scraping Encuesta BCRP
+2024-05,expectativa_sector_3m,51.51,Scraping Encuesta BCRP
+2024-06,expectativa_sector_3m,50.55,Scraping Encuesta BCRP
+2024-07,expectativa_sector_3m,51.5,Scraping Encuesta BCRP
+2024-08,expectativa_sector_3m,52.49,Scraping Encuesta BCRP
+2024-09,expectativa_sector_3m,55.34,Scraping Encuesta BCRP
+2024-10,expectativa_sector_3m,53.47,Scraping Encuesta BCRP
+2024-11,expectativa_sector_3m,53.05,Scraping Encuesta BCRP
+2024-12,expectativa_sector_3m,51.41,Scraping Encuesta BCRP
+2025-01,expectativa_sector_3m,54.36,Scraping Encuesta BCRP
+2025-02,expectativa_sector_3m,54.55,Scraping Encuesta BCRP
+2025-03,expectativa_sector_3m,56.33,Scraping Encuesta BCRP
+2025-04,expectativa_sector_3m,55.08,Scraping Encuesta BCRP
+2025-05,expectativa_sector_3m,55.86,Scraping Encuesta BCRP
+2025-06,expectativa_sector_3m,55.16,Scraping Encuesta BCRP
+2025-07,expectativa_sector_3m,57.21,Scraping Encuesta BCRP
+2025-08,expectativa_sector_3m,55.79,Scraping Encuesta BCRP
+2025-09,expectativa_sector_3m,57.94,Scraping Encuesta BCRP
+2025-10,expectativa_sector_3m,57.05,Scraping Encuesta BCRP
+2025-11,expectativa_sector_3m,58.33,Scraping Encuesta BCRP
+2025-12,expectativa_sector_3m,56.66,Scraping Encuesta BCRP

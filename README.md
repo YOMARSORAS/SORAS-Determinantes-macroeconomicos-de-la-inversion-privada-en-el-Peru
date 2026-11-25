@@ -28,7 +28,7 @@
 - Clave de API: no se requiere (BCRPData es abierto). Copiar `.env.example` a `.env` y completar el contacto.
 
 ## Integridad
-- SHA-256 de `datos_procesados/datos_procesados_2024200530J.csv`: (por completar)
+- SHA-256 de `datos_procesados/datos_procesados_2024200530J.csv`: c7b3ed47ff8b60eba43bd3355cbbba3abe626dc50d500ea3f47ca0a174bd470d
 
 ## Vía 2 — Web scraping (numeral 2.4.3: rastreo de HTML con selectores y pausas)
 - **Fuente:** Encuesta de Expectativas Macroeconómicas del BCRP, publicada en BCRPData.
