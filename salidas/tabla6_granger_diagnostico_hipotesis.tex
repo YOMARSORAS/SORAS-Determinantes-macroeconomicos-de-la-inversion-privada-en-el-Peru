@@ -1,0 +1,26 @@
+\begin{table}
+\caption{Causalidad de Granger, diagnóstico de residuos y contraste de hipótesis}
+\label{tab:tabla6_granger_diagnostico_hipotesis}
+\begin{tabular}{lllll}
+\toprule
+ &  & Estadístico & p-valor & Conclusión \\
+Panel & Prueba &  &  &  \\
+\midrule
+\multirow[t]{3}{*}{A. Granger (6 rezagos)} & Expectativas → Inversión & F = 2.811 & 0.0113 & Sí la anticipa \\
+ & Tasa corporativa → Inversión & F = 0.330 & 0.9208 & No la anticipa \\
+ & ln Tipo de cambio → Inversión & F = 2.070 & 0.0567 & No la anticipa \\
+\cline{1-5}
+\multirow[t]{5}{*}{B. Diagnóstico de residuos} & Breusch-Godfrey (12): autocorrelación & 3.608 & 0.0001 & Problema (se usan errores HAC) \\
+ & Breusch-Pagan: heterocedasticidad & 156.445 & 0.0000 & Problema (se usan errores HAC) \\
+ & Jarque-Bera: normalidad & 2217.559 & 0.0000 & Problema (se usan errores HAC) \\
+ & RESET de Ramsey: forma funcional & 0.000 & 0.9976 & Bien especificado \\
+ & CUSUM / CUSUMSQ &  &  & Estable / Inestable \\
+\cline{1-5}
+\multirow[t]{4}{*}{C. Contraste de hipótesis} & H1: la tasa reduce la inversión & β = -0.0140, p = 0.4248 &  & RECHAZADA \\
+ & H2: la depreciación reduce la inversión & β = -0.8247, p = 0.0000 &  & ACEPTADA \\
+ & H3: las expectativas aumentan y anticipan la inversión & β = 0.0009, p = 0.8618; Granger p = 0.0113 &  & RECHAZADA \\
+ & H4: existe equilibrio de largo plazo & F = 5.30; λ = -0.033 &  & ACEPTADA \\
+\cline{1-5}
+\bottomrule
+\end{tabular}
+\end{table}

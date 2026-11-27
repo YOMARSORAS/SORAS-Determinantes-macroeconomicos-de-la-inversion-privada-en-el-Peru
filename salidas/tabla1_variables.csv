@@ -1,0 +1,7 @@
+Variable,Definición,Unidad,Frecuencia,Fuente,Vía,Signo esperado
+Inversión privada real (ln_ipr),"Inversión bruta fija privada, mensualizada por Denton",Millones de S/ 2007 (ln),Trimestral → mensual,"BCRP, PN02533AQ",API,Dependiente
+PBI (ln_pbi),Producto bruto interno real,Índice 2007=100 (ln),Mensual,"BCRP, PN01770AM",API,+
+Tasa corporativa (tasa),Tasa preferencial corporativa a 90 días en MN (retropolada antes de ago-2010),% anual,Mensual,"BCRP/SBS, PN07809NM",API,−
+Tipo de cambio (ln_tc),"Interbancario venta, promedio del mes",S/ por US$ (ln),Mensual,"BCRP, PN01206PM",API,−
+Expectativas (exp),Índice de expectativas de la economía a 3 meses,Puntos 0-100,Mensual,"BCRP, Encuesta de Expectativas, PD38045AM",Web scraping,+
+Términos de intercambio (ln_ti),Índice de términos de intercambio,Índice 2007=100 (ln),Mensual,"BCRP, PN38923BM",API,+
