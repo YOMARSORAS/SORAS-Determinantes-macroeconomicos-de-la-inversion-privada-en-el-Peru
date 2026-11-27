@@ -1,7 +1,7 @@
 # Nombres y apellidos: YOMAR CRISTHIAN SORAS QUISPE
 # Código de matrícula: 2024200530J
 # Tema N.º 56 del temario: Métodos de evaluación de inversiones — Determinantes macroeconómicos de la inversión privada en el Perú
-# Fecha de extracción: 2026-11-07 (Vía 1) y 2026-11-24 (Vía 2)
+# Fecha de extracción: 2026-11-27
 """
 04_analisis.py — Análisis empírico según el «Diseño del análisis empírico (Tema 56)».
 Lee datos_procesados/datos_procesados_<CODIGO>.csv (mensual 2000-01 a 2025-12) y genera en
@@ -58,7 +58,7 @@ ETAPAS = {"E1": ("2000", "2003"), "E2": ("2004", "2013"), "E3": ("2014", "2019")
           "E4": ("2020", "2021"), "E5": ("2022", "2025")}
 NOMBRE_ETAPA = {"E1": "E1\n2000-03", "E2": "E2\n2004-13", "E3": "E3\n2014-19",
                 "E4": "E4\n2020-21", "E5": "E5\n2022-25"}
-PROYECTO = [-100_000, 30_000, 35_000, 40_000, 45_000]   # proyecto ilustrativo de la Clase 09
+PROYECTO = [-100_000, 30_000, 35_000, 40_000, 45_000]   # proyecto ilustrativo (flujos en S/)
 
 X_VARS = {"ln_pbi": "ln PBI", "tasa": "Tasa corporativa", "ln_tc": "ln Tipo de cambio",
           "exp": "Expectativas", "ln_ti": "ln Términos de intercambio"}
@@ -733,7 +733,7 @@ def tabla6(d, base, estable):
 
 
 # ----------------------------------------------------------------------------
-# 10. BLOQUE C: PUENTE CON EL VAN (Figura 6, Clase 09)
+# 10. BLOQUE C: PUENTE CON EL VAN (Figura 6,)
 # ----------------------------------------------------------------------------
 def _tir(f):
     lo, hi = 0.0, 1.0

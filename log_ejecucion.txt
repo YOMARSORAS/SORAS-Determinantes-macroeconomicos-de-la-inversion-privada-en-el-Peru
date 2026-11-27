@@ -1,334 +1,131 @@
-2026-11-07 05:12:08,947 | INFO | 01_extraccion_api | ======================================================================
-2026-11-07 05:12:08,948 | INFO | 01_extraccion_api | Inicio | Python 3.13.18 | requests 2.32.4 | pandas 2.2.3
-2026-11-07 05:12:08,948 | INFO | 01_extraccion_api | Parámetros: FECHA_INICIO=2000-01 FECHA_CORTE=2025-12 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
-2026-11-07 05:12:09,506 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN02533AQ/json/2000-1/2025-4/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:09,506 | INFO | 01_extraccion_api | Se ignoraron 5378 caracteres añadidos después del JSON
-2026-11-07 05:12:09,526 | INFO | 01_extraccion_api | trimestral PN02533AQ: 104 registros recibidos
-2026-11-07 05:12:10,814 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01770AM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:10,815 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
-2026-11-07 05:12:10,838 | INFO | 01_extraccion_api | mensual PN01770AM: 312 registros recibidos
-2026-11-07 05:12:12,075 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07809NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:12,075 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
-2026-11-07 05:12:12,097 | INFO | 01_extraccion_api | mensual PN07809NM: 185 registros recibidos
-2026-11-07 05:12:13,393 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01206PM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:13,394 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
-2026-11-07 05:12:13,415 | INFO | 01_extraccion_api | mensual PN01206PM: 312 registros recibidos
-2026-11-07 05:12:14,660 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN38923BM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:14,661 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
-2026-11-07 05:12:14,682 | INFO | 01_extraccion_api | mensual PN38923BM: 312 registros recibidos
-2026-11-07 05:12:16,380 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07819NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:16,381 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
-2026-11-07 05:12:16,404 | INFO | 01_extraccion_api | mensual PN07819NM: 312 registros recibidos
-2026-11-07 05:12:17,668 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07807NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
-2026-11-07 05:12:17,668 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
-2026-11-07 05:12:17,691 | INFO | 01_extraccion_api | mensual PN07807NM: 312 registros recibidos
-2026-11-07 05:12:18,719 | INFO | 01_extraccion_api | Guardado datos_crudos_api_2024200530J.csv: 1849 filas x 5 columnas
-2026-11-07 05:12:18,725 | INFO | 01_extraccion_api | Resumen PN02533AQ -> inv_priv_real (trimestral) | BCRP: 'Producto bruto interno por tipo de gasto (millones S/ 2007) - Demanda Interna - Inversión Bruta Interna - Inversión Bruta Fija - Privada' | 104 periodos, 104 con dato, desde T1.00 hasta T4.25
-2026-11-07 05:12:18,726 | INFO | 01_extraccion_api | Resumen PN01770AM -> pbi_idx (mensual) | BCRP: 'Producto bruto interno y demanda interna (índice 2007 = 100) - PBI' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
-2026-11-07 05:12:18,727 | INFO | 01_extraccion_api | Resumen PN07809NM -> tasa_corp (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - Preferencial Corporativa a 90 días' | 185 periodos, 185 con dato, desde Ago.2010 hasta Dic.2025
-2026-11-07 05:12:18,728 | INFO | 01_extraccion_api | Resumen PN01206PM -> tc (mensual) | BCRP: 'Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
-2026-11-07 05:12:18,729 | INFO | 01_extraccion_api | Resumen PN38923BM -> tot (mensual) | BCRP: 'Términos de intercambio de comercio exterior (índice 2007 = 100) - Términos de Intercambio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
-2026-11-07 05:12:18,731 | INFO | 01_extraccion_api | Resumen PN07819NM -> aux_tasa_interb (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Tasa Interbancaria Promedio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
-2026-11-07 05:12:18,732 | INFO | 01_extraccion_api | Resumen PN07807NM -> aux_tamn (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
-2026-11-07 05:12:18,732 | INFO | 01_extraccion_api | Fin de 01_extraccion_api.py: OK
-2026-11-08 01:37:10,848 | INFO | 02_scraping_web | ======================================================================
-2026-11-08 01:37:11,267 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
-2026-11-08 01:37:11,519 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 403 | text/html | 940 bytes (intento 1)
-2026-11-08 01:37:13,545 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 403 | text/html | 942 bytes (intento 2)
-2026-11-08 01:37:17,566 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 403 | text/html | 942 bytes (intento 3)
-2026-11-08 01:37:25,567 | WARNING | 02_scraping_web | robots.txt de https://estadisticas.bcrp.gob.pe no disponible como texto; se procede con una sola descarga, pausada e identificada
-2026-11-08 01:37:25,601 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 403 | text/html | 942 bytes (intento 1)
-2026-11-08 01:37:27,624 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 403 | text/html | 941 bytes (intento 2)
-2026-11-08 01:37:31,647 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 403 | text/html | 941 bytes (intento 3)
-2026-11-08 01:37:39,656 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: No se pudo descargar la página de enlaces
-2026-11-08 01:53:30,706 | INFO | 02_scraping_web | ======================================================================
-2026-11-08 01:53:31,104 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
-2026-11-08 01:53:31,886 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
-2026-11-08 01:53:34,386 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 2)
-2026-11-08 01:53:38,843 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 3)
-2026-11-08 01:53:46,844 | WARNING | 02_scraping_web | robots.txt de https://estadisticas.bcrp.gob.pe no disponible como texto; se procede con una sola descarga, pausada e identificada
-2026-11-08 01:53:47,887 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
-2026-11-08 01:53:50,119 | INFO | 02_scraping_web | Enlaces .xlsx encontrados en la página: 4
-2026-11-08 01:53:50,120 | INFO | 02_scraping_web |    - 'Inflación' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx
-2026-11-08 01:53:50,120 | INFO | 02_scraping_web |    - 'Producto Bruto Interno' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx
-2026-11-08 01:53:50,120 | INFO | 02_scraping_web |    - 'Tipo de Cambio' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx
-2026-11-08 01:53:50,121 | INFO | 02_scraping_web |    - 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
-2026-11-08 01:53:50,121 | INFO | 02_scraping_web | Enlace seleccionado: 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
-2026-11-08 01:53:50,855 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
-2026-11-08 01:53:52,856 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
-2026-11-08 01:53:52,881 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html; charset=UTF-8 | 5996 bytes (intento 1)
-2026-11-08 01:53:55,568 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: La respuesta no es un archivo Excel (posible bloqueo anti-bot)
-2026-11-08 02:01:38,399 | INFO | 02_scraping_web | ======================================================================
-2026-11-08 02:01:38,401 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
-2026-11-08 02:01:39,211 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 1)
-2026-11-08 02:01:41,675 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 2)
-2026-11-08 02:01:46,159 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 3)
-2026-11-08 02:01:54,161 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
-2026-11-08 02:01:55,243 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40057 bytes (intento 1)
-2026-11-08 02:01:57,459 | INFO | 02_scraping_web | Enlaces .xlsx encontrados en la página: 4
-2026-11-08 02:01:57,459 | INFO | 02_scraping_web |    - 'Inflación' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx
-2026-11-08 02:01:57,460 | INFO | 02_scraping_web |    - 'Producto Bruto Interno' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx
-2026-11-08 02:01:57,460 | INFO | 02_scraping_web |    - 'Tipo de Cambio' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx
-2026-11-08 02:01:57,460 | INFO | 02_scraping_web |    - 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
-2026-11-08 02:01:57,460 | INFO | 02_scraping_web | Enlace seleccionado: 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
-2026-11-08 02:01:58,253 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
-2026-11-08 02:02:00,254 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
-2026-11-08 02:02:00,281 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html; charset=UTF-8 | 5996 bytes (intento 1)
-2026-11-08 02:02:02,292 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: Con requests la respuesta no es Excel (verificación anti-bot con JavaScript); se intenta con navegador automatizado
-2026-11-08 02:10:16,249 | INFO | 02_scraping_web | ======================================================================
-2026-11-08 02:10:16,252 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Mozilla/5.0 (compatible; Proyecto-academico-UNCP-Finanzas-I)
-2026-11-08 02:10:16,887 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
-2026-11-08 02:10:19,367 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 950 bytes (intento 2)
-2026-11-08 02:10:23,822 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 3)
-2026-11-08 02:10:31,823 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
-2026-11-08 02:10:32,844 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
-2026-11-08 02:10:35,066 | INFO | 02_scraping_web | Enlaces .xlsx encontrados en la página: 4
-2026-11-08 02:10:35,067 | INFO | 02_scraping_web |    - 'Inflación' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-inflacion.xlsx
-2026-11-08 02:10:35,067 | INFO | 02_scraping_web |    - 'Producto Bruto Interno' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-pbi.xlsx
-2026-11-08 02:10:35,067 | INFO | 02_scraping_web |    - 'Tipo de Cambio' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-tipo-de-cambio.xlsx
-2026-11-08 02:10:35,068 | INFO | 02_scraping_web |    - 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
-2026-11-08 02:10:35,068 | INFO | 02_scraping_web | Enlace seleccionado: 'Índices de confianza empresarial' -> https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx
-2026-11-08 02:10:35,696 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
-2026-11-08 02:10:37,697 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
-2026-11-08 02:10:37,724 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html; charset=UTF-8 | 5996 bytes (intento 1)
-2026-11-08 02:10:39,738 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: Con requests la respuesta no es Excel (verificación anti-bot con JavaScript); se intenta con navegador automatizado
-2026-11-08 02:10:41,045 | INFO | 02_scraping_web | Navegador: portada https://www.bcrp.gob.pe/ -> HTTP 200
-2026-11-08 02:10:49,164 | INFO | 02_scraping_web | Navegador (petición): HTTP 200 | 1049 bytes | Excel=False
-2026-11-08 02:12:19,242 | WARNING | 02_scraping_web | Navegador (descarga) falló: Timeout 90000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-
-2026-11-08 02:12:21,341 | ERROR | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: El navegador automatizado tampoco obtuvo el Excel
-2026-11-08 02:29:36,859 | INFO | 02_scraping_web | ======================================================================
-2026-11-08 02:29:36,861 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
-2026-11-08 02:29:37,475 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
-2026-11-08 02:29:39,476 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
-2026-11-08 02:29:40,544 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
-2026-11-08 02:29:42,961 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
-2026-11-08 02:29:42,961 | INFO | 02_scraping_web |    serie PD38041AM: Índice de venta respecto al mes anterior
-2026-11-08 02:29:42,961 | INFO | 02_scraping_web |    serie PD38042AM: Índice de inventarios respecto al mes anterior
-2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
-2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38044AM: Índice de la situación actual del negocio
-2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38045AM: Índice de expectativas de la economía a 3 meses
-2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38046AM: Índice de expectativas del sector a 3 meses
-2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD38047AM: Índice de expectativas de la demanda a 3 meses
-2026-11-08 02:29:42,962 | INFO | 02_scraping_web |    serie PD37981AM: Índice de expectativas de la economía a 12 meses
-2026-11-08 02:29:42,963 | INFO | 02_scraping_web |    serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
-2026-11-08 02:29:42,963 | INFO | 02_scraping_web |    serie PD39752AM: Índice de expectativas del sector a 12 meses
-2026-11-08 02:29:43,354 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1157 bytes (intento 1)
-2026-11-08 02:29:45,368 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa la descarga Excel de BCRPData
-2026-11-08 02:29:46,311 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95240 bytes (intento 1)
-2026-11-08 02:29:48,882 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
-2026-11-08 02:29:49,235 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD38045AM/xls/2000-1/2025-12 -> HTTP 200 | application/vnd.ms-excel | 25794 bytes (intento 1)
-2026-11-08 02:29:51,354 | WARNING | 02_scraping_web | PD38045AM: no se pudo leer el Excel (Workbook corruption: seen[2] == 4)
-2026-11-08 02:29:51,355 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | Excel (xls): 0 periodos
-2026-11-08 02:29:52,124 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81642 bytes (intento 1)
-2026-11-08 02:29:54,748 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
-2026-11-08 02:29:55,099 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD37981AM/xls/2000-1/2025-12 -> HTTP 200 | application/vnd.ms-excel | 22210 bytes (intento 1)
-2026-11-08 02:29:57,111 | WARNING | 02_scraping_web | PD37981AM: no se pudo leer el Excel (Workbook corruption: seen[2] == 4)
-2026-11-08 02:29:57,112 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | Excel (xls): 0 periodos
-2026-11-08 02:29:57,879 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94842 bytes (intento 1)
-2026-11-08 02:30:00,477 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
-2026-11-08 02:30:00,820 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD38046AM/xls/2000-1/2025-12 -> HTTP 200 | application/vnd.ms-excel | 25794 bytes (intento 1)
-2026-11-08 02:30:02,833 | WARNING | 02_scraping_web | PD38046AM: no se pudo leer el Excel (Workbook corruption: seen[2] == 4)
-2026-11-08 02:30:02,833 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | Excel (xls): 0 periodos
-2026-11-08 02:30:02,872 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
-2026-11-08 02:30:02,883 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
-2026-11-08 02:30:02,883 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
-2026-11-08 02:30:02,884 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
-2026-11-08 02:30:02,884 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
-2026-11-08 02:47:38,817 | INFO | 02_scraping_web | ======================================================================
-2026-11-08 02:47:38,819 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
-2026-11-08 02:47:39,616 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 952 bytes (intento 1)
-2026-11-08 02:47:41,617 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
-2026-11-08 02:47:42,681 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40056 bytes (intento 1)
-2026-11-08 02:47:44,905 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
-2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38041AM: Índice de venta respecto al mes anterior
-2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38042AM: Índice de inventarios respecto al mes anterior
-2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
-2026-11-08 02:47:44,906 | INFO | 02_scraping_web |     serie PD38044AM: Índice de la situación actual del negocio
-2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD38045AM: Índice de expectativas de la economía a 3 meses
-2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD38046AM: Índice de expectativas del sector a 3 meses
-2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD38047AM: Índice de expectativas de la demanda a 3 meses
-2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD37981AM: Índice de expectativas de la economía a 12 meses
-2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
-2026-11-08 02:47:44,907 | INFO | 02_scraping_web |     serie PD39752AM: Índice de expectativas del sector a 12 meses
-2026-11-08 02:47:45,527 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
-2026-11-08 02:47:47,529 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
-2026-11-08 02:47:47,559 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1168 bytes (intento 1)
-2026-11-08 02:47:49,573 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa el scraping de las tablas HTML de BCRPData
-2026-11-08 02:47:50,323 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95239 bytes (intento 1)
-2026-11-08 02:47:52,912 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
-2026-11-08 02:47:53,683 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81642 bytes (intento 1)
-2026-11-08 02:47:56,019 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
-2026-11-08 02:47:56,792 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94842 bytes (intento 1)
-2026-11-08 02:47:59,816 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
-2026-11-08 02:47:59,857 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
-2026-11-08 02:47:59,862 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
-2026-11-08 02:47:59,863 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
-2026-11-08 02:47:59,864 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
-2026-11-08 02:47:59,864 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
-2026-11-25 03:30:28,846 | INFO | 02_scraping_web | ======================================================================
-2026-11-25 03:30:29,212 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
-2026-11-25 03:30:29,769 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 404 | text/html; charset=UTF-8 | 951 bytes (intento 1)
-2026-11-25 03:30:31,769 | INFO | 02_scraping_web | https://estadisticas.bcrp.gob.pe no publica robots.txt (HTTP 404): no declara restricciones
-2026-11-25 03:30:32,683 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40057 bytes (intento 1)
-2026-11-25 03:30:34,943 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
-2026-11-25 03:30:34,943 | INFO | 02_scraping_web |     serie PD38041AM: Índice de venta respecto al mes anterior
-2026-11-25 03:30:34,943 | INFO | 02_scraping_web |     serie PD38042AM: Índice de inventarios respecto al mes anterior
-2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
-2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38044AM: Índice de la situación actual del negocio
-2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38045AM: Índice de expectativas de la economía a 3 meses
-2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38046AM: Índice de expectativas del sector a 3 meses
-2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD38047AM: Índice de expectativas de la demanda a 3 meses
-2026-11-25 03:30:34,944 | INFO | 02_scraping_web |     serie PD37981AM: Índice de expectativas de la economía a 12 meses
-2026-11-25 03:30:34,945 | INFO | 02_scraping_web |     serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
-2026-11-25 03:30:34,945 | INFO | 02_scraping_web |     serie PD39752AM: Índice de expectativas del sector a 12 meses
-2026-11-25 03:30:35,371 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
-2026-11-25 03:30:37,376 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
-2026-11-25 03:30:37,409 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1161 bytes (intento 1)
-2026-11-25 03:30:39,699 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa el scraping de las tablas HTML de BCRPData
-2026-11-25 03:30:40,360 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95238 bytes (intento 1)
-2026-11-25 03:30:43,023 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
-2026-11-25 03:30:43,668 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81641 bytes (intento 1)
-2026-11-25 03:30:46,053 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
-2026-11-25 03:30:46,738 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94842 bytes (intento 1)
-2026-11-25 03:30:49,839 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
-2026-11-25 03:30:49,889 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
-2026-11-25 03:30:49,903 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
-2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
-2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
-2026-11-25 03:30:49,904 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
-2026-11-25 04:00:17,429 | INFO | 03_limpieza_datos | ======================================================================
-2026-11-25 04:00:17,430 | INFO | 03_limpieza_datos | Inicio limpieza | pandas 2.2.3 | numpy 2.4.6 | muestra 2000-01 a 2025-12
-2026-11-25 04:00:17,565 | INFO | 03_limpieza_datos | Vía 1 leída: 7 series | Vía 2 leída: 3 series
-2026-11-25 04:00:17,601 | INFO | 03_limpieza_datos | Denton inversión: 104 trimestres -> 312 meses | error máximo al reagregar = 1.46e-11 | mínimo mensual = 2,203.3
-2026-11-25 04:00:17,610 | INFO | 03_limpieza_datos | Faltantes antes de imputar | inv_priv_real: 0 de 312
-2026-11-25 04:00:17,611 | INFO | 03_limpieza_datos | Faltantes antes de imputar | pbi_idx: 0 de 312
-2026-11-25 04:00:17,611 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tasa_corp: 127 de 312
-2026-11-25 04:00:17,613 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tc: 0 de 312
-2026-11-25 04:00:17,613 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tot: 0 de 312
-2026-11-25 04:00:17,614 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tasa_interb: 0 de 312
-2026-11-25 04:00:17,614 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tamn: 0 de 312
-2026-11-25 04:00:17,615 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_3m: 27 de 312
-2026-11-25 04:00:17,615 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_12m: 101 de 312
-2026-11-25 04:00:17,615 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_sector_3m: 29 de 312
-2026-11-25 04:00:17,641 | INFO | 03_limpieza_datos | Retropolación tasa_corp = 0.838 + -0.014*TAMN + 1.051*interbancaria | R2 = 0.962 | n = 185 | meses imputados = 127 | rango imputado = [1.62, 17.32]
-2026-11-25 04:00:17,651 | INFO | 03_limpieza_datos | exp_eco_3m: primer dato publicado 2002-04; 27 meses previos completados con ese valor
-2026-11-25 04:00:17,669 | INFO | 03_limpieza_datos | Atípicos marcados en inv_priv_real: 9
-2026-11-25 04:00:17,673 | INFO | 03_limpieza_datos | Atípicos marcados en pbi_idx: 15
-2026-11-25 04:00:17,675 | INFO | 03_limpieza_datos | Atípicos marcados en tasa_corp: 21
-2026-11-25 04:00:17,677 | INFO | 03_limpieza_datos | Atípicos marcados en tc: 2
-2026-11-25 04:00:17,680 | INFO | 03_limpieza_datos | Atípicos marcados en tot: 1
-2026-11-25 04:00:17,682 | INFO | 03_limpieza_datos | Atípicos marcados en exp_eco_3m: 7
-2026-11-25 04:00:17,717 | INFO | 03_limpieza_datos | Guardado datos_procesados_2024200530J.csv: 312 filas x 23 columnas (incluye fecha)
-2026-11-25 04:00:17,736 | INFO | 03_limpieza_datos | Guardado datos_trimestrales_2024200530J.csv: 104 trimestres x 10 columnas
-2026-11-25 04:00:17,758 | INFO | 03_limpieza_datos | Guardado datos_largos_2024200530J.csv: 2366 filas
-2026-11-25 04:00:17,758 | INFO | 03_limpieza_datos | Tamaño: 312 periodos mensuales >= 60 y 2366 observaciones en formato largo >= 1000: CUMPLE
-2026-11-25 04:00:17,761 | INFO | 03_limpieza_datos | SHA-256 de datos_procesados_2024200530J.csv: e515cc6bcbd96da2ec2b79bcaabc740341c5293cba61de003446fce350d002fd
-2026-11-25 04:00:17,768 | INFO | 03_limpieza_datos | SHA-256 copiado en README.md
-2026-11-25 04:00:17,768 | INFO | 03_limpieza_datos | Fin de 03_limpieza_datos.py: OK
-2026-11-25 04:10:34,857 | INFO | 03_limpieza_datos | ======================================================================
-2026-11-25 04:10:34,858 | INFO | 03_limpieza_datos | Inicio limpieza | pandas 2.2.3 | numpy 2.4.6 | muestra 2000-01 a 2025-12
-2026-11-25 04:10:35,017 | INFO | 03_limpieza_datos | Vía 1 leída: 7 series | Vía 2 leída: 3 series
-2026-11-25 04:10:35,071 | INFO | 03_limpieza_datos | Denton inversión: 104 trimestres -> 312 meses | error máximo al reagregar = 1.46e-11 | mínimo mensual = 2,203.3
-2026-11-25 04:10:35,078 | INFO | 03_limpieza_datos | Faltantes antes de imputar | inv_priv_real: 0 de 312
-2026-11-25 04:10:35,079 | INFO | 03_limpieza_datos | Faltantes antes de imputar | pbi_idx: 0 de 312
-2026-11-25 04:10:35,079 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tasa_corp: 127 de 312
-2026-11-25 04:10:35,079 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tc: 0 de 312
-2026-11-25 04:10:35,080 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tot: 0 de 312
-2026-11-25 04:10:35,080 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tasa_interb: 0 de 312
-2026-11-25 04:10:35,080 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tamn: 0 de 312
-2026-11-25 04:10:35,081 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_3m: 27 de 312
-2026-11-25 04:10:35,081 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_12m: 101 de 312
-2026-11-25 04:10:35,081 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_sector_3m: 29 de 312
-2026-11-25 04:10:35,088 | INFO | 03_limpieza_datos | Retropolación tasa_corp = 0.838 + -0.014*TAMN + 1.051*interbancaria | R2 = 0.962 | n = 185 | meses imputados = 127 | rango imputado = [1.62, 17.32]
-2026-11-25 04:10:35,090 | INFO | 03_limpieza_datos | exp_eco_3m: primer dato publicado 2002-04; 27 meses previos completados con ese valor
-2026-11-25 04:10:35,102 | INFO | 03_limpieza_datos | Atípicos marcados en inv_priv_real: 9
-2026-11-25 04:10:35,102 | INFO | 03_limpieza_datos | Atípicos marcados en pbi_idx: 15
-2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en tasa_corp: 21
-2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en tc: 2
-2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en tot: 1
-2026-11-25 04:10:35,103 | INFO | 03_limpieza_datos | Atípicos marcados en exp_eco_3m: 7
-2026-11-25 04:10:35,125 | INFO | 03_limpieza_datos | Guardado datos_procesados_2024200530J.csv: 312 filas x 13 columnas (incluye fecha)
-2026-11-25 04:10:35,140 | INFO | 03_limpieza_datos | Guardado datos_trimestrales_2024200530J.csv: 104 trimestres x 10 columnas
-2026-11-25 04:10:35,180 | INFO | 03_limpieza_datos | Guardado datos_largos_2024200530J.csv: 2366 filas
-2026-11-25 04:10:35,181 | INFO | 03_limpieza_datos | Tamaño: 312 periodos mensuales >= 60 y 2366 observaciones en formato largo >= 1000: CUMPLE
-2026-11-25 04:10:35,182 | INFO | 03_limpieza_datos | SHA-256 de datos_procesados_2024200530J.csv: c7b3ed47ff8b60eba43bd3355cbbba3abe626dc50d500ea3f47ca0a174bd470d
-2026-11-25 04:10:35,188 | INFO | 03_limpieza_datos | SHA-256 copiado en README.md
-2026-11-25 04:10:35,189 | INFO | 03_limpieza_datos | Fin de 03_limpieza_datos.py: OK
-2026-11-27 03:43:32,477 | INFO | 04_analisis | ======================================================================
-2026-11-27 03:43:32,728 | INFO | 04_analisis | Inicio análisis | semilla = 0530 | ARDL p<= 12, q<= 6, BIC, caso III, HAC
-2026-11-27 03:43:33,188 | INFO | 04_analisis | Tabla guardada: tabla1_variables
-2026-11-27 03:43:33,232 | INFO | 04_analisis | Tabla guardada: tabla2_descriptivos
-2026-11-27 03:43:33,296 | INFO | 04_analisis | Tabla guardada: tabla3_correlaciones
-2026-11-27 03:43:33,353 | INFO | 04_analisis | VIF: ln PBI=5.95, Tasa corporativa=1.14, ln Tipo de cambio=1.32, Expectativas=1.78, ln Términos de intercambio=5.18
-2026-11-27 03:43:36,198 | INFO | 04_analisis | Figura guardada: figura1_evolucion
-2026-11-27 03:43:37,098 | INFO | 04_analisis | Figura guardada: figura2_inversion_tasa
-2026-11-27 03:43:37,719 | INFO | 04_analisis | Figura guardada: figura3_etapas
-2026-11-27 03:43:37,719 | INFO | 04_analisis | Kruskal-Wallis entre etapas: H = 107.530, p = 0.0000
-2026-11-27 03:43:38,931 | INFO | 04_analisis | Figura guardada: figura4_correlaciones
-2026-11-27 03:43:39,566 | INFO | 04_analisis | Figura guardada: figura5_correlograma
-2026-11-27 03:43:39,566 | INFO | 04_analisis | Correlograma cruzado: máxima correlación en k = 1 meses (r = 0.451)
-2026-11-27 03:43:39,646 | INFO | 04_analisis | Raíz unitaria ln Inversión privada: ADF=0.656 PP=0.753 KPSS=0.010 (niveles) | ZA quiebre 2006-04 | I(1)
-2026-11-27 03:43:39,726 | INFO | 04_analisis | Raíz unitaria ln PBI: ADF=0.359 PP=0.716 KPSS=0.010 (niveles) | ZA quiebre 2019-12 | I(1)
-2026-11-27 03:43:39,813 | INFO | 04_analisis | Raíz unitaria Tasa corporativa: ADF=0.000 PP=0.000 KPSS=0.100 (niveles) | ZA quiebre 2021-10 | I(0)
-2026-11-27 03:43:39,888 | INFO | 04_analisis | Raíz unitaria ln Tipo de cambio: ADF=0.529 PP=0.592 KPSS=0.010 (niveles) | ZA quiebre 2014-07 | I(1)
-2026-11-27 03:43:39,956 | INFO | 04_analisis | Raíz unitaria Expectativas: ADF=0.006 PP=0.009 KPSS=0.010 (niveles) | ZA quiebre 2019-03 | I(0)
-2026-11-27 03:43:40,031 | INFO | 04_analisis | Raíz unitaria ln Términos de intercambio: ADF=0.902 PP=0.930 KPSS=0.010 (niveles) | ZA quiebre 2013-01 | I(1)
-2026-11-27 03:43:40,062 | INFO | 04_analisis | Tabla guardada: tabla4_raiz_unitaria
-2026-11-27 03:43:41,755 | INFO | 04_analisis | ARDL Base 2000-2025: ARDL(11,1) | n = 301 | F bounds = 5.298 | lambda = -0.0332 | ln_pbi=0.5427, tasa=-0.0140, ln_tc=-0.8247, exp=0.0009, ln_ti=1.2962
-2026-11-27 03:43:42,508 | INFO | 04_analisis | ARDL Submuestra 2010-2025: ARDL(11,1) | n = 174 | F bounds = 3.566 | lambda = -0.0411 | ln_pbi=-0.4459, tasa=0.0010, ln_tc=0.4363, exp=0.0109, ln_ti=0.9693
-2026-11-27 03:43:42,539 | INFO | 04_analisis | DOLS: ln_pbi=1.2420, tasa=0.0072, ln_tc=-0.8947, exp=-0.0041, ln_ti=0.3603
-2026-11-27 03:43:42,586 | INFO | 04_analisis | Tabla guardada: tabla5_ardl_ecm
-2026-11-27 03:43:42,959 | INFO | 04_analisis | Figura guardada: figura7_bounds_test
-2026-11-27 03:43:43,334 | INFO | 04_analisis | Figura guardada: figura8_largo_plazo
-2026-11-27 03:43:43,817 | INFO | 04_analisis | Figura guardada: figura9_multiplicadores
-2026-11-27 03:43:44,553 | INFO | 04_analisis | Figura guardada: figura10_cusum
-2026-11-27 03:43:44,554 | INFO | 04_analisis | Estabilidad: CUSUM dentro de bandas = True | CUSUMSQ dentro de bandas = False
-2026-11-27 03:43:44,587 | INFO | 04_analisis | H1: la tasa reduce la inversión: RECHAZADA (β = -0.0140, p = 0.4248)
-2026-11-27 03:43:44,588 | INFO | 04_analisis | H2: la depreciación reduce la inversión: ACEPTADA (β = -0.8247, p = 0.0000)
-2026-11-27 03:43:44,588 | INFO | 04_analisis | H3: las expectativas aumentan y anticipan la inversión: RECHAZADA (β = 0.0009, p = 0.8618; Granger p = 0.0113)
-2026-11-27 03:43:44,588 | INFO | 04_analisis | H4: existe equilibrio de largo plazo: ACEPTADA (F = 5.30; λ = -0.033)
-2026-11-27 03:43:44,616 | INFO | 04_analisis | Tabla guardada: tabla6_granger_diagnostico_hipotesis
-2026-11-27 03:43:45,557 | INFO | 04_analisis | Figura guardada: figura6_van_proyecto
-2026-11-27 03:43:45,559 | INFO | 04_analisis | VAN proyecto representativo: mín = -474 (2001-06), máx = 47,996 (2021-04); meses con VAN < 0: 2; TIR = 17.09 %; correlación VAN vs crecimiento de la inversión = 0.143
-2026-11-27 03:43:45,559 | INFO | 04_analisis | Fin de 04_analisis.py: OK (6 tablas y 10 figuras en /salidas)
-2026-11-27 16:36:05,864 | INFO | 04_analisis | ======================================================================
-2026-11-27 16:36:06,280 | INFO | 04_analisis | Inicio análisis | semilla = 0530 | ARDL p<= 12, q<= 6, BIC, caso III, HAC
-2026-11-27 16:36:09,397 | INFO | 04_analisis | Tabla guardada: tabla1_variables (.csv, .tex, .pdf, .png)
-2026-11-27 16:36:10,948 | INFO | 04_analisis | Tabla guardada: tabla2_descriptivos (.csv, .tex, .pdf, .png)
-2026-11-27 16:36:11,824 | INFO | 04_analisis | Tabla guardada: tabla3_correlaciones (.csv, .tex, .pdf, .png)
-2026-11-27 16:36:11,858 | INFO | 04_analisis | VIF: ln PBI=5.95, Tasa corporativa=1.14, ln Tipo de cambio=1.32, Expectativas=1.78, ln Términos de intercambio=5.18
-2026-11-27 16:36:15,231 | INFO | 04_analisis | Figura guardada: figura1_evolucion
-2026-11-27 16:36:16,732 | INFO | 04_analisis | Figura guardada: figura1b_mapa_evolucion
-2026-11-27 16:36:19,110 | INFO | 04_analisis | Figura guardada: figura2_inversion_tasa
-2026-11-27 16:36:20,159 | INFO | 04_analisis | Figura guardada: figura3_etapas
-2026-11-27 16:36:20,159 | INFO | 04_analisis | Kruskal-Wallis entre etapas: H = 107.530, p = 0.0000
-2026-11-27 16:36:21,549 | INFO | 04_analisis | Figura guardada: figura4_correlaciones
-2026-11-27 16:36:22,376 | INFO | 04_analisis | Figura guardada: figura5_correlograma
-2026-11-27 16:36:22,376 | INFO | 04_analisis | Correlograma cruzado: máxima correlación en k = 1 meses (r = 0.451)
-2026-11-27 16:36:22,425 | INFO | 04_analisis | Raíz unitaria ln Inversión privada: ADF=0.656 PP=0.753 KPSS=0.010 (niveles) | ZA quiebre 2006-04 | I(1)
-2026-11-27 16:36:22,477 | INFO | 04_analisis | Raíz unitaria ln PBI: ADF=0.359 PP=0.716 KPSS=0.010 (niveles) | ZA quiebre 2019-12 | I(1)
-2026-11-27 16:36:22,536 | INFO | 04_analisis | Raíz unitaria Tasa corporativa: ADF=0.000 PP=0.000 KPSS=0.100 (niveles) | ZA quiebre 2021-10 | I(0)
-2026-11-27 16:36:22,579 | INFO | 04_analisis | Raíz unitaria ln Tipo de cambio: ADF=0.529 PP=0.592 KPSS=0.010 (niveles) | ZA quiebre 2014-07 | I(1)
-2026-11-27 16:36:22,623 | INFO | 04_analisis | Raíz unitaria Expectativas: ADF=0.006 PP=0.009 KPSS=0.010 (niveles) | ZA quiebre 2019-03 | I(0)
-2026-11-27 16:36:22,666 | INFO | 04_analisis | Raíz unitaria ln Términos de intercambio: ADF=0.902 PP=0.930 KPSS=0.010 (niveles) | ZA quiebre 2013-01 | I(1)
-2026-11-27 16:36:23,618 | INFO | 04_analisis | Tabla guardada: tabla4_raiz_unitaria (.csv, .tex, .pdf, .png)
-2026-11-27 16:36:25,609 | INFO | 04_analisis | ARDL Base 2000-2025: ARDL(11,1) | n = 301 | F bounds = 5.298 | lambda = -0.0332 | ln_pbi=0.5427, tasa=-0.0140, ln_tc=-0.8247, exp=0.0009, ln_ti=1.2962
-2026-11-27 16:36:27,383 | INFO | 04_analisis | ARDL Submuestra 2010-2025: ARDL(11,1) | n = 174 | F bounds = 3.566 | lambda = -0.0411 | ln_pbi=-0.4459, tasa=0.0010, ln_tc=0.4363, exp=0.0109, ln_ti=0.9693
-2026-11-27 16:36:27,438 | INFO | 04_analisis | DOLS: ln_pbi=1.2420, tasa=0.0072, ln_tc=-0.8947, exp=-0.0041, ln_ti=0.3603
-2026-11-27 16:36:28,805 | INFO | 04_analisis | Tabla guardada: tabla5_ardl_ecm (.csv, .tex, .pdf, .png)
-2026-11-27 16:36:29,414 | INFO | 04_analisis | Figura guardada: figura7_bounds_test
-2026-11-27 16:36:30,214 | INFO | 04_analisis | Figura guardada: figura8_largo_plazo
-2026-11-27 16:36:32,077 | INFO | 04_analisis | Figura guardada: figura9_multiplicadores
-2026-11-27 16:36:33,339 | INFO | 04_analisis | Figura guardada: figura10_cusum
-2026-11-27 16:36:33,340 | INFO | 04_analisis | Estabilidad: CUSUM dentro de bandas = True | CUSUMSQ dentro de bandas = False
-2026-11-27 16:36:33,369 | INFO | 04_analisis | H1: la tasa reduce la inversión: RECHAZADA (β = -0.0140, p = 0.4248)
-2026-11-27 16:36:33,369 | INFO | 04_analisis | H2: la depreciación reduce la inversión: ACEPTADA (β = -0.8247, p = 0.0000)
-2026-11-27 16:36:33,370 | INFO | 04_analisis | H3: las expectativas aumentan y anticipan la inversión: RECHAZADA (β = 0.0009, p = 0.8618; Granger p = 0.0113)
-2026-11-27 16:36:33,370 | INFO | 04_analisis | H4: existe equilibrio de largo plazo: ACEPTADA (F = 5.30; λ = -0.033)
-2026-11-27 16:36:34,489 | INFO | 04_analisis | Tabla guardada: tabla6_granger_diagnostico_hipotesis (.csv, .tex, .pdf, .png)
-2026-11-27 16:36:36,976 | INFO | 04_analisis | Figura guardada: figura6_van_proyecto
-2026-11-27 16:36:36,978 | INFO | 04_analisis | VAN proyecto representativo: mín = -474 (2001-06), máx = 47,996 (2021-04); meses con VAN < 0: 2; TIR = 17.09 %; correlación VAN vs crecimiento de la inversión = 0.143
-2026-11-27 16:36:36,978 | INFO | 04_analisis | Fin de 04_analisis.py: OK (6 tablas y 11 figuras en /salidas)
+2026-11-27 17:20:25,710 | INFO | 01_extraccion_api | ======================================================================
+2026-11-27 17:20:25,711 | INFO | 01_extraccion_api | Inicio | Python 3.13.18 | requests 2.32.4 | pandas 2.2.3
+2026-11-27 17:20:25,712 | INFO | 01_extraccion_api | Parámetros: FECHA_INICIO=2000-01 FECHA_CORTE=2025-12 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
+2026-11-27 17:20:28,210 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN02533AQ/json/2000-1/2025-4/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:28,210 | INFO | 01_extraccion_api | Se ignoraron 5378 caracteres añadidos después del JSON
+2026-11-27 17:20:28,703 | INFO | 01_extraccion_api | trimestral PN02533AQ: 104 registros recibidos
+2026-11-27 17:20:30,005 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01770AM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:30,008 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-27 17:20:30,579 | INFO | 01_extraccion_api | mensual PN01770AM: 312 registros recibidos
+2026-11-27 17:20:31,878 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07809NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:31,879 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-27 17:20:32,361 | INFO | 01_extraccion_api | mensual PN07809NM: 185 registros recibidos
+2026-11-27 17:20:33,672 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01206PM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:33,673 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-27 17:20:34,485 | INFO | 01_extraccion_api | mensual PN01206PM: 312 registros recibidos
+2026-11-27 17:20:35,788 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN38923BM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:35,789 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-27 17:20:36,311 | INFO | 01_extraccion_api | mensual PN38923BM: 312 registros recibidos
+2026-11-27 17:20:37,608 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07819NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:37,609 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-27 17:20:38,815 | INFO | 01_extraccion_api | mensual PN07819NM: 312 registros recibidos
+2026-11-27 17:20:40,107 | INFO | 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07807NM/json/2000-1/2025-12/esp -> HTTP 200 (intento 1)
+2026-11-27 17:20:40,107 | INFO | 01_extraccion_api | Se ignoraron 5379 caracteres añadidos después del JSON
+2026-11-27 17:20:40,588 | INFO | 01_extraccion_api | mensual PN07807NM: 312 registros recibidos
+2026-11-27 17:20:41,889 | INFO | 01_extraccion_api | Guardado datos_crudos_api_2024200530J.csv: 1849 filas x 5 columnas
+2026-11-27 17:20:41,911 | INFO | 01_extraccion_api | Resumen PN02533AQ -> inv_priv_real (trimestral) | BCRP: 'Producto bruto interno por tipo de gasto (millones S/ 2007) - Demanda Interna - Inversión Bruta Interna - Inversión Bruta Fija - Privada' | 104 periodos, 104 con dato, desde T1.00 hasta T4.25
+2026-11-27 17:20:41,912 | INFO | 01_extraccion_api | Resumen PN01770AM -> pbi_idx (mensual) | BCRP: 'Producto bruto interno y demanda interna (índice 2007 = 100) - PBI' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-27 17:20:41,913 | INFO | 01_extraccion_api | Resumen PN07809NM -> tasa_corp (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - Preferencial Corporativa a 90 días' | 185 periodos, 185 con dato, desde Ago.2010 hasta Dic.2025
+2026-11-27 17:20:41,914 | INFO | 01_extraccion_api | Resumen PN01206PM -> tc (mensual) | BCRP: 'Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-27 17:20:41,915 | INFO | 01_extraccion_api | Resumen PN38923BM -> tot (mensual) | BCRP: 'Términos de intercambio de comercio exterior (índice 2007 = 100) - Términos de Intercambio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-27 17:20:41,916 | INFO | 01_extraccion_api | Resumen PN07819NM -> aux_tasa_interb (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Tasa Interbancaria Promedio' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-27 17:20:41,917 | INFO | 01_extraccion_api | Resumen PN07807NM -> aux_tamn (mensual) | BCRP: 'Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN' | 312 periodos, 312 con dato, desde Ene.2000 hasta Dic.2025
+2026-11-27 17:20:41,917 | INFO | 01_extraccion_api | Fin de 01_extraccion_api.py: OK
+2026-11-27 17:20:43,494 | INFO | 02_scraping_web | ======================================================================
+2026-11-27 17:20:43,495 | INFO | 02_scraping_web | Inicio Vía 2 | requests 2.32.4 | pandas 2.2.3 | User-Agent: Proyecto-academico-UNCP-Finanzas-I
+2026-11-27 17:20:43,926 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/robots.txt -> HTTP 577 | text/html; charset=UTF-8 | 401 bytes (intento 1)
+2026-11-27 17:20:47,929 | WARNING | 02_scraping_web | robots.txt de https://estadisticas.bcrp.gob.pe no disponible; se procede con solicitudes pausadas e identificadas
+2026-11-27 17:20:48,758 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m -> HTTP 200 | text/html; charset=UTF-8 | 40057 bytes (intento 1)
+2026-11-27 17:20:51,174 | INFO | 02_scraping_web | Scraping: 10 series y 4 enlaces .xlsx en la página
+2026-11-27 17:20:51,175 | INFO | 02_scraping_web |     serie PD38041AM: Índice de venta respecto al mes anterior
+2026-11-27 17:20:51,175 | INFO | 02_scraping_web |     serie PD38042AM: Índice de inventarios respecto al mes anterior
+2026-11-27 17:20:51,175 | INFO | 02_scraping_web |     serie PD38043AM: Índice de órdenes de compra respecto al mes anterior
+2026-11-27 17:20:51,176 | INFO | 02_scraping_web |     serie PD38044AM: Índice de la situación actual del negocio
+2026-11-27 17:20:51,176 | INFO | 02_scraping_web |     serie PD38045AM: Índice de expectativas de la economía a 3 meses
+2026-11-27 17:20:51,176 | INFO | 02_scraping_web |     serie PD38046AM: Índice de expectativas del sector a 3 meses
+2026-11-27 17:20:51,176 | INFO | 02_scraping_web |     serie PD38047AM: Índice de expectativas de la demanda a 3 meses
+2026-11-27 17:20:51,176 | INFO | 02_scraping_web |     serie PD37981AM: Índice de expectativas de la economía a 12 meses
+2026-11-27 17:20:51,176 | INFO | 02_scraping_web |     serie PD39751AM: Índice de expectativas de demanda por sus productos a 12 meses
+2026-11-27 17:20:51,177 | INFO | 02_scraping_web |     serie PD39752AM: Índice de expectativas del sector a 12 meses
+2026-11-27 17:20:51,770 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/robots.txt -> HTTP 200 | text/plain; charset=UTF-8 | 793 bytes (intento 1)
+2026-11-27 17:20:53,775 | INFO | 02_scraping_web | robots.txt de https://www.bcrp.gob.pe: acceso a /docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> PERMITIDO
+2026-11-27 17:20:53,809 | INFO | 02_scraping_web | GET https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx -> HTTP 200 | text/html | 1158 bytes (intento 1)
+2026-11-27 17:20:56,357 | WARNING | 02_scraping_web | Incidencia registrada en incidencias_fuente.md: www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa el scraping de las tablas HTML de BCRPData
+2026-11-27 17:20:56,900 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38045AM/html -> HTTP 200 | text/html; charset=UTF-8 | 95239 bytes (intento 1)
+2026-11-27 17:20:59,668 | INFO | 02_scraping_web | PD38045AM (exp_eco_3m) | tabla HTML: 295 periodos
+2026-11-27 17:21:00,119 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD37981AM/html -> HTTP 200 | text/html; charset=UTF-8 | 81642 bytes (intento 1)
+2026-11-27 17:21:02,838 | INFO | 02_scraping_web | PD37981AM (exp_eco_12m) | tabla HTML: 221 periodos
+2026-11-27 17:21:03,283 | INFO | 02_scraping_web | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PD38046AM/html -> HTTP 200 | text/html; charset=UTF-8 | 94841 bytes (intento 1)
+2026-11-27 17:21:05,970 | INFO | 02_scraping_web | PD38046AM (exp_sector_3m) | tabla HTML: 293 periodos
+2026-11-27 17:21:06,242 | INFO | 02_scraping_web | Guardado datos_crudos_scraping_2024200530J.csv: 809 filas x 6 columnas
+2026-11-27 17:21:06,244 | INFO | 02_scraping_web | Resumen PD38045AM -> exp_eco_3m | 295 periodos, desde Abr02 hasta Oct26
+2026-11-27 17:21:06,245 | INFO | 02_scraping_web | Resumen PD37981AM -> exp_eco_12m | 221 periodos, desde Jun08 hasta Oct26
+2026-11-27 17:21:06,245 | INFO | 02_scraping_web | Resumen PD38046AM -> exp_sector_3m | 293 periodos, desde Jun02 hasta Oct26
+2026-11-27 17:21:06,246 | INFO | 02_scraping_web | Fin de 02_scraping_web.py: OK
+2026-11-27 17:21:07,341 | INFO | 03_limpieza_datos | ======================================================================
+2026-11-27 17:21:07,342 | INFO | 03_limpieza_datos | Inicio limpieza | pandas 2.2.3 | numpy 2.4.6 | muestra 2000-01 a 2025-12
+2026-11-27 17:21:07,466 | INFO | 03_limpieza_datos | Vía 1 leída: 7 series | Vía 2 leída: 3 series
+2026-11-27 17:21:07,500 | INFO | 03_limpieza_datos | Denton inversión: 104 trimestres -> 312 meses | error máximo al reagregar = 1.46e-11 | mínimo mensual = 2,203.3
+2026-11-27 17:21:07,508 | INFO | 03_limpieza_datos | Faltantes antes de imputar | inv_priv_real: 0 de 312
+2026-11-27 17:21:07,508 | INFO | 03_limpieza_datos | Faltantes antes de imputar | pbi_idx: 0 de 312
+2026-11-27 17:21:07,509 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tasa_corp: 127 de 312
+2026-11-27 17:21:07,509 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tc: 0 de 312
+2026-11-27 17:21:07,509 | INFO | 03_limpieza_datos | Faltantes antes de imputar | tot: 0 de 312
+2026-11-27 17:21:07,510 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tasa_interb: 0 de 312
+2026-11-27 17:21:07,510 | INFO | 03_limpieza_datos | Faltantes antes de imputar | aux_tamn: 0 de 312
+2026-11-27 17:21:07,510 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_3m: 27 de 312
+2026-11-27 17:21:07,511 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_eco_12m: 101 de 312
+2026-11-27 17:21:07,511 | INFO | 03_limpieza_datos | Faltantes antes de imputar | exp_sector_3m: 29 de 312
+2026-11-27 17:21:07,532 | INFO | 03_limpieza_datos | Retropolación tasa_corp = 0.838 + -0.014*TAMN + 1.051*interbancaria | R2 = 0.962 | n = 185 | meses imputados = 127 | rango imputado = [1.62, 17.32]
+2026-11-27 17:21:07,537 | INFO | 03_limpieza_datos | exp_eco_3m: primer dato publicado 2002-04; 27 meses previos completados con ese valor
+2026-11-27 17:21:07,551 | INFO | 03_limpieza_datos | Atípicos marcados en inv_priv_real: 9
+2026-11-27 17:21:07,551 | INFO | 03_limpieza_datos | Atípicos marcados en pbi_idx: 15
+2026-11-27 17:21:07,552 | INFO | 03_limpieza_datos | Atípicos marcados en tasa_corp: 21
+2026-11-27 17:21:07,552 | INFO | 03_limpieza_datos | Atípicos marcados en tc: 2
+2026-11-27 17:21:07,552 | INFO | 03_limpieza_datos | Atípicos marcados en tot: 1
+2026-11-27 17:21:07,552 | INFO | 03_limpieza_datos | Atípicos marcados en exp_eco_3m: 7
+2026-11-27 17:21:07,775 | INFO | 03_limpieza_datos | Guardado datos_procesados_2024200530J.csv: 312 filas x 13 columnas (incluye fecha)
+2026-11-27 17:21:08,034 | INFO | 03_limpieza_datos | Guardado datos_trimestrales_2024200530J.csv: 104 trimestres x 10 columnas
+2026-11-27 17:21:08,286 | INFO | 03_limpieza_datos | Guardado datos_largos_2024200530J.csv: 2366 filas
+2026-11-27 17:21:08,286 | INFO | 03_limpieza_datos | Tamaño: 312 periodos mensuales >= 60 y 2366 observaciones en formato largo >= 1000: CUMPLE
+2026-11-27 17:21:08,289 | INFO | 03_limpieza_datos | SHA-256 de datos_procesados_2024200530J.csv: 05b9a6f057a082e1ab8f23ee69bebd5a4400637778ea864bfd8ffbd7e52d22d0
+2026-11-27 17:21:08,541 | INFO | 03_limpieza_datos | SHA-256 copiado en README.md
+2026-11-27 17:21:08,542 | INFO | 03_limpieza_datos | Fin de 03_limpieza_datos.py: OK
+2026-11-27 17:21:16,626 | INFO | 04_analisis | ======================================================================
+2026-11-27 17:21:16,628 | INFO | 04_analisis | Inicio análisis | semilla = 0530 | ARDL p<= 12, q<= 6, BIC, caso III, HAC
+2026-11-27 17:21:19,902 | INFO | 04_analisis | Tabla guardada: tabla1_variables (.csv, .tex, .pdf, .png)
+2026-11-27 17:21:22,346 | INFO | 04_analisis | Tabla guardada: tabla2_descriptivos (.csv, .tex, .pdf, .png)
+2026-11-27 17:21:24,238 | INFO | 04_analisis | Tabla guardada: tabla3_correlaciones (.csv, .tex, .pdf, .png)
+2026-11-27 17:21:24,255 | INFO | 04_analisis | VIF: ln PBI=5.95, Tasa corporativa=1.14, ln Tipo de cambio=1.32, Expectativas=1.78, ln Términos de intercambio=5.18
+2026-11-27 17:21:28,508 | INFO | 04_analisis | Figura guardada: figura1_evolucion
+2026-11-27 17:21:31,187 | INFO | 04_analisis | Figura guardada: figura1b_mapa_evolucion
+2026-11-27 17:21:34,073 | INFO | 04_analisis | Figura guardada: figura2_inversion_tasa
+2026-11-27 17:21:35,678 | INFO | 04_analisis | Figura guardada: figura3_etapas
+2026-11-27 17:21:35,679 | INFO | 04_analisis | Kruskal-Wallis entre etapas: H = 107.530, p = 0.0000
+2026-11-27 17:21:37,619 | INFO | 04_analisis | Figura guardada: figura4_correlaciones
+2026-11-27 17:21:38,944 | INFO | 04_analisis | Figura guardada: figura5_correlograma
+2026-11-27 17:21:38,945 | INFO | 04_analisis | Correlograma cruzado: máxima correlación en k = 1 meses (r = 0.451)
+2026-11-27 17:21:38,993 | INFO | 04_analisis | Raíz unitaria ln Inversión privada: ADF=0.656 PP=0.753 KPSS=0.010 (niveles) | ZA quiebre 2006-04 | I(1)
+2026-11-27 17:21:39,044 | INFO | 04_analisis | Raíz unitaria ln PBI: ADF=0.359 PP=0.715 KPSS=0.010 (niveles) | ZA quiebre 2019-12 | I(1)
+2026-11-27 17:21:39,089 | INFO | 04_analisis | Raíz unitaria Tasa corporativa: ADF=0.000 PP=0.000 KPSS=0.100 (niveles) | ZA quiebre 2021-10 | I(0)
+2026-11-27 17:21:39,132 | INFO | 04_analisis | Raíz unitaria ln Tipo de cambio: ADF=0.529 PP=0.592 KPSS=0.010 (niveles) | ZA quiebre 2014-07 | I(1)
+2026-11-27 17:21:39,173 | INFO | 04_analisis | Raíz unitaria Expectativas: ADF=0.006 PP=0.009 KPSS=0.010 (niveles) | ZA quiebre 2019-03 | I(0)
+2026-11-27 17:21:39,220 | INFO | 04_analisis | Raíz unitaria ln Términos de intercambio: ADF=0.902 PP=0.930 KPSS=0.010 (niveles) | ZA quiebre 2013-01 | I(1)
+2026-11-27 17:21:40,855 | INFO | 04_analisis | Tabla guardada: tabla4_raiz_unitaria (.csv, .tex, .pdf, .png)
+2026-11-27 17:21:42,900 | INFO | 04_analisis | ARDL Base 2000-2025: ARDL(11,1) | n = 301 | F bounds = 5.302 | lambda = -0.0333 | ln_pbi=0.5452, tasa=-0.0139, ln_tc=-0.8246, exp=0.0008, ln_ti=1.2929
+2026-11-27 17:21:44,291 | INFO | 04_analisis | ARDL Submuestra 2010-2025: ARDL(11,1) | n = 174 | F bounds = 3.571 | lambda = -0.0413 | ln_pbi=-0.4290, tasa=0.0010, ln_tc=0.4224, exp=0.0108, ln_ti=0.9677
+2026-11-27 17:21:44,359 | INFO | 04_analisis | DOLS: ln_pbi=1.2419, tasa=0.0072, ln_tc=-0.8948, exp=-0.0041, ln_ti=0.3603
+2026-11-27 17:21:46,513 | INFO | 04_analisis | Tabla guardada: tabla5_ardl_ecm (.csv, .tex, .pdf, .png)
+2026-11-27 17:21:47,738 | INFO | 04_analisis | Figura guardada: figura7_bounds_test
+2026-11-27 17:21:48,972 | INFO | 04_analisis | Figura guardada: figura8_largo_plazo
+2026-11-27 17:21:51,357 | INFO | 04_analisis | Figura guardada: figura9_multiplicadores
+2026-11-27 17:21:53,161 | INFO | 04_analisis | Figura guardada: figura10_cusum
+2026-11-27 17:21:53,161 | INFO | 04_analisis | Estabilidad: CUSUM dentro de bandas = True | CUSUMSQ dentro de bandas = False
+2026-11-27 17:21:53,186 | INFO | 04_analisis | H1: la tasa reduce la inversión: RECHAZADA (β = -0.0139, p = 0.4254)
+2026-11-27 17:21:53,188 | INFO | 04_analisis | H2: la depreciación reduce la inversión: ACEPTADA (β = -0.8246, p = 0.0000)
+2026-11-27 17:21:53,189 | INFO | 04_analisis | H3: las expectativas aumentan y anticipan la inversión: RECHAZADA (β = 0.0008, p = 0.8647; Granger p = 0.0113)
+2026-11-27 17:21:53,190 | INFO | 04_analisis | H4: existe equilibrio de largo plazo: ACEPTADA (F = 5.30; λ = -0.033)
+2026-11-27 17:21:55,232 | INFO | 04_analisis | Tabla guardada: tabla6_granger_diagnostico_hipotesis (.csv, .tex, .pdf, .png)
+2026-11-27 17:21:59,376 | INFO | 04_analisis | Figura guardada: figura6_van_proyecto
+2026-11-27 17:21:59,378 | INFO | 04_analisis | VAN proyecto representativo: mín = -474 (2001-06), máx = 47,996 (2021-04); meses con VAN < 0: 2; TIR = 17.09 %; correlación VAN vs crecimiento de la inversión = 0.143
+2026-11-27 17:21:59,378 | INFO | 04_analisis | Fin de 04_analisis.py: OK (6 tablas y 11 figuras en /salidas)

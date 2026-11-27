@@ -21,3 +21,5 @@
 | Intentos descartados | (1) navegador automatizado Playwright: tampoco obtuvo el Excel; (2) descarga `/api/.../xls` de BCRPData: descartada porque usa la misma API de la Vía 1 |
 | Solución definitiva | Web scraping (BeautifulSoup) de las tablas HTML de BCRPData con las mismas series de la Encuesta: PD38045AM, PD37981AM y PD38046AM. Cumple el numeral 2.4.3 (rastreo de HTML con selectores y pausas) |
 | Captura de pantalla | `2 DESARROLLO .../captura_bloqueo_xlsx.png` |
+| 2026-11-27 17:09:52 | https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/expectativas-empresariales-m | 403 | text/html | No se pudo descargar la página de la Encuesta |
+| 2026-11-27 17:20:56 | https://www.bcrp.gob.pe/docs/Estadisticas/Encuestas/expectativas-series-de-indices.xlsx | 200 | text/html | www.bcrp.gob.pe responde con verificación anti-bot (JavaScript) en vez del XLSX; se usa el scraping de las tablas HTML de BCRPData |

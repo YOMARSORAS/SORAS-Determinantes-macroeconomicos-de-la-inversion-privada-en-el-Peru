@@ -3,11 +3,11 @@ A. Granger (6 rezagos),Expectativas → Inversión,F = 2.811,0.0113,Sí la antic
 A. Granger (6 rezagos),Tasa corporativa → Inversión,F = 0.330,0.9208,No la anticipa
 A. Granger (6 rezagos),ln Tipo de cambio → Inversión,F = 2.070,0.0567,No la anticipa
 B. Diagnóstico de residuos,Breusch-Godfrey (12): autocorrelación,3.608,0.0001,Problema (se usan errores HAC)
-B. Diagnóstico de residuos,Breusch-Pagan: heterocedasticidad,156.445,0.0000,Problema (se usan errores HAC)
-B. Diagnóstico de residuos,Jarque-Bera: normalidad,2217.559,0.0000,Problema (se usan errores HAC)
-B. Diagnóstico de residuos,RESET de Ramsey: forma funcional,0.000,0.9976,Bien especificado
+B. Diagnóstico de residuos,Breusch-Pagan: heterocedasticidad,156.402,0.0000,Problema (se usan errores HAC)
+B. Diagnóstico de residuos,Jarque-Bera: normalidad,2219.369,0.0000,Problema (se usan errores HAC)
+B. Diagnóstico de residuos,RESET de Ramsey: forma funcional,0.000,0.9935,Bien especificado
 B. Diagnóstico de residuos,CUSUM / CUSUMSQ,,,Estable / Inestable
-C. Contraste de hipótesis,H1: la tasa reduce la inversión,"β = -0.0140, p = 0.4248",,RECHAZADA
-C. Contraste de hipótesis,H2: la depreciación reduce la inversión,"β = -0.8247, p = 0.0000",,ACEPTADA
-C. Contraste de hipótesis,H3: las expectativas aumentan y anticipan la inversión,"β = 0.0009, p = 0.8618; Granger p = 0.0113",,RECHAZADA
+C. Contraste de hipótesis,H1: la tasa reduce la inversión,"β = -0.0139, p = 0.4254",,RECHAZADA
+C. Contraste de hipótesis,H2: la depreciación reduce la inversión,"β = -0.8246, p = 0.0000",,ACEPTADA
+C. Contraste de hipótesis,H3: las expectativas aumentan y anticipan la inversión,"β = 0.0008, p = 0.8647; Granger p = 0.0113",,RECHAZADA
 C. Contraste de hipótesis,H4: existe equilibrio de largo plazo,F = 5.30; λ = -0.033,,ACEPTADA

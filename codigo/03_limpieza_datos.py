@@ -1,7 +1,7 @@
 # Nombres y apellidos: YOMAR CRISTHIAN SORAS QUISPE
 # Código de matrícula: 2024200530J
 # Tema N.º 56 del temario: Métodos de evaluación de inversiones — Determinantes macroeconómicos de la inversión privada en el Perú
-# Fecha de extracción: 2026-11-07 (Vía 1) y 2026-11-24 (Vía 2)
+# Fecha de extracción: 2026-11-27
 """
 03_limpieza_datos.py — Limpieza, armonización de frecuencias e integración de las dos vías.
 
