@@ -294,3 +294,41 @@ waiting for event "download"
 2026-11-27 03:43:45,557 | INFO | 04_analisis | Figura guardada: figura6_van_proyecto
 2026-11-27 03:43:45,559 | INFO | 04_analisis | VAN proyecto representativo: mín = -474 (2001-06), máx = 47,996 (2021-04); meses con VAN < 0: 2; TIR = 17.09 %; correlación VAN vs crecimiento de la inversión = 0.143
 2026-11-27 03:43:45,559 | INFO | 04_analisis | Fin de 04_analisis.py: OK (6 tablas y 10 figuras en /salidas)
+2026-11-27 16:36:05,864 | INFO | 04_analisis | ======================================================================
+2026-11-27 16:36:06,280 | INFO | 04_analisis | Inicio análisis | semilla = 0530 | ARDL p<= 12, q<= 6, BIC, caso III, HAC
+2026-11-27 16:36:09,397 | INFO | 04_analisis | Tabla guardada: tabla1_variables (.csv, .tex, .pdf, .png)
+2026-11-27 16:36:10,948 | INFO | 04_analisis | Tabla guardada: tabla2_descriptivos (.csv, .tex, .pdf, .png)
+2026-11-27 16:36:11,824 | INFO | 04_analisis | Tabla guardada: tabla3_correlaciones (.csv, .tex, .pdf, .png)
+2026-11-27 16:36:11,858 | INFO | 04_analisis | VIF: ln PBI=5.95, Tasa corporativa=1.14, ln Tipo de cambio=1.32, Expectativas=1.78, ln Términos de intercambio=5.18
+2026-11-27 16:36:15,231 | INFO | 04_analisis | Figura guardada: figura1_evolucion
+2026-11-27 16:36:16,732 | INFO | 04_analisis | Figura guardada: figura1b_mapa_evolucion
+2026-11-27 16:36:19,110 | INFO | 04_analisis | Figura guardada: figura2_inversion_tasa
+2026-11-27 16:36:20,159 | INFO | 04_analisis | Figura guardada: figura3_etapas
+2026-11-27 16:36:20,159 | INFO | 04_analisis | Kruskal-Wallis entre etapas: H = 107.530, p = 0.0000
+2026-11-27 16:36:21,549 | INFO | 04_analisis | Figura guardada: figura4_correlaciones
+2026-11-27 16:36:22,376 | INFO | 04_analisis | Figura guardada: figura5_correlograma
+2026-11-27 16:36:22,376 | INFO | 04_analisis | Correlograma cruzado: máxima correlación en k = 1 meses (r = 0.451)
+2026-11-27 16:36:22,425 | INFO | 04_analisis | Raíz unitaria ln Inversión privada: ADF=0.656 PP=0.753 KPSS=0.010 (niveles) | ZA quiebre 2006-04 | I(1)
+2026-11-27 16:36:22,477 | INFO | 04_analisis | Raíz unitaria ln PBI: ADF=0.359 PP=0.716 KPSS=0.010 (niveles) | ZA quiebre 2019-12 | I(1)
+2026-11-27 16:36:22,536 | INFO | 04_analisis | Raíz unitaria Tasa corporativa: ADF=0.000 PP=0.000 KPSS=0.100 (niveles) | ZA quiebre 2021-10 | I(0)
+2026-11-27 16:36:22,579 | INFO | 04_analisis | Raíz unitaria ln Tipo de cambio: ADF=0.529 PP=0.592 KPSS=0.010 (niveles) | ZA quiebre 2014-07 | I(1)
+2026-11-27 16:36:22,623 | INFO | 04_analisis | Raíz unitaria Expectativas: ADF=0.006 PP=0.009 KPSS=0.010 (niveles) | ZA quiebre 2019-03 | I(0)
+2026-11-27 16:36:22,666 | INFO | 04_analisis | Raíz unitaria ln Términos de intercambio: ADF=0.902 PP=0.930 KPSS=0.010 (niveles) | ZA quiebre 2013-01 | I(1)
+2026-11-27 16:36:23,618 | INFO | 04_analisis | Tabla guardada: tabla4_raiz_unitaria (.csv, .tex, .pdf, .png)
+2026-11-27 16:36:25,609 | INFO | 04_analisis | ARDL Base 2000-2025: ARDL(11,1) | n = 301 | F bounds = 5.298 | lambda = -0.0332 | ln_pbi=0.5427, tasa=-0.0140, ln_tc=-0.8247, exp=0.0009, ln_ti=1.2962
+2026-11-27 16:36:27,383 | INFO | 04_analisis | ARDL Submuestra 2010-2025: ARDL(11,1) | n = 174 | F bounds = 3.566 | lambda = -0.0411 | ln_pbi=-0.4459, tasa=0.0010, ln_tc=0.4363, exp=0.0109, ln_ti=0.9693
+2026-11-27 16:36:27,438 | INFO | 04_analisis | DOLS: ln_pbi=1.2420, tasa=0.0072, ln_tc=-0.8947, exp=-0.0041, ln_ti=0.3603
+2026-11-27 16:36:28,805 | INFO | 04_analisis | Tabla guardada: tabla5_ardl_ecm (.csv, .tex, .pdf, .png)
+2026-11-27 16:36:29,414 | INFO | 04_analisis | Figura guardada: figura7_bounds_test
+2026-11-27 16:36:30,214 | INFO | 04_analisis | Figura guardada: figura8_largo_plazo
+2026-11-27 16:36:32,077 | INFO | 04_analisis | Figura guardada: figura9_multiplicadores
+2026-11-27 16:36:33,339 | INFO | 04_analisis | Figura guardada: figura10_cusum
+2026-11-27 16:36:33,340 | INFO | 04_analisis | Estabilidad: CUSUM dentro de bandas = True | CUSUMSQ dentro de bandas = False
+2026-11-27 16:36:33,369 | INFO | 04_analisis | H1: la tasa reduce la inversión: RECHAZADA (β = -0.0140, p = 0.4248)
+2026-11-27 16:36:33,369 | INFO | 04_analisis | H2: la depreciación reduce la inversión: ACEPTADA (β = -0.8247, p = 0.0000)
+2026-11-27 16:36:33,370 | INFO | 04_analisis | H3: las expectativas aumentan y anticipan la inversión: RECHAZADA (β = 0.0009, p = 0.8618; Granger p = 0.0113)
+2026-11-27 16:36:33,370 | INFO | 04_analisis | H4: existe equilibrio de largo plazo: ACEPTADA (F = 5.30; λ = -0.033)
+2026-11-27 16:36:34,489 | INFO | 04_analisis | Tabla guardada: tabla6_granger_diagnostico_hipotesis (.csv, .tex, .pdf, .png)
+2026-11-27 16:36:36,976 | INFO | 04_analisis | Figura guardada: figura6_van_proyecto
+2026-11-27 16:36:36,978 | INFO | 04_analisis | VAN proyecto representativo: mín = -474 (2001-06), máx = 47,996 (2021-04); meses con VAN < 0: 2; TIR = 17.09 %; correlación VAN vs crecimiento de la inversión = 0.143
+2026-11-27 16:36:36,978 | INFO | 04_analisis | Fin de 04_analisis.py: OK (6 tablas y 11 figuras en /salidas)
